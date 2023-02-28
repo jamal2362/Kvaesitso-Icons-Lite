@@ -33,7 +33,7 @@ Or join the [Telegram Group](https://t.me/KvaesitsoIcons).
 
 ## Adding icons
 
-Please see the [Contributing guide.md](CONTRIBUTING.md) for information on adding icons.
+Please see the [Contributing guide](CONTRIBUTING.md) for information on adding icons.
 
 ## Translate
 
