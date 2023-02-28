@@ -149,6 +149,7 @@
     <icon drawable="@drawable/binance" package="com.binance.dev" name="Binance" />
     <icon drawable="@drawable/binary_eye" package="de.markusfisch.android.binaryeye" name="Binary Eye" />
     <icon drawable="@drawable/binauralbeats" package="com.github.axet.binauralbeats" name="Binaural Beats" />
+    <icon drawable="@drawable/bing" package="com.microsoft.bing" name="Bing" />
     <icon drawable="@drawable/birday" package="com.minar.birday" name="Birday" />
     <icon drawable="@drawable/birdnet" package="de.tu_chemnitz.mi.kahst.birdnet" name="BirdNET" />
     <icon drawable="@drawable/bitmoji" package="com.bitstrips.imoji" name="Bitmoji" />
@@ -545,6 +546,7 @@
     <icon drawable="@drawable/eufy_clean" package="com.eufylife.smarthome" name="eufy Clean" />
     <icon drawable="@drawable/eventim" package="de.eventim.mobile.app.Android" name="EVENTIM" />
     <icon drawable="@drawable/every_proxy" package="com.gorillasoftware.everyproxy" name="Every Proxy" />
+    <icon drawable="@drawable/evoland" package="air.com.shirogames.evoland12" name="Evoland" />
     <icon drawable="@drawable/exodusprivacy" package="org.eu.exodus_privacy.exodusprivacy" name="Exodus" />
     <icon drawable="@drawable/exteragram" package="com.exteragram.messenger" name="exteraGram" />
     <icon drawable="@drawable/f411" package="marlon.mobilefor_4411" name="4411" />
