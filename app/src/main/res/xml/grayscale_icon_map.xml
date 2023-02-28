@@ -104,6 +104,7 @@
     <icon drawable="@drawable/authpass" package="design.codeux.authpass.fdroid" name="AuthPass" />
     <icon drawable="@drawable/authy" package="com.authy.authy" name="Authy" />
     <icon drawable="@drawable/autodoc" package="de.autodoc.gmbh" name="Autodoc" />
+    <icon drawable="@drawable/autosync" package="com.ttxapps.drivesync" name="Autosync for Google Drive" />
     <icon drawable="@drawable/auxio" package="org.oxycblt.auxio" name="Auxio" />
     <icon drawable="@drawable/aves_gallery" package="deckers.thibault.aves" name="Aves Gallery" />
     <icon drawable="@drawable/aves_gallery" package="deckers.thibault.aves.libre" name="Aves Gallery" />
@@ -412,6 +413,7 @@
     <icon drawable="@drawable/dana" package="id.dana" name="DANA" />
     <icon drawable="@drawable/darq" package="com.kieronquinn.app.darq" name="DarQ" />
     <icon drawable="@drawable/dashlane" package="com.dashlane" name="Dashlane" />
+    <icon drawable="@drawable/dashlane_authenticator" package="com.dashlane.authenticator" name="Dashlane Authenticator" />
     <icon drawable="@drawable/data_monitor" package="com.drnoob.datamonitor" name="Data Monitor" />
     <icon drawable="@drawable/dateikarten" package="rolandos.karteikarten" name="Karteikarten" />
     <icon drawable="@drawable/datura" package="org.calyxos.datura" name="Firewall" />
@@ -507,6 +509,7 @@
     <icon drawable="@drawable/droidify" package="com.looker.droidify" name="Droid-ify" />
     <icon drawable="@drawable/droidrec" package="com.yakovlevegor.DroidRec" name="DroidRec" />
     <icon drawable="@drawable/dropbox" package="com.dropbox.android" name="Dropbox" />
+    <icon drawable="@drawable/dropout" package="com.collegehumor.chdropout" name="DROPOUT by CollegeHumor" />
     <icon drawable="@drawable/dropsync" package="com.ttxapps.dropsync" name="Dropsync" />
     <icon drawable="@drawable/drugindex" package="com.medengage.drugindex" name="India Drug Index" />
     <icon drawable="@drawable/ds_krant" package="com.twipemobile.standaard" name="DS Krant" />
@@ -729,6 +732,7 @@
     <icon drawable="@drawable/generic_player" package="com.mxtech.videoplayer.pro" name="Player" />
     <icon drawable="@drawable/genius" package="com.genius.android" name="Genius" />
     <icon drawable="@drawable/genshin_impact" package="com.miHoYo.GenshinImpact" name="Genshin Impact" />
+    <icon drawable="@drawable/geogebra_calculator_suite" package="org.geogebra.android.calculator.suite" name="GeoGebra Calculator Suite" />
     <icon drawable="@drawable/geometric_weather" package="wangdaye.com.geometricweather" name="Geometric Weather" />
     <icon drawable="@drawable/geometry_dash" package="com.robtopx.geometryjump" name="Geometry Dash" />
     <icon drawable="@drawable/gesundakte" package="zollsoft.de.patientapp" name="Gesundakte" />
@@ -1365,6 +1369,7 @@
     <icon drawable="@drawable/pencil" package="com.simplemobiletools.draw" name="Draw" />
     <icon drawable="@drawable/pencil" package="com.simplemobiletools.draw.pro" name="Draw" />
     <icon drawable="@drawable/penta" package="com.getpenta.app" name="Penta" />
+    <icon drawable="@drawable/periodic_table" package="mendeleev.redlime" name="Periodic Table" />
     <icon drawable="@drawable/permissionmanagerx" package="com.mirfatif.permissionmanagerx" name="Permission Manager X" />
     <icon drawable="@drawable/permission_pilot" package="eu.darken.myperm" name="Permission Pilot" />
     <icon drawable="@drawable/personal_safety" package="com.google.android.apps.safetyhub" name="Personal Safety" />
@@ -1794,6 +1799,7 @@
     <icon drawable="@drawable/sync" package="com.laurencedawson.reddit_sync.pro" name="Sync" />
     <icon drawable="@drawable/syncthing" package="com.github.catfriend1.syncthingandroid" name="Syncthing" />
     <icon drawable="@drawable/syncthing" package="com.nutomic.syncthingandroid" name="Syncthing" />
+    <icon drawable="@drawable/sz" package="de.sde.mobile" name="Süddeutsche Zeitung (SZ)" />
     <icon drawable="@drawable/tabletop_tools" package="com.github.muellerma.tabletoptools" name="Tabletop Tools" />
     <icon drawable="@drawable/tachiyomi" package="eu.kanade.tachiyomi" name="Tachiyomi" />
     <icon drawable="@drawable/tachiyomi" package="eu.kanade.tachiyomi.debug" name="Tachiyomi" />
@@ -1938,6 +1944,7 @@
     <icon drawable="@drawable/unfold" package="com.moonlab.unfold" name="UNFOLD" />
     <icon drawable="@drawable/uniciv" package="com.unciv.app" name="Unciv" />
     <icon drawable="@drawable/unidays" package="com.myunidays" name="Unidays" />
+    <icon drawable="@drawable/unit_lab" package="com.samruston.converter" name="Unit Lab" />
     <icon drawable="@drawable/uniwhere" package="lu.gian.uniwhere" name="Uniwhere" />
     <icon drawable="@drawable/universalcopy" package="com.camel.corp.universalcopy" name="Universal Copy" />
     <icon drawable="@drawable/untis_mobile" package="com.grupet.web.app" name="Untis Mobile" />
