@@ -4,13 +4,13 @@ Welcome to the Kvaesitso-Icons contributing guide! This file will tell you  what
 ## Icon guidelines
 See the below image for a summary of the icon guidelines. If you don't follow them, a team member will likely request changing the icons.
 
-![](./contributing-image-1.png)
+![](images/contributing-image-1.png)
 
 The stroke should be kept at 12px for most lines. If 12px is too thick, a stroke of 8px can be applied.
 
 In addition to the above, the icons must have an outlined (not filled) style. If the original icon has a filled style, you should change the icon to adhere to the guidelines as seen below.
 
-![](./contributing-image-2.png)
+![](images/contributing-image-2.png)
 
 ## Adding an icon to Kvaesitso-Icons 
 Here’s how to add an icon to&nbsp; Kvaesitso-Icons:
@@ -21,7 +21,7 @@ Here’s how to add an icon to&nbsp; Kvaesitso-Icons:
 
 1. Using Android Studio, convert the SVG to an XML drawable, and add the XML drawable to the `app/src/main/res/drawable` directory. Use snake case for the drawable name (e.g. `youtube_music`). You can keep all settings at their&nbsp;defaults.
 
-    ![](./contributing-image-3.png) ![](./contributing-image-4.png)
+    ![](images/contributing-image-3.png) ![](images/contributing-image-4.png)
 
 1. Add a new line to `app/src/main/res/xml/grayscale_icon_map.xml` (in alphabetical order), and map the new icon to a package name and app name. For&nbsp;example:
 

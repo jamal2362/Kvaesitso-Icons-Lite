@@ -27,13 +27,13 @@ This addon is now the source of all themed icons, for simplicity.
 Go to the [Actions](https://github.com/daywalk3r666/lawnicons/actions/workflows/build_release_apk.yml) tab,
 click the first workflow run, and scroll and find the `Kvaesitso Icons`.
 
-Note that you'll need to have a GitHub account to download the Kvaesitso Icons file.
+**Note that you'll need to have a GitHub account to download the Kvaesitso Icons apk.**
 
 Or join the [Telegram Group](https://t.me/KvaesitsoIcons).
 
 ## Adding icons
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for info on adding icons.
+Please see the [Contributing guide.md](CONTRIBUTING.md) for information on adding icons.
 
 ## Translate
 
