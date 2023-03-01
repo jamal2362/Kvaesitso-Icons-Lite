@@ -48,6 +48,7 @@
     <icon drawable="@drawable/amdroid" package="com.amdroidalarmclock.amdroid" name="AMdroid" />
     <icon drawable="@drawable/amoled_in" package="in.amoled.darkawallpapers" name="Amoled.in" />
     <icon drawable="@drawable/among_us" package="com.innersloth.spacemafia" name="Among Us" />
+    <icon drawable="@drawable/ampere" package="com.gombosdev.ampere" name="Ampere" />
     <icon drawable="@drawable/android_auto" package="com.google.android.projection.gearhead" name="Android Auto" />
     <icon drawable="@drawable/androtainer" package="com.dokeraj.androtainer" name="AndroTainer" />
     <icon drawable="@drawable/anemo" package="exe.bbllw8.anemo" name="Anemo" />
@@ -556,8 +557,6 @@
     <icon drawable="@drawable/fairemail" package="eu.faircode.email" name="FairEmail" />
     <icon drawable="@drawable/fallzahlen_aktuell" package="com.kokoschka.michael.casestoday" name="Fallzahlen Aktuell" />
     <icon drawable="@drawable/familygem" package="app.familygem" name="Family Gem" />
-    <icon drawable="@drawable/familylink" package="com.google.android.apps.kids.familylink" name="Family Link" />
-    <icon drawable="@drawable/familylink" package="com.google.android.apps.kids.familylinkhelper" name="Family Link" />
     <icon drawable="@drawable/familypark" package="com.intermaps.familypark" name="Family Park" />
     <icon drawable="@drawable/fandom" package="com.fandom.app" name="FANDOM" />
     <icon drawable="@drawable/fastmail" package="com.fastmail.app" name="Fastmail" />
@@ -776,6 +775,8 @@
     <icon drawable="@drawable/google_drive" package="com.google.android.apps.docs" name="Google Drive" />
     <icon drawable="@drawable/google_duo" package="com.google.android.apps.tachyon" name="Google Duo" />
     <icon drawable="@drawable/google_earth" package="com.google.earth" name="Google Earth" />
+    <icon drawable="@drawable/google_family_link" package="com.google.android.apps.kids.familylink" name="Family Link" />
+    <icon drawable="@drawable/google_family_link" package="com.google.android.apps.kids.familylinkhelper" name="Family Link" />
     <icon drawable="@drawable/google_fi" package="com.google.android.apps.tycho" name="Google Fi" />
     <icon drawable="@drawable/google_fit" package="com.google.android.apps.fitness" name="Google Fit" />
     <icon drawable="@drawable/google_health_connect" package="com.google.android.apps.healthdata" name="Google Health Connect" />
@@ -846,6 +847,7 @@
     <icon drawable="@drawable/hema" package="nl.hema.mobiel" name="HEMA" />
     <icon drawable="@drawable/hepsiburada" package="com.pozitron.hepsiburada" name="Hepsiburada" />
     <icon drawable="@drawable/hex_installer" package="project.vivid.hex.bodhi" name="Hex Installer" />
+    <icon drawable="@drawable/heymelody" package="com.heytap.headset" name="HeyMelody" />
     <icon drawable="@drawable/hiby_music" package="com.hiby.music" name="Hiby Music" />
     <icon drawable="@drawable/hijri_calendar" package="com.kodelokus.hijri" name="Hijri Calendar" />
     <icon drawable="@drawable/hinge" package="co.hinge.app" name="Hinge" />
@@ -874,6 +876,7 @@
     <icon drawable="@drawable/idfc" package="com.idfcfirstbank.optimus" name="IDFC FIRST" />
     <icon drawable="@drawable/idm" package="idm.internet.download.manager" name="1dm" />
     <icon drawable="@drawable/idm_plus" package="idm.internet.download.manager.plus" name="1dm+" />
+    <icon drawable="@drawable/ifttt" package="com.ifttt.ifttt" name="IFTTT" />
     <icon drawable="@drawable/ikea_home_smart" package="com.ikea.inter.homesmart.system2" name="IKEA Home smart" />
     <icon drawable="@drawable/iko" package="pl.pkobp.iko" name="IKO" />
     <icon drawable="@drawable/ilpost" package="it.ilpost.app" name="Il Post" />
@@ -986,6 +989,7 @@
     <icon drawable="@drawable/kotatsu" package="org.koitharu.kotatsu" name="Kotatsu" />
     <icon drawable="@drawable/krita" package="org.krita" name="Krita" />
     <icon drawable="@drawable/kucoin" package="com.kubi.kucoin" name="Kucoin" />
+    <icon drawable="@drawable/kuroba_ex" package="com.github.k1rakishou.chan.fdroid" name="KurobaEx" />
     <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.alpha" name="Kvaesitso" />
     <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.beta" name="Kvaesitso" />
     <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.debug" name="Kvaesitso" />
@@ -1007,6 +1011,7 @@
     <icon drawable="@drawable/leaflet" package="com.potatoproject.notes" name="Leaflet" />
     <icon drawable="@drawable/leboncoin" package="fr.leboncoin" name="Leboncoin" />
     <icon drawable="@drawable/lemuroid" package="com.swordfish.lemuroid" name="Lemuroid" />
+    <icon drawable="@drawable/lens_distortions" package="com.lensdistortions.ld" name="LD" />
     <icon drawable="@drawable/leo" package="org.leo.android.dict" name="Leo" />
     <icon drawable="@drawable/lesspass" package="com.lesspass.android" name="LessPass" />
     <icon drawable="@drawable/letterboxd" package="com.letterboxd.letterboxd" name="Letterboxd" />
@@ -1378,6 +1383,8 @@
     <icon drawable="@drawable/permission_pilot" package="eu.darken.myperm" name="Permission Pilot" />
     <icon drawable="@drawable/personal_safety" package="com.google.android.apps.safetyhub" name="Personal Safety" />
     <icon drawable="@drawable/phonepe" package="com.phonepe.app" name="PhonePe" />
+    <icon drawable="@drawable/phonograph" package="com.kabouzeid.gramophone" name="Phonograph" />
+    <icon drawable="@drawable/phonograph" package="player.phonograph.plus" name="Phonograph" />
     <icon drawable="@drawable/photo_compare" package="com.vincentengelsoftware.vesandroidimagecompare" name="VES - Image and Photo Compare" />
     <icon drawable="@drawable/photo_editor" package="com.adobe.adobephotoshopfix" name="Photo Editor" />
     <icon drawable="@drawable/photo_editor" package="com.adobe.photoshopmix" name="Photo Editor" />
@@ -1649,6 +1656,7 @@
     <icon drawable="@drawable/session" package="network.loki.messenger.fdroid" name="Session" />
     <icon drawable="@drawable/settings" package="com.android.settings" name="Settings" />
     <icon drawable="@drawable/sgk" package="ru.sibgenco.general" name="SGK" />
+    <icon drawable="@drawable/shareit" package="com.lenovo.anyshare.gps" name="SHAREit" />
     <icon drawable="@drawable/share_me" package="com.xiaomi.midrop" name="ShareMe" />
     <icon drawable="@drawable/shazam" package="com.shazam.android" name="Shazam" />
     <icon drawable="@drawable/shelly" package="allterco.bg.shelly" name="Shelly" />
@@ -1772,6 +1780,7 @@
     <icon drawable="@drawable/stn" package="de.TORR.StN" name="StN News" />
     <icon drawable="@drawable/stocard" package="de.stocard.stocard" name="Stocard" />
     <icon drawable="@drawable/stock_ticker" package="com.github.premnirmal.tickerwidget" name="Stock Widget" />
+    <icon drawable="@drawable/stokie" package="com.harry.stokie" name="STOKiE" />
     <icon drawable="@drawable/storage_analyzer" package="com.mobile_infographics_tools.mydrive" name="Storage Analyzer" />
     <icon drawable="@drawable/strava" package="com.strava" name="Strava" />
     <icon drawable="@drawable/streetcomplete" package="de.westnordost.streetcomplete" name="StreetComplete" />
@@ -2064,6 +2073,7 @@
     <icon drawable="@drawable/xda" package="com.xda.labs" name="XDA" />
     <icon drawable="@drawable/xda" package="com.xda.labs.play" name="XDA" />
     <icon drawable="@drawable/xmanager" package="com.xc3fff0e.xmanager" name="xManager" />
+    <icon drawable="@drawable/xplore_file_manager" package="com.lonelycatgames.Xplore" name="X-plore" />
     <icon drawable="@drawable/xodo_pdf" package="com.xodo.pdf.reader" name="Xodo PDF Reader &amp; Editor" />
     <icon drawable="@drawable/xplayer" package="video.player.videoplayer" name="XPlayer" />
     <icon drawable="@drawable/xstream" package="tv.accedo.airtel.wynk" name="Xstream" />
