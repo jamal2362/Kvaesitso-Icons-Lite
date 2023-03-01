@@ -1300,6 +1300,7 @@
     <icon drawable="@drawable/onedrive" package="com.microsoft.skydrive" name="OneDrive" />
     <icon drawable="@drawable/onepassword" package="com.agilebits.onepassword" name="1Password" />
     <icon drawable="@drawable/one_second_diary" package="com.kylekun.one_second_diary" name="One Second Diary" />
+    <icon drawable="@drawable/oneshot" package="de.ptrlx.oneshot" name="One Shot" />
     <icon drawable="@drawable/only_office" package="com.onlyoffice.documents" name="ONLYOFFICE Documents" />
     <icon drawable="@drawable/onvista" package="de.onvista.ovone" name="onvista" />
     <icon drawable="@drawable/ooniprobe" package="org.openobservatory.ooniprobe" name="OONI Probe" />
@@ -1797,6 +1798,7 @@
     <icon drawable="@drawable/swiftkey" package="com.touchtype.swiftkey.beta" name="SwiftKey" />
     <icon drawable="@drawable/swiggy" package="in.swiggy.android" name="Swiggy" />
     <icon drawable="@drawable/swiss_topo" package="ch.admin.swisstopo" name="Swisstopo" />
+    <icon drawable="@drawable/symphony" package="io.github.zyrouge.symphony" name="Symphony" />
     <icon drawable="@drawable/sync" package="com.laurencedawson.reddit_sync" name="Sync" />
     <icon drawable="@drawable/sync" package="com.laurencedawson.reddit_sync.dev" name="Sync" />
     <icon drawable="@drawable/sync" package="com.laurencedawson.reddit_sync.pro" name="Sync" />
