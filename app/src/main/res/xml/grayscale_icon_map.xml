@@ -1369,7 +1369,6 @@
     <icon drawable="@drawable/paysafecard" package="at.paysafecard.android" name="paysafecard" />
     <icon drawable="@drawable/pay_sphera" package="ru.nskes.paysphera" name="Paysphera" />
     <icon drawable="@drawable/paytm" package="net.one97.paytm" name="Paytm" />
-    <icon drawable="@drawable/pedulilindungi" package="com.telkom.tracencare" name="PeduliLindungi" />
     <icon drawable="@drawable/pencil" package="ch.martinstoeckli.silentnotes" name="Draw" />
     <icon drawable="@drawable/pencil" package="com.simplemobiletools.draw" name="Draw" />
     <icon drawable="@drawable/pencil" package="com.simplemobiletools.draw.pro" name="Draw" />
@@ -1614,6 +1613,7 @@
     <icon drawable="@drawable/satchel_one" package="uk.co.smhw.android" name="SatchelOne" />
     <icon drawable="@drawable/satellite" package="de.sipgate.app.satellite" name="Satellite" />
     <icon drawable="@drawable/satstat" package="com.vonglasow.michael.satstat" name="SatStat" />
+    <icon drawable="@drawable/satusehat" package="com.telkom.tracencare" name="SATUSEHAT" />
     <icon drawable="@drawable/sayboard" package="com.elishaazaria.sayboard" name="Sayboard" />
     <icon drawable="@drawable/sayit" package="com.urbandroid.sayit" name="SayIt" />
     <icon drawable="@drawable/sayit" package="com.urbandroid.sayit.unlock" name="SayIt" />
