@@ -1361,6 +1361,7 @@
     <icon drawable="@drawable/paisa" package="dev.hemanths.paisa" name="Paisa" />
     <icon drawable="@drawable/papara" package="com.mobillium.papara" name="Papara" />
     <icon drawable="@drawable/paperless" package="eu.bauerj.paperless_app" name="Paperless" />
+    <icon drawable="@drawable/parcel_tracker" package="de.orrs.deliveries" name="Lieferungen Sendungsverfolgung" />
     <icon drawable="@drawable/parcels" package="com.brightstripe.parcels" name="Parcels Sendungsverfolgung" />
     <icon drawable="@drawable/parlera" package="com.enjoyingfoss.parlera" name="Parlera" />
     <icon drawable="@drawable/parsec" package="tv.parsec.client" name="Parsec" />

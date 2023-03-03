@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+  <polyline class="a" transform="matrix(3.7983 0 0 4.136 4.8464 -3.395)" points="8.339 23.276 8.339 34.043 23.993 36.984 23.993 13.519" stroke-width="3.0276"/>
+  <polyline class="a" transform="matrix(3.7983 0 0 4.136 4.8464 -3.395)" points="39.562 23.561 39.562 33.855 23.993 36.984" stroke-width="3.0276"/>
+  <path class="a" d="m114.14 87.907 50.846 7.6263a4.4679 4.8652 0 0 0 4.6928-6.7954l-14.566-35.7-59.136-10.869-59.459 11.389-14.157 33.152a4.4683 4.8656 0 0 0 4.3612 6.9071l50.663-3.8341a5.5835 6.0799 0 0 0 4.7098-3.5768l13.883-33.684 13.875 31.961a5.5835 6.0799 0 0 0 4.286 3.4234z" stroke-width="12"/>
+  <line class="a" x1="52.263" x2="63.433" y1="123.43" y2="124.72" stroke-width="12"/>
+ </g>
+</svg>
