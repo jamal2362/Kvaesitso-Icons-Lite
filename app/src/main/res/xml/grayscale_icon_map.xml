@@ -127,6 +127,7 @@
     <icon drawable="@drawable/batchuninstaller" package="com.saha.batchuninstaller" name="Batch Uninstaller" />
     <icon drawable="@drawable/batterybot" package="com.darshancomputing.BatteryIndicator" name="BatteryBot" />
     <icon drawable="@drawable/batterybot" package="com.darshancomputing.BatteryIndicatorPro" name="BatteryBot" />
+    <icon drawable="@drawable/battery_guru" package="com.paget96.batteryguru" name="Battery Guru" />
     <icon drawable="@drawable/batterytool" package="io.github.domi04151309.batterytool" name="Battery Tool" />
     <icon drawable="@drawable/battlenet_authenticator" package="com.blizzard.bma" name="BattleNet Authenticator" />
     <icon drawable="@drawable/bauern" package="de.fcbayern.android" name="FC Bauern" />
@@ -160,6 +161,8 @@
     <icon drawable="@drawable/blackberry_uem" package="com.rim.mobilefusion.client" name="BlackBerry UEM" />
     <icon drawable="@drawable/blackberry_work" package="com.good.gcs" name="BlackBerry Work" />
     <icon drawable="@drawable/blackhole" package="com.shadow.blackhole" name="BlackHole" />
+    <icon drawable="@drawable/blackplayer" package="com.kodarkooperativet.blackplayerex" name="BlackPlayer" />
+    <icon drawable="@drawable/blackplayer" package="com.musicplayer.blackplayerfree" name="BlackPlayer" />
     <icon drawable="@drawable/black_screen" package="io.japp.blackscreen" name="Black Screen" />
     <icon drawable="@drawable/blindmate" package="eu.appiphany.blindmate" name="blindmate" />
     <icon drawable="@drawable/blockinger" package="org.blockinger.game" name="Blockinger" />
@@ -820,6 +823,8 @@
     <icon drawable="@drawable/grapheneos_pdf" package="app.grapheneos.pdfviewer" name="PDF Viewer" />
     <icon drawable="@drawable/grapheneos_pdf" package="app.grapheneos.pdfviewer.play" name="PDF Viewer" />
     <icon drawable="@drawable/graphing_calc" package="org.geogebra.android" name="Graphing Calc" />
+    <icon drawable="@drawable/greenify" package="com.oasisfeng.greenify" name="Greenify" />
+    <icon drawable="@drawable/greenify" package="com.oasisfeng.greenify.pro" name="Greenify" />
     <icon drawable="@drawable/greenstash" package="com.starry.greenstash" name="GreenStash" />
     <icon drawable="@drawable/grill_one" package="ru.geo.ppmobile.grillone" name="Grill 1" />
     <icon drawable="@drawable/grocy" package="xyz.zedler.patrick.grocy" name="Grocy" />
@@ -972,6 +977,7 @@
     <icon drawable="@drawable/kimcy_screen_recorder" package="com.kimcy929.screenrecorder" name="Kimcy Screen Recorder" />
     <icon drawable="@drawable/kindle" package="com.amazon.kindle" name="Amazon Kindle" />
     <icon drawable="@drawable/kindle" package="com.amazon.klite" name="Amazon Kindle" />
+    <icon drawable="@drawable/kinemaster" package="com.nexstreaming.app.kinemasterfree" name="KineMaster" />
     <icon drawable="@drawable/kinopoisk" package="ru.kinopoisk" name="Kinopoisk" />
     <icon drawable="@drawable/kinopoisk" package="ru.kinopoisk.tv" name="Kinopoisk" />
     <icon drawable="@drawable/kiwi_browser" package="com.kiwibrowser.browser" name="Kiwi Browser" />
@@ -1247,6 +1253,7 @@
     <icon drawable="@drawable/niagara_launcher" package="bitpit.launcher" name="Niagara Launcher" />
     <icon drawable="@drawable/nine_dash" package="adriandp.ninedash" name="Nine Dash" />
     <icon drawable="@drawable/ninenine" package="com.taxis99" name="99" />
+    <icon drawable="@drawable/nintendo_switch_online" package="com.nintendo.znca" name="Nintendo Switch Online" />
     <icon drawable="@drawable/noice" package="com.github.ashutoshgngwr.noice" name="Noice" />
     <icon drawable="@drawable/nomad_sculpt" package="com.stephaneginier.nomad" name="Nomad Sculpt" />
     <icon drawable="@drawable/nonogramm_katana" package="com.ucdevs.jcross" name="Nonogramm Katana" />
@@ -1281,6 +1288,7 @@
     <icon drawable="@drawable/odysee" package="com.odysee.floss" name="Odysee" />
     <icon drawable="@drawable/oebb" package="at.oebb.ts" name="ÖBB" />
     <icon drawable="@drawable/office_suite" package="com.mobisystems.office" name="OfficeSuite" />
+    <icon drawable="@drawable/okta_verify" package="com.okta.android.auth" name="Okta Verify" />
     <icon drawable="@drawable/ola_cabs" package="com.olacabs.customer" name="Ola Cabs" />
     <icon drawable="@drawable/ola_cabs" package="com.olacabs.lite" name="Ola Cabs" />
     <icon drawable="@drawable/olx" package="ba.pik.v2.android" name="Olx" />
@@ -1591,6 +1599,7 @@
     <icon drawable="@drawable/riot_mobile" package="com.riotgames.mobile.leagueconnect" name="Riot Mobile" />
     <icon drawable="@drawable/riseup_vpn" package="se.leap.riseupvpn" name="Riseup VPN" />
     <icon drawable="@drawable/roblox" package="com.roblox.client" name="Roblox" />
+    <icon drawable="@drawable/roborock" package="com.roborock.smart" name="Roborock" />
     <icon drawable="@drawable/rock_am_ring" package="com.mlk.rockamring" name="RAR &amp; RIP" />
     <icon drawable="@drawable/rocketbook" package="com.rb.rocketbook" name="Rocketbook" />
     <icon drawable="@drawable/rocket_league" package="com.Psyonix.RL2D" name="Rocket League Sideswipe" />
@@ -1960,6 +1969,7 @@
     <icon drawable="@drawable/unfold" package="com.moonlab.unfold" name="UNFOLD" />
     <icon drawable="@drawable/uniciv" package="com.unciv.app" name="Unciv" />
     <icon drawable="@drawable/unidays" package="com.myunidays" name="Unidays" />
+    <icon drawable="@drawable/unit_converter_ultimate" package="com.physphil.android.unitconverterultimate" name="Unit Converter Ultimate" />
     <icon drawable="@drawable/unit_lab" package="com.samruston.converter" name="Unit Lab" />
     <icon drawable="@drawable/uniwhere" package="lu.gian.uniwhere" name="Uniwhere" />
     <icon drawable="@drawable/universalcopy" package="com.camel.corp.universalcopy" name="Universal Copy" />
@@ -2048,6 +2058,7 @@
     <icon drawable="@drawable/weather" package="net.oneplus.weather" name="Weather" />
     <icon drawable="@drawable/weather" package="org.secuso.privacyfriendlyweather" name="Weather" />
     <icon drawable="@drawable/weawow" package="com.weawow" name="Weawow" />
+    <icon drawable="@drawable/webtoon" package="com.naver.linewebtoon" name="WEBTOON" />
     <icon drawable="@drawable/wechat" package="com.tencent.mm" name="WeChat" />
     <icon drawable="@drawable/werstreamt_es" package="de.wse.werstreamt.es" name="WerStreamt.es?" />
     <icon drawable="@drawable/wetter_online" package="de.wetteronline.wetterapp" name="Wetter Online" />
