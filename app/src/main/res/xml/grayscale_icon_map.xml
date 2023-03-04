@@ -443,6 +443,7 @@
     <icon drawable="@drawable/designer_tools" package="com.scheffsblend.designertools" name="Designer Tools" />
     <icon drawable="@drawable/destiny" package="com.leastauthority.destiny" name="Destiny" />
     <icon drawable="@drawable/de_tijd" package="mobi.inthepocket.mediafin.detijd" name="De Tijd" />
+    <icon drawable="@drawable/deutschland_card" package="de.deutschlandcard.app" name="DeutschlandCard" />
     <icon drawable="@drawable/devcheck" package="flar2.devcheck" name="DevCheck" />
     <icon drawable="@drawable/deviantart" package="com.deviantart.android.damobile" name="DeviantArt" />
     <icon drawable="@drawable/device_info_hw" package="ru.andr7e.deviceinfohw" name="Device Info HW" />
@@ -1386,6 +1387,7 @@
     <icon drawable="@drawable/pencil" package="ch.martinstoeckli.silentnotes" name="Draw" />
     <icon drawable="@drawable/pencil" package="com.simplemobiletools.draw" name="Draw" />
     <icon drawable="@drawable/pencil" package="com.simplemobiletools.draw.pro" name="Draw" />
+    <icon drawable="@drawable/penny" package="de.penny.app" name="Penny" />
     <icon drawable="@drawable/penta" package="com.getpenta.app" name="Penta" />
     <icon drawable="@drawable/periodic_table" package="mendeleev.redlime" name="Periodic Table" />
     <icon drawable="@drawable/permissionmanagerx" package="com.mirfatif.permissionmanagerx" name="Permission Manager X" />
