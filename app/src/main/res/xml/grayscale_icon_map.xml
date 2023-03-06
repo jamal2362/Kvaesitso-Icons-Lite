@@ -1219,6 +1219,7 @@
     <icon drawable="@drawable/myviking" package="com.vikingco.vikingapp.poland" name="My Viking" />
     <icon drawable="@drawable/myxl" package="com.apps.MyXL" name="myXL" />
     <icon drawable="@drawable/n26" package="de.number26.android" name="N26" />
+    <icon drawable="@drawable/native_alpha" package="com.cylonid.nativealpha" name="Native Alpha" />
     <icon drawable="@drawable/naver_dictionary" package="com.nhn.android.naverdic" name="Naver Dictionary" />
     <icon drawable="@drawable/naver_map" package="com.nhn.android.nmap" name="Naver Map" />
     <icon drawable="@drawable/nays" package="com.nextcx.nays" name="Nays" />
