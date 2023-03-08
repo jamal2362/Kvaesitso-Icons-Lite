@@ -1152,6 +1152,7 @@
     <icon drawable="@drawable/minecraft" package="com.mojang.minecraftpe" name="Minecraft" />
     <icon drawable="@drawable/minetest" package="net.minetest.minetest" name="Minetest" />
     <icon drawable="@drawable/miniflutt" package="be.martinelli.miniflutt" name="Miniflutt" />
+    <icon drawable="@drawable/minimaltext" package="de.devmil.minimaltext" name="Minimaliistic Text: Widget" />
     <icon drawable="@drawable/mini_metro" package="nz.co.codepoint.minimetro" name="Mini Metro" />
     <icon drawable="@drawable/minisweeper" package="com.AntonBergaker.minisweeper" name="miniSweeper" />
     <icon drawable="@drawable/mi_remote" package="com.duokan.phone.remotecontroller" name="Mi Remote" />
