@@ -1852,6 +1852,7 @@
     <icon drawable="@drawable/teamviewer" package="com.teamviewer.teamviewer.market.mobile" name="Teamviewer" />
     <icon drawable="@drawable/teehub" package="com.okmarco.teehub" name="TeeHub" />
     <icon drawable="@drawable/tele2" package="nl.tele2.mytele2" name="Mijn Tele2" />
+    <icon drawable="@drawable/telegram" package="com.c3r5b8.telegram_monet" name="Telegram" />
     <icon drawable="@drawable/telegram" package="org.telegram.messenger" name="Telegram" />
     <icon drawable="@drawable/telegram" package="org.telegram.messenger.beta" name="Telegram" />
     <icon drawable="@drawable/telegram" package="org.telegram.messenger.web" name="Telegram" />
