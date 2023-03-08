@@ -1663,6 +1663,8 @@
     <icon drawable="@drawable/securego_plus" package="de.fiduciagad.securego.wl" name="SecureGo plus" />
     <icon drawable="@drawable/seedvault" package="com.stevesoltys.seedvault" name="Backup" />
     <icon drawable="@drawable/sennheiser_smart_control" package="com.sennheiser.control" name="Sennheiser Smart Control" />
+    <icon drawable="@drawable/sensify" package="io.sensify.sensor" name="Sensify" />
+    <icon drawable="@drawable/sensify" package="io.sensify.sensor.foss" name="Sensify" />
     <icon drawable="@drawable/sensor_box" package="imoblife.androidsensorbox" name="Sensor Box" />
     <icon drawable="@drawable/seriesguide" package="com.battlelancer.seriesguide" name="SeriesGuide" />
     <icon drawable="@drawable/sesame" package="ninja.sesame.app.edge" name="Sesame" />
@@ -1839,6 +1841,7 @@
     <icon drawable="@drawable/tapatalk" package="com.quoord.tapatalkpro.activity" name="Tapatalk" />
     <icon drawable="@drawable/tapatalk_pro" package="com.quoord.tapatalkHD" name="Tapatalk Pro" />
     <icon drawable="@drawable/tapo" package="com.tplink.iot" name="Tapo" />
+    <icon drawable="@drawable/taptap_lite" package="com.taptap.global" name="TapTap Lite" />
     <icon drawable="@drawable/taptap" package="com.kieronquinn.app.taptap" name="Tap, Tap" />
     <icon drawable="@drawable/tasker" package="net.dinglisch.android.taskerm" name="Tasker" />
     <icon drawable="@drawable/tasks" package="org.myklos.inote" name="Tasks" />
