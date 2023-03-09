@@ -14,4 +14,7 @@
     <string name="drawable_prefix">Drawable:</string>
     <string name="package_prefix">Paket adı:</string>
     <string name="github_link">GitHub</string>
+    <string name="special_thanks_arctions">Bazı SVGler için.</string>
+    <string name="request_icons_link">Simge İste</string>
+    <string name="special_thanks_source">Kaynak kodlar için.</string>
 </resources>
