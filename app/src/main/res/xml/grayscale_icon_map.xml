@@ -426,6 +426,7 @@
     <icon drawable="@drawable/davx5" package="at.bitfire.davdroid" name="DAVx5" />
     <icon drawable="@drawable/dawn_ai" package="com.bendingspoons.dawn.ai" name="Dawn" />
     <icon drawable="@drawable/dawn_for_reddit" package="me.thanel.dank" name="Dawn For Reddit" />
+    <icon drawable="@drawable/daytimer" package="com.starikov.datecalc" name="Day Counter" />
     <icon drawable="@drawable/dazn" package="com.dazn" name="Dazn" />
     <icon drawable="@drawable/db_navigator" package="com.deutschebahn.app.android" name="DB Navigator" />
     <icon drawable="@drawable/db_navigator" package="de.hafas.android.db" name="DB Navigator" />
@@ -884,6 +885,7 @@
     <icon drawable="@drawable/idm" package="idm.internet.download.manager" name="1dm" />
     <icon drawable="@drawable/idm_plus" package="idm.internet.download.manager.plus" name="1dm+" />
     <icon drawable="@drawable/ifttt" package="com.ifttt.ifttt" name="IFTTT" />
+    <icon drawable="@drawable/iherb" package="com.iherb" name="IHerb" />
     <icon drawable="@drawable/ikea_home_smart" package="com.ikea.inter.homesmart.system2" name="IKEA Home smart" />
     <icon drawable="@drawable/iko" package="pl.pkobp.iko" name="IKO" />
     <icon drawable="@drawable/ilpost" package="it.ilpost.app" name="Il Post" />
@@ -1467,6 +1469,7 @@
     <icon drawable="@drawable/pou" package="me.pou.app" name="Pou" />
     <icon drawable="@drawable/poweramp_equalizer" package="com.maxmpz.equalizer" name="Poweramp Equalizer" />
     <icon drawable="@drawable/powertunnel" package="io.github.krlvm.powertunnel.android" name="PowerTunnel" />
+    <icon drawable="@drawable/ppp" package="sk.henrichg.phoneprofilesplus" name="PhoneProfilesPlus" />
     <icon drawable="@drawable/prepladder" package="com.prepladder.learningapp" name="PrepLadder Learning App" />
     <icon drawable="@drawable/prey" package="com.prey" name="Prey: Find My Phone &amp; Security" />
     <icon drawable="@drawable/printer" package="com.brother.mfc.brprint" name="Printer" />
@@ -1931,6 +1934,7 @@
     <icon drawable="@drawable/traderepublic" package="de.traderepublic.app" name="Trade Republic" />
     <icon drawable="@drawable/tradingview" package="com.tradingview.tradingviewapp" name="TradingView" />
     <icon drawable="@drawable/trail_sense" package="com.kylecorry.trail_sense" name="Trail Sense" />
+    <icon drawable="@drawable/translate_you" package="com.bnyro.translate.nf" name="Translate You" />
     <icon drawable="@drawable/trendyol" package="trendyol.com" name="Trendyol" />
     <icon drawable="@drawable/trenitalia" package="com.lynxspa.prontotreno" name="Trenitalia" />
     <icon drawable="@drawable/tricount" package="com.trilab.tricount.android" name="Tricount" />
@@ -1994,6 +1998,7 @@
     <icon drawable="@drawable/valetudo" package="cloud.valetudo.companion" name="Valetudo Companion" />
     <icon drawable="@drawable/vanced_manager" package="com.vanced.manager" name="Vanced Manager" />
     <icon drawable="@drawable/vanced_youtube_music" package="com.vanced.android.apps.youtube.music" name="Vanced YouTube Music" />
+    <icon drawable="@drawable/vape" package="liquidrechner.thiemo.mathmaster.liquid" name="Base und Liquid Rechner" />
     <icon drawable="@drawable/vector_asset_creator" package="com.inglesdivino.vectorassetcreator" name="Vector Asset Creator" />
     <icon drawable="@drawable/vectorpinball" package="com.dozingcatsoftware.bouncy" name="Vector Pinball" />
     <icon drawable="@drawable/vflat" package="com.voyagerx.scanner" name="vFlat" />
@@ -2013,6 +2018,7 @@
     <icon drawable="@drawable/vlc" package="org.videolan.vlc" name="VLC" />
     <icon drawable="@drawable/vn" package="com.frontrow.vlog" name="VN" />
     <icon drawable="@drawable/voice" package="de.ph1b.audiobook" name="Voice" />
+    <icon drawable="@drawable/voila" package="com.voila.mobile.android" name="Voila" />
     <icon drawable="@drawable/vote_info" package="ch.bk.voteinfo" name="VoteInfo" />
     <icon drawable="@drawable/vrb" package="de.projektionisten.vrb" name="VRB Fahrinfo &amp; Tickets" />
     <icon drawable="@drawable/vr_securego" package="de.fiducia.smartphone.android.securego.vr" name="VR SecureGo" />
@@ -2066,6 +2072,7 @@
     <icon drawable="@drawable/weather" package="co.prestosole.clima" name="Weather" />
     <icon drawable="@drawable/weather" package="net.oneplus.weather" name="Weather" />
     <icon drawable="@drawable/weather" package="org.secuso.privacyfriendlyweather" name="Weather" />
+    <icon drawable="@drawable/weather_network" package="com.pelmorex.WeatherEyeAndroid" name="The Weather Network" />
     <icon drawable="@drawable/weawow" package="com.weawow" name="Weawow" />
     <icon drawable="@drawable/webtoon" package="com.naver.linewebtoon" name="WEBTOON" />
     <icon drawable="@drawable/wechat" package="com.tencent.mm" name="WeChat" />
