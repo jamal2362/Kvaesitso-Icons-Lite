@@ -924,6 +924,7 @@
     <icon drawable="@drawable/itau" package="com.itau" name="Itaú" />
     <icon drawable="@drawable/iti" package="com.itau.iti" name="iti" />
     <icon drawable="@drawable/itsme" package="be.bmid.itsme" name="itsme" />
+    <icon drawable="@drawable/ivpn" package="net.ivpn.client" name="IVPN" />
     <icon drawable="@drawable/ivy_wallet" package="com.ivy.wallet" name="Ivy Wallet" />
     <icon drawable="@drawable/izneo" package="fr.airweb.izneo" name="Izneo" />
     <icon drawable="@drawable/jadrolinija" package="hr.rathmann.mJadrolinija" name="Jadrolinija" />
