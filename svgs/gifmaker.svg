@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12">
+  <path class="a" d="m162 170h-132a8 8 0 0 1-8-8v-132a8 8 0 0 1 8-8h132a8 8 0 0 1 8 8v132a8 8 0 0 1-8 8z"/>
+  <line class="a" x1="100.84" x2="100.84" y1="68.12" y2="123.88"/>
+  <path class="a" d="m83.28 86.8a18.64 18.64 0 0 0-19.64-18.8 19.36 19.36 0 0 0-17.64 20v17.2a18.68 18.68 0 0 0 18.64 18.8 18.64 18.64 0 0 0 18.64-18.68h-18.64"/>
+  <line class="a" x1="118.12" x2="146" y1="68.12" y2="68.12"/>
+  <line class="a" x1="118.12" x2="136.24" y1="96" y2="96"/>
+  <line class="a" x1="118.12" x2="118.12" y1="68.12" y2="123.88"/>
+ </g>
+</svg>

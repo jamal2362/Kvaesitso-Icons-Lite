@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke-width="8">
+   <circle class="a" cx="98" cy="98" r="76"/>
+   <circle class="a" cx="113.37" cy="102.79" r="10.364"/>
+   <circle class="a" cx="61.762" cy="98" r="7.5321"/>
+   <circle class="a" cx="108.1" cy="45.886" r="7.5321"/>
+   <circle class="a" cx="90.468" cy="116.95" r="7.5321"/>
+   <line class="a" x1="113.37" x2="113.37" y1="113.16" y2="171.94"/>
+   <line class="a" x1="100.57" x2="42.7" y1="45.886" y2="45.886"/>
+   <line class="a" x1="33.571" x2="33.571" y1="57.68" y2="137.6"/>
+  </g>
+  <g stroke-width="2.2632">
+   <polyline class="a" transform="matrix(3.5349 0 0 3.5349 13.163 13.163)" points="13.749 21.869 13.749 16.9 34.85 16.9 34.85 5.436"/>
+   <polyline class="a" transform="matrix(3.5349 0 0 3.5349 13.163 13.163)" points="34.85 42.563 34.85 25.356 45.457 25.356"/>
+   <polyline class="a" transform="matrix(3.5349 0 0 3.5349 13.163 13.163)" points="19.738 29.36 13.749 29.36 13.749 42.903"/>
+  </g>
+ </g>
+</svg>

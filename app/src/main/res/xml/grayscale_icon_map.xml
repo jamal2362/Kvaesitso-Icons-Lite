@@ -106,6 +106,7 @@
     <icon drawable="@drawable/authpass" package="design.codeux.authpass.fdroid" name="AuthPass" />
     <icon drawable="@drawable/authy" package="com.authy.authy" name="Authy" />
     <icon drawable="@drawable/autodoc" package="de.autodoc.gmbh" name="Autodoc" />
+    <icon drawable="@drawable/automatag" package="com.fillobotto.mp3tagger" name="Automatic Tag Editor" />
     <icon drawable="@drawable/autosync" package="com.ttxapps.drivesync" name="Autosync for Google Drive" />
     <icon drawable="@drawable/auxio" package="org.oxycblt.auxio" name="Auxio" />
     <icon drawable="@drawable/aves_gallery" package="deckers.thibault.aves" name="Aves Gallery" />
@@ -123,6 +124,7 @@
     <icon drawable="@drawable/bandsintown" package="com.bandsintown" name="Bandsintown" />
     <icon drawable="@drawable/bank_jago" package="com.jago.digitalbanking" name="Jago" />
     <icon drawable="@drawable/barclays" package="com.barclays.android.barclaysmobilebanking" name="Barclay" />
+    <icon drawable="@drawable/barcode_scanner" package="com.atharok.barcodescanner" name="Barcode Scanner" />
     <icon drawable="@drawable/barinsta" package="me.austinhuang.instagrabber" name="Barinsta" />
     <icon drawable="@drawable/barmer" package="de.barmergek.serviceapp" name="BARMER-App" />
     <icon drawable="@drawable/batchuninstaller" package="com.saha.batchuninstaller" name="Batch Uninstaller" />
@@ -588,6 +590,7 @@
     <icon drawable="@drawable/ffupdater" package="de.marmaro.krt.ffupdater" name="FFUpdater" />
     <icon drawable="@drawable/fido" package="com.fidosilutions.myaccount" name="Fido my Account" />
     <icon drawable="@drawable/figma" package="com.figma.mirror" name="Figma" />
+    <icon drawable="@drawable/filen" package="io.filen.app" name="Filen" />
     <icon drawable="@drawable/files" package="com.android.documentsui" name="Files" />
     <icon drawable="@drawable/files" package="com.android.fileexplorer" name="Files" />
     <icon drawable="@drawable/files" package="com.android.filemanager" name="Files" />
@@ -747,6 +750,7 @@
     <icon drawable="@drawable/gesundakte" package="zollsoft.de.patientapp" name="Gesundakte" />
     <icon drawable="@drawable/getapps" package="com.xiaomi.mipicks" name="GetApps" />
     <icon drawable="@drawable/getir" package="com.getir" name="getir" />
+    <icon drawable="@drawable/gifmaker" package="com.media.zatashima.studio" name="GIF Maker" />
     <icon drawable="@drawable/gimme5" package="it.reply.kc.android.gimme5" name="Gimme5" />
     <icon drawable="@drawable/github" package="com.github.android" name="GitHub" />
     <icon drawable="@drawable/gitnex" package="org.mian.gitnex" name="GitNex" />
@@ -855,6 +859,7 @@
     <icon drawable="@drawable/healthmate" package="com.withings.wiscale2" name="HaelthMate" />
     <icon drawable="@drawable/heart" package="com.simplemobiletools.thankyou" name="Thank You" />
     <icon drawable="@drawable/hearthstone" package="com.blizzard.wtcg.hearthstone" name="Hearthstone" />
+    <icon drawable="@drawable/helixfi" package="com.videotron.helixfi" name="Helix Fi" />
     <icon drawable="@drawable/hema" package="nl.hema.mobiel" name="HEMA" />
     <icon drawable="@drawable/hepsiburada" package="com.pozitron.hepsiburada" name="Hepsiburada" />
     <icon drawable="@drawable/hex_installer" package="project.vivid.hex.bodhi" name="Hex Installer" />
@@ -1058,6 +1063,7 @@
     <icon drawable="@drawable/lovense_remote" package="com.lovense.wear" name="Lovense Remote" />
     <icon drawable="@drawable/lsposed" package="org.lsposed.manager" name="LSPosed Manager" />
     <icon drawable="@drawable/lunarsettings" package="rasel.lunar.launcher" name="Lunar Settings" />
+    <icon drawable="@drawable/m4a" package="grant.m4a.to.mp3" name="M4a to Mp3 Converter" />
     <icon drawable="@drawable/magic_arena" package="com.wizards.mtga" name="Magic Arena" />
     <icon drawable="@drawable/magic_companion" package="com.wizards.winter_orb" name="Magic Companion" />
     <icon drawable="@drawable/magic_earth" package="com.generalmagic.magicearth" name="Magic Earth" />
@@ -1151,6 +1157,7 @@
     <icon drawable="@drawable/milanote" package="com.milanote.milanoteApp" name="Milanote" />
     <icon drawable="@drawable/millenicom" package="com.solidict.millenicom" name="Millenicom" />
     <icon drawable="@drawable/mimo" package="com.getmimo" name="Mimo" />
+    <icon drawable="@drawable/mi_music" package="com.herman.ringtone" name="Music" />
     <icon drawable="@drawable/mi_music" package="com.miui.player" name="Music" />
     <icon drawable="@drawable/mi_music" package="com.zionhuang.music" name="Music" />
     <icon drawable="@drawable/mi_music" package="com.zionhuang.music.debug" name="Music" />
@@ -1431,6 +1438,7 @@
     <icon drawable="@drawable/pixeldroid" package="org.pixeldroid.app" name="PixelDroid" />
     <icon drawable="@drawable/pixel_tips" package="com.google.android.apps.tips" name="Pixel Tips" />
     <icon drawable="@drawable/pixel_wallpapers" package="dev.wacko1805.pixel.wallpapers" name="Pixel Walls" />
+    <icon drawable="@drawable/pixolor" package="com.embermitre.pixolor.app" name="Pixolor" />
     <icon drawable="@drawable/pizza_hut" package="bn.com.pizzahut.OSPHB" name="Pizza Hut" />
     <icon drawable="@drawable/pizza_hut" package="com.aggregator.pizzahutmongolia" name="Pizza Hut" />
     <icon drawable="@drawable/pizza_hut" package="com.devsence.pizzahut" name="Pizza Hut" />
@@ -1523,7 +1531,6 @@
     <icon drawable="@drawable/qonqr" package="com.qonqr.android.blue" name="QONQR" />
     <icon drawable="@drawable/qq" package="com.tencent.mobileqq" name="QQ" />
     <icon drawable="@drawable/qr" package="de.t_dankworth.secscanqr" name="SecScanQR" />
-    <icon drawable="@drawable/qr_reader" package="com.atharok.barcodescanner" name="QR Reader" />
     <icon drawable="@drawable/qr_reader" package="com.example.barcodescanner" name="QR Reader" />
     <icon drawable="@drawable/qr_reader" package="com.google.zxing.client.android" name="QR Reader" />
     <icon drawable="@drawable/qr_reader" package="com.secuso.privacyFriendlyCodeScanner" name="QR Reader" />
@@ -1731,7 +1738,9 @@
     <icon drawable="@drawable/sim_toolkit" package="com.android.stk" name="SIM Toolkit" />
     <icon drawable="@drawable/s_invest" package="com.starfinanz.mobile.android.invest" name="S-Invest" />
     <icon drawable="@drawable/sketchbook" package="com.adsk.sketchbook" name="Sketchbook" />
-    <icon drawable="@drawable/skiffpages" package="com.skiffmobileapp" name="Skiff Pages" />
+    <icon drawable="@drawable/skiff_drive" package="com.skiffDriveMobileApp" name="Skiff Drive" />
+    <icon drawable="@drawable/skiff_pages" package="com.skemailmobileapp" name="Skiff Mail" />
+    <icon drawable="@drawable/skiff_pages" package="com.skiffmobileapp" name="Skiff Pages" />
     <icon drawable="@drawable/skiline" package="cc.skiline.android" name="Skiline" />
     <icon drawable="@drawable/sky" package="de.sky.bw" name="Sky Go" />
     <icon drawable="@drawable/sky_children_of_the_light" package="com.tgc.sky.android" name="Sky: Children of the Light" />
@@ -2177,6 +2186,7 @@
     <icon drawable="@array/grayscale_calendar_icons" package="com.samsung.android.calendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.simplemobiletools.calendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.simplemobiletools.calendar.pro" />
+    <icon drawable="@array/grayscale_calendar_icons" package="com.skiffcalendarmobileapp" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.xiaomi.calendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="foundation.e.calendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="me.proton.android.calendar" />
