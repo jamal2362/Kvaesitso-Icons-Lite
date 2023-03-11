@@ -1739,7 +1739,7 @@
     <icon drawable="@drawable/s_invest" package="com.starfinanz.mobile.android.invest" name="S-Invest" />
     <icon drawable="@drawable/sketchbook" package="com.adsk.sketchbook" name="Sketchbook" />
     <icon drawable="@drawable/skiff_drive" package="com.skiffDriveMobileApp" name="Skiff Drive" />
-    <icon drawable="@drawable/skiff_pages" package="com.skemailmobileapp" name="Skiff Mail" />
+    <icon drawable="@drawable/skiff_mail" package="com.skemailmobileapp" name="Skiff Mail" />
     <icon drawable="@drawable/skiff_pages" package="com.skiffmobileapp" name="Skiff Pages" />
     <icon drawable="@drawable/skiline" package="cc.skiline.android" name="Skiline" />
     <icon drawable="@drawable/sky" package="de.sky.bw" name="Sky Go" />
