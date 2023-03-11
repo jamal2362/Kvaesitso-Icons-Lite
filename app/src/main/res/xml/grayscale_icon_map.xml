@@ -1939,6 +1939,7 @@
     <icon drawable="@drawable/tipster" package="tipster.evolutioit.app" name="Tipster" />
     <icon drawable="@drawable/tiwee" package="com.example.Tiwee" name="Tiwee" />
     <icon drawable="@drawable/tix_id" package="id.tix.android" name="TIX ID" />
+    <icon drawable="@drawable/tk" package="de.tk.tkapp" name="TK" />
     <icon drawable="@drawable/tkla_gelsin" package="com.ataexpress.tiklagelsin" name="Tıkla Gelsin" />
     <icon drawable="@drawable/today_weather" package="mobi.lockdown.weather" name="Today Weather" />
     <icon drawable="@drawable/todoist" package="com.todoist" name="Todoist" />
