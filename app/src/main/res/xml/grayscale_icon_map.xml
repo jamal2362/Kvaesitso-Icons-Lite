@@ -986,6 +986,7 @@
     <icon drawable="@drawable/keybase" package="io.keybase.ossifrage" name="Keybase" />
     <icon drawable="@drawable/keyboard" package="com.menny.android.anysoftkeyboard" name="Simple Keyboard" />
     <icon drawable="@drawable/keyboard" package="com.simplemobiletools.keyboard" name="Simple Keyboard" />
+    <icon drawable="@drawable/kfzteile24" package="de.kfzteile24.app" name="kfzteile24" />
     <icon drawable="@drawable/khan_academy" package="org.khanacademy.android" name="Khan Academy" />
     <icon drawable="@drawable/kicker" package="com.netbiscuits.kicker" name="kicker" />
     <icon drawable="@drawable/kijiji" package="com.ebay.kijiji.ca" name="Kijiji" />
