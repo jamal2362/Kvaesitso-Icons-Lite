@@ -718,7 +718,6 @@
     <icon drawable="@drawable/generic_earth" package="com.afkettler.earth" name="Earth" />
     <icon drawable="@drawable/generic_earth" package="com.afkettler.pro.earth" name="Earth" />
     <icon drawable="@drawable/generic_email" package="com.android.email" name="Email" />
-    <icon drawable="@drawable/generic_email" package="com.skemailmobileapp" name="Email" />
     <icon drawable="@drawable/generic_games" package="com.YovoGames.dentist" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.age.wgg.appspot" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.amayasoft.dinosaur.games.little.kids.toddlers" name="Games" />
