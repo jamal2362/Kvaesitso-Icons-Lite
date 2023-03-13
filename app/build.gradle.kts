@@ -18,7 +18,7 @@ val ciBuild = System.getenv("CI") == "true"
 val ciRef = System.getenv("GITHUB_REF").orEmpty()
 val ciRunNumber = System.getenv("GITHUB_RUN_NUMBER").orEmpty()
 val isReleaseBuild = ciBuild && ciRef == "main"
-val devReleaseName = if (ciBuild) "(Dev #$ciRunNumber)" else "($buildCommit)"
+val devReleaseName = if (ciBuild) "(Build #$ciRunNumber)" else "($buildCommit)"
 
 val version = "1.6.2"
 val versionDisplayName = "$version ${if (isReleaseBuild) "" else devReleaseName}"
