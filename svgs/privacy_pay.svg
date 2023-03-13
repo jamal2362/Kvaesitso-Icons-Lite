@@ -1,7 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
- <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12">
-  <path class="cls-1" d="m162 22h-132a8 8 0 0 0-8 8v132a8 8 0 0 0 8 8h132a8 8 0 0 0 8-8v-132a8 8 0 0 0-8-8z"/>
-  <path class="cls-1" d="m60 150v-108h36a36.28 36.28 0 0 1 0 72.56h-36"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"><path d="M162 22H30a8 8 0 0 0-8 8v132a8 8 0 0 0 8 8h132a8 8 0 0 0 8-8V30a8 8 0 0 0-8-8z" class="cls-1"/><path d="M60 150V42h36a36.28 36.28 0 0 1 0 72.56H60" class="cls-1"/></g></svg>

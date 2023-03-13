@@ -1,4 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
- <path class="a" d="m50.088 42.945-30.088 31.684v43.326l29.231 31.101h122.77v-106.11zm-10.094 43.7a7.561 8.0664 0 1 1-7.5221 8.0664v0a7.5221 8.0248 0 0 1 7.5221-8.0664z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" d="M50.088 42.945 20 74.629v43.326l29.231 31.101h122.77V42.946zm-10.094 43.7a7.561 8.066 0 1 1-7.522 8.066v0a7.522 8.025 0 0 1 7.522-8.066z" class="a"/></svg>
