@@ -91,7 +91,7 @@ android {
     applicationVariants.all {
         outputs.all {
             (this as? ApkVariantOutputImpl)?.outputFileName =
-                "Kvaesitso-Icons_${versionName}_${buildType.name}.apk"
+                "Kvaesitso-Icons ${versionName}.apk"
         }
     }
 }
