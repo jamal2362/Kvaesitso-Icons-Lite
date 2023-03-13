@@ -7,7 +7,7 @@
     <clip-path
         android:pathData="M23.67,16.78L169.67,16.78A56,56 0,0 1,225.67 72.78L225.67,218.78A56,56 0,0 1,169.67 274.78L23.67,274.78A56,56 0,0 1,-32.33 218.78L-32.33,72.78A56,56 0,0 1,23.67 16.78z"/>
     <path
-        android:pathData="m18.66,54.33c0,-18.22 14.77,-32.99 32.99,-32.99h86.01c18.22,0 32.99,14.77 32.99,32.99v86.01c0,18.22 -14.77,32.99 -32.99,32.99h-86.01c-18.22,0 -32.99,-14.77 -32.99,-32.99z"
+        android:pathData="M18.66,54.33c0,-18.22 14.77,-32.99 32.99,-32.99h86.01c18.22,0 32.99,14.77 32.99,32.99v86.01c0,18.22 -14.77,32.99 -32.99,32.99L51.65,173.34c-18.22,0 -32.99,-14.77 -32.99,-32.99z"
         android:strokeLineJoin="round"
         android:strokeWidth="8"
         android:fillColor="#00000000"
@@ -15,10 +15,8 @@
         android:strokeLineCap="round"/>
   </group>
   <group>
-    <clip-path
-        android:pathData="M23.67,16.78L169.68,16.78A56,56 0,0 1,225.68 72.78L225.68,218.79A56,56 71.7,0 1,169.68 274.79L23.67,274.79A56,56 69.15,0 1,-32.33 218.79L-32.33,72.78A56,56 49.25,0 1,23.67 16.78z"/>
     <path
-        android:pathData="m20.85,128.41l150.42,0"
+        android:pathData="M20.85,128.41l150.42,0"
         android:strokeLineJoin="round"
         android:strokeWidth="8"
         android:fillColor="#00000000"
@@ -84,7 +82,7 @@
     <clip-path
         android:pathData="M23.67,16.78L169.67,16.78A56,56 0,0 1,225.67 72.78L225.67,218.78A56,56 0,0 1,169.67 274.78L23.67,274.78A56,56 0,0 1,-32.33 218.78L-32.33,72.78A56,56 0,0 1,23.67 16.78z"/>
     <path
-        android:pathData="m136.43,93.57c0,-3.93 3.19,-7.12 7.13,-7.12 3.93,0 7.13,3.19 7.13,7.12 0,3.93 -3.19,7.13 -7.13,7.13 -3.93,0 -7.13,-3.19 -7.13,-7.13z"
+        android:pathData="M136.43,93.57a7.13,7.13 0,1 1,14.25 0,7.13 7.13,0 0,1 -14.25,0z"
         android:strokeLineJoin="round"
         android:strokeWidth="8"
         android:fillColor="#00000000"
@@ -92,10 +90,8 @@
         android:strokeLineCap="round"/>
   </group>
   <group>
-    <clip-path
-        android:pathData="M23.67,16.78L169.68,16.78A56,56 0,0 1,225.68 72.78L225.68,218.79A56,56 71.7,0 1,169.68 274.79L23.67,274.79A56,56 69.15,0 1,-32.33 218.79L-32.33,72.78A56,56 49.25,0 1,23.67 16.78z"/>
     <path
-        android:pathData="m20.85,58.02l150.42,0"
+        android:pathData="M20.85,58.02l150.42,0"
         android:strokeLineJoin="round"
         android:strokeWidth="8"
         android:fillColor="#00000000"
