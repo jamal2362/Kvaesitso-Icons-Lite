@@ -44,6 +44,7 @@ Note that you'll need to have a GitHub account.
 ## Usage
 
 Install the last `Kvaesitso Icons` and select it under (Settings > Appearance > Icon pack).
+The "Themed icon" preference now only affects native themed icons (Android 13+).
 
 ## License
 
