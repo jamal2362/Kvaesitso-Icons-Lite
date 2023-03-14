@@ -482,6 +482,7 @@
     <icon drawable="@drawable/dislyte" package="com.lilithgames.xgame.gp" name="Dislyte" />
     <icon drawable="@drawable/disneyplus" package="com.disney.disneyplus" name="Disney+" />
     <icon drawable="@drawable/disneyplus" package="com.disneyplus.mea" name="Disney+" />
+    <icon drawable="@drawable/divvydiary" package="com.divvydiary.twa" name="DivvyDiary" />
     <icon drawable="@drawable/dji_ronin" package="com.dji.ronin" name="DJI Ronin" />
     <icon drawable="@drawable/dkb" package="com.dkbcodefactory.banking" name="DKB" />
     <icon drawable="@drawable/dkb" package="de.dkb.portalapp" name="DKB" />
@@ -1077,6 +1078,7 @@
     <icon drawable="@drawable/maps" package="com.google.android.apps.maps" name="Google Maps" />
     <icon drawable="@drawable/maps" package="com.google.android.apps.mapslite" name="Google Maps" />
     <icon drawable="@drawable/marindeck" package="online.hisubway.marindeck" name="MarinDeck" />
+    <icon drawable="@drawable/mario_kart_tour" package="com.nintendo.zaka" name="Mario Kart Tour" />
     <icon drawable="@drawable/massive" package="com.massive" name="Massive" />
     <icon drawable="@drawable/mastodon" package="org.joinmastodon.android" name="Mastodon" />
     <icon drawable="@drawable/material_catalog" package="androidx.compose.material.catalog" name="Material Catalog" />
@@ -1388,10 +1390,12 @@
     <icon drawable="@drawable/pager_duty" package="com.pagerduty.android" name="Pager Duty" />
     <icon drawable="@drawable/paisa" package="dev.hemanths.paisa" name="Paisa" />
     <icon drawable="@drawable/papara" package="com.mobillium.papara" name="Papara" />
+    <icon drawable="@drawable/paperless" package="com.quinncasey.paperless_share" name="Paperless" />
     <icon drawable="@drawable/paperless" package="eu.bauerj.paperless_app" name="Paperless" />
     <icon drawable="@drawable/parcel_tracker" package="de.orrs.deliveries" name="Lieferungen Sendungsverfolgung" />
     <icon drawable="@drawable/parcels" package="com.brightstripe.parcels" name="Parcels Sendungsverfolgung" />
     <icon drawable="@drawable/parlera" package="com.enjoyingfoss.parlera" name="Parlera" />
+    <icon drawable="@drawable/parqet" package="com.parqet" name="Parqet" />
     <icon drawable="@drawable/parsec" package="tv.parsec.client" name="Parsec" />
     <icon drawable="@drawable/paseo" package="ca.chancehorizon.paseo" name="Paseo" />
     <icon drawable="@drawable/passandroid" package="org.ligi.passandroid" name="PassAndroid" />
@@ -1835,6 +1839,7 @@
     <icon drawable="@drawable/sudoku" package="com.kaajjo.libresudoku" name="Sudoku" />
     <icon drawable="@drawable/sudoku" package="ee.dustland.android.dustlandsudoku" name="Sudoku" />
     <icon drawable="@drawable/sudoku" package="org.secuso.privacyfriendlysudoku" name="Sudoku" />
+    <icon drawable="@drawable/super_mario_run" package="om.nintendo.zara" name="Super Mario Run" />
     <icon drawable="@drawable/supertuxkart" package="org.supertuxkart.stk" name="SuperTuxKart" />
     <icon drawable="@drawable/supreader" package="com.s2apps.reader" name="Supreader" />
     <icon drawable="@drawable/surfshark" package="com.surfshark.vpnclient.android" name="Surfshark" />
