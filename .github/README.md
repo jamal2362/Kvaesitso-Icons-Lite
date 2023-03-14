@@ -41,9 +41,9 @@ If you want to help translating, go to [the project page](https://i18n.mm20.de/p
 
 Note that you'll need to have a GitHub account.
 
-## FAQ
+## Usage
 
-Please see [FAQ.md](FAQ.md) for Troubleshooting 
+Install the last `Kvaesitso Icons` and select it under (Settings > Appearance > Icon pack).
 
 ## License
 
