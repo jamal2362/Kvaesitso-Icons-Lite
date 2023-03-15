@@ -389,6 +389,7 @@
     <icon drawable="@drawable/contacts" package="com.samsung.android.app.contacts" name="Contacts" />
     <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts" name="Contacts" />
     <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts.pro" name="Contacts" />
+    <icon drawable="@drawable/contacts" package="opencontacts.open.com.opencontacts" name="Contacts" />
     <icon drawable="@drawable/contacts_sync" package="com.lb.contacts_sync" name="Contacts Sync" />
     <icon drawable="@drawable/converter_now" package="com.ferrarid.converterpro" name="Converter NOW" />
     <icon drawable="@drawable/cookbook" package="com.nextcloud_cookbook_flutter" name="Nextcloud Cookbook" />
@@ -855,6 +856,7 @@
     <icon drawable="@drawable/headphones" package="com.amazon.mp3" name="Music Player" />
     <icon drawable="@drawable/headphones" package="com.simplemobiletools.musicplayer" name="Music Player" />
     <icon drawable="@drawable/headphones" package="com.sony.songpal.mdr" name="Music Player" />
+    <icon drawable="@drawable/healthbox" package="be.renson.healthbox3" name="Healthbox 3.0" />
     <icon drawable="@drawable/healthifyme" package="com.healthifyme.basic" name="Healthfy Me" />
     <icon drawable="@drawable/healthmate" package="com.withings.wiscale2" name="HaelthMate" />
     <icon drawable="@drawable/heart" package="com.simplemobiletools.thankyou" name="Thank You" />
@@ -915,6 +917,7 @@
     <icon drawable="@drawable/instagram" package="com.instander.android" name="Instagram" />
     <icon drawable="@drawable/instapaper" package="com.instapaper.android" name="Instapaper" />
     <icon drawable="@drawable/insular" package="com.oasisfeng.island.fdroid" name="Insular" />
+    <icon drawable="@drawable/intact" package="com.o818bd0a56aa.www" name="Intact" />
     <icon drawable="@drawable/inter" package="br.com.Inter.CDPro" name="Inter" />
     <icon drawable="@drawable/inter" package="br.com.intermedium" name="Inter" />
     <icon drawable="@drawable/intesa_sanpaolo" package="com.latuabancaperandroid" name="Intesa Sanpaolo Mobile" />
@@ -971,6 +974,7 @@
     <icon drawable="@drawable/just_eat" package="ro.ascendnet.android.agregator" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl" />
     <icon drawable="@drawable/just_eat" package="uk.takeaway.android" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl" />
     <icon drawable="@drawable/justalk" package="com.juphoon.justalk" name="Justalk" />
+    <icon drawable="@drawable/jw_library" package="org.jw.jwlibrary.mobile" name="JW Library" />
     <icon drawable="@drawable/k9_mail" package="com.fsck.k9" name="K-9 Mail" />
     <icon drawable="@drawable/kahoot" package="no.mobitroll.kahoot.android" name="Kahoot!" />
     <icon drawable="@drawable/kakaotalk" package="com.kakao.talk" name="KakaoTalk" />
@@ -1065,6 +1069,7 @@
     <icon drawable="@drawable/lsposed" package="org.lsposed.manager" name="LSPosed Manager" />
     <icon drawable="@drawable/lunarsettings" package="rasel.lunar.launcher" name="Lunar Settings" />
     <icon drawable="@drawable/m4a" package="grant.m4a.to.mp3" name="M4a to Mp3 Converter" />
+    <icon drawable="@drawable/macrodeck" package="com.suchbyte.macrodeck" name="Macro Deck" />
     <icon drawable="@drawable/magic_arena" package="com.wizards.mtga" name="Magic Arena" />
     <icon drawable="@drawable/magic_companion" package="com.wizards.winter_orb" name="Magic Companion" />
     <icon drawable="@drawable/magic_earth" package="com.generalmagic.magicearth" name="Magic Earth" />
@@ -1568,6 +1573,7 @@
     <icon drawable="@drawable/randomix" package="com.minar.randomix" name="Randomix" />
     <icon drawable="@drawable/ranobe" package="org.ranobe.ranobe" name="R.A.N.O.B.E" />
     <icon drawable="@drawable/rar" package="com.rarlab.rar" name="RAR" />
+    <icon drawable="@drawable/rbcmobile" package="com.rbc.mobile.android" name="RBC Mobile" />
     <icon drawable="@drawable/rboard_creator" package="de.dertyp7214.rboardthememanager" name="Rboard Theme Manager" />
     <icon drawable="@drawable/read_era" package="org.readera" name="ReadEra" />
     <icon drawable="@drawable/readera_premium" package="org.readera.premium" name="ReadEra Premium" />
@@ -1760,6 +1766,7 @@
     <icon drawable="@drawable/sleep_as_android" package="com.sleepmonitor.aio" name="Sleep as Android" />
     <icon drawable="@drawable/sleep_as_android" package="com.sleep.snore.insomnia" name="Sleep as Android" />
     <icon drawable="@drawable/sleep_as_android" package="com.urbandroid.sleep" name="Sleep as Android" />
+    <icon drawable="@drawable/sleep_as_android" package="ipnossoft.rma.free" name="Sleep as Android" />
     <icon drawable="@drawable/sleep_as_android" package="ru.olegfilimonov.sleeptime" name="Sleep as Android" />
     <icon drawable="@drawable/sleep_as_android" package="sleeptrakcer.sleeprecorder.sleepapp.sleep" name="Sleep as Android" />
     <icon drawable="@drawable/sliceit" package="indwin.c3.shareapp" name="Slice" />
@@ -1810,6 +1817,7 @@
     <icon drawable="@drawable/standard_notes" package="com.standardnotes" name="Standard Notes" />
     <icon drawable="@drawable/starbucks" package="com.starbucks.tr" name="Starbucks" />
     <icon drawable="@drawable/stark_hantel" package="se.virtualtrainer.dumbbell" name="Stark Hantel" />
+    <icon drawable="@drawable/starwars" package="com.disney.starwarshub_goo" name="Star Wars" />
     <icon drawable="@drawable/stats_fm" package="dev.netlob.spotistats" name="Stats.fm" />
     <icon drawable="@drawable/stealth" package="com.cosmos.unreddit" name="Stealth" />
     <icon drawable="@drawable/steam" package="com.valvesoftware.android.steam.community" name="Steam" />
@@ -1875,6 +1883,7 @@
     <icon drawable="@drawable/taptap_lite" package="com.taptap.global" name="TapTap Lite" />
     <icon drawable="@drawable/taptap" package="com.kieronquinn.app.taptap" name="Tap, Tap" />
     <icon drawable="@drawable/tasker" package="net.dinglisch.android.taskerm" name="Tasker" />
+    <icon drawable="@drawable/taskly" package="com.geekflow.taskly" name="Taskly" />
     <icon drawable="@drawable/tasks" package="org.myklos.inote" name="Tasks" />
     <icon drawable="@drawable/tasks" package="org.tasks" name="Tasks" />
     <icon drawable="@drawable/teamsnap" package="com.teamsnap.teamsnap" name="TeamSnap" />
