@@ -1277,6 +1277,7 @@
     <icon drawable="@drawable/nextcloud_notes" package="it.niedermann.owncloud.notes" name="Nextcloud Notes" />
     <icon drawable="@drawable/nfcreader" package="se.anyro.nfc_reader" name="NFC Reader" />
     <icon drawable="@drawable/nfsee" package="im.nfc.nfsee" name="NFSee" />
+    <icon drawable="@drawable/nhl" package="com.nhl.gc1112.free" name="NHL" />
     <icon drawable="@drawable/niagara_launcher" package="bitpit.launcher" name="Niagara Launcher" />
     <icon drawable="@drawable/nine_dash" package="adriandp.ninedash" name="Nine Dash" />
     <icon drawable="@drawable/ninenine" package="com.taxis99" name="99" />
