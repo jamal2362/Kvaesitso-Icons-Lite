@@ -276,6 +276,7 @@
     <icon drawable="@drawable/camera" package="com.android.MGC" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.MGC_8_4_400" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.MGC_8_5_300" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.android.MGC_8_7_250" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.MGC.not.stable" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.arn" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.camera" name="Camera" />
