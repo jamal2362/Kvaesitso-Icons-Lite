@@ -246,6 +246,7 @@
     <icon drawable="@drawable/burger_king" package="ni.burgerking" name="Burger King" />
     <icon drawable="@drawable/burger_king" package="ru.burgerking" name="Burger King" />
     <icon drawable="@drawable/burger_king" package="se.burgerking.ordersapp" name="Burger King" />
+    <icon drawable="@drawable/burning_series" package="dev.datlag.burningseries" name="Burning Series" />
     <icon drawable="@drawable/busuu" package="com.busuu.android.enc" name="Busuu" />
     <icon drawable="@drawable/button_mapper" package="flar2.homebutton" name="Button Mapper" />
     <icon drawable="@drawable/by_u" package="com.byu.id" name="by.U" />
@@ -266,7 +267,7 @@
     <icon drawable="@drawable/calculator_plusplus" package="org.solovyev.android.calculator" name="Calculator Plus Plus" />
     <icon drawable="@drawable/calentile" package="com.gustavoas.calendarqst" name="CalenTile" />
     <icon drawable="@drawable/calyx_vpn" package="org.calyxinstitute.vpn" name="Calyx VPN" />
-    <icon drawable="@drawable/camera2_test" package="http://com.camera2.test.all.id" name="Camera2 Test" />
+    <icon drawable="@drawable/camera2_test" package="com.camera2.test.all.id" name="Camera2 Test" />
     <icon drawable="@drawable/camera" package="app.grapheneos.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="app.grapheneos.camera.play" name="Camera" />
     <icon drawable="@drawable/camera" package="com.GoogleCamera.Burial" name="Camera" />
@@ -423,6 +424,7 @@
     <icon drawable="@drawable/cytoid" package="me.tigerhix.cytoid" name="Cytoid" />
     <icon drawable="@drawable/dailydozen" package="org.nutritionfacts.dailydozen" name="Daily Dozen" />
     <icon drawable="@drawable/dana" package="id.dana" name="DANA" />
+    <icon drawable="@drawable/dango" package="com.aleapps.videotime" name="Dango Player" />
     <icon drawable="@drawable/darq" package="com.kieronquinn.app.darq" name="DarQ" />
     <icon drawable="@drawable/dashlane" package="com.dashlane" name="Dashlane" />
     <icon drawable="@drawable/dashlane_authenticator" package="com.dashlane.authenticator" name="Dashlane Authenticator" />
@@ -903,6 +905,7 @@
     <icon drawable="@drawable/iko" package="pl.pkobp.iko" name="IKO" />
     <icon drawable="@drawable/ilpost" package="it.ilpost.app" name="Il Post" />
     <icon drawable="@drawable/imagepipe" package="de.kaffeemitkoffein.imagepipe" name="Imagepipe" />
+    <icon drawable="@drawable/imageresizer" package="ru.tech.imageresizershrinker" name="Image Resizer" />
     <icon drawable="@drawable/imdb" package="com.imdb.mobile" name="IMDb" />
     <icon drawable="@drawable/ime" package="com.iMe.android" name="iMe" />
     <icon drawable="@drawable/imgur" package="com.imgur.mobile" name="Imgur" />
@@ -1972,6 +1975,7 @@
     <icon drawable="@drawable/tracker_control" package="net.kollnig.missioncontrol" name="Tracker Control" />
     <icon drawable="@drawable/tracker_control" package="net.kollnig.missioncontrol.fdroid" name="Tracker Control" />
     <icon drawable="@drawable/tracker_control" package="net.kollnig.missioncontrol.play" name="Tracker Control" />
+    <icon drawable="@drawable/tractive" package="com.tractive.android.gps" name="Tractive" />
     <icon drawable="@drawable/traderepublic" package="de.traderepublic.app" name="Trade Republic" />
     <icon drawable="@drawable/tradingview" package="com.tradingview.tradingviewapp" name="TradingView" />
     <icon drawable="@drawable/trail_sense" package="com.kylecorry.trail_sense" name="Trail Sense" />
