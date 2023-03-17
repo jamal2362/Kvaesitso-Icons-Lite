@@ -266,6 +266,7 @@
     <icon drawable="@drawable/calculator_plusplus" package="org.solovyev.android.calculator" name="Calculator Plus Plus" />
     <icon drawable="@drawable/calentile" package="com.gustavoas.calendarqst" name="CalenTile" />
     <icon drawable="@drawable/calyx_vpn" package="org.calyxinstitute.vpn" name="Calyx VPN" />
+    <icon drawable="@drawable/camera2_test" package="http://com.camera2.test.all.id" name="Camera2 Test" />
     <icon drawable="@drawable/camera" package="app.grapheneos.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="app.grapheneos.camera.play" name="Camera" />
     <icon drawable="@drawable/camera" package="com.GoogleCamera.Burial" name="Camera" />
