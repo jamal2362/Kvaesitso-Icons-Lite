@@ -1608,6 +1608,7 @@
     <icon drawable="@drawable/redbus" package="travel.ticketless.app.ipswich" name="RedBus" />
     <icon drawable="@drawable/reddit" package="com.devgary.ready" name="Reddit" />
     <icon drawable="@drawable/reddit" package="com.reddit.frontpage" name="Reddit" />
+    <icon drawable="@drawable/red_moon" package="com.jmstudios.redmoon" name="Red Moon" />
     <icon drawable="@drawable/relay" package="free.reddit.news" name="Relay" />
     <icon drawable="@drawable/relay" package="reddit.news" name="Relay" />
     <icon drawable="@drawable/remarkable" package="com.remarkable.mobile" name="The reMarkable Companion" />
@@ -1695,7 +1696,7 @@
     <icon drawable="@drawable/screen_recorder" package="com.miui.screenrecorder" name="Screen Recorder" />
     <icon drawable="@drawable/screenshot_tile_noroot" package="com.github.cvzi.screenshottile" name="Screenshot Tile" />
     <icon drawable="@drawable/sd_maid" package="eu.thedarken.sdm" name="SD Maid" />
-    <icon drawable="@drawable/sd_maid" package="eu.thedarken.sdm.unlocker" name="SD Maid" />
+    <icon drawable="@drawable/sd_maid_pro" package="eu.thedarken.sdm.unlocker" name="SD Maid Pro" />
     <icon drawable="@drawable/seal" package="com.junkfood.seal" name="Seal" />
     <icon drawable="@drawable/securego_plus" package="de.fiduciagad.securego.wl" name="SecureGo plus" />
     <icon drawable="@drawable/seedvault" package="com.stevesoltys.seedvault" name="Backup" />
@@ -1807,6 +1808,7 @@
     <icon drawable="@drawable/soulmate_coffee_bakery" package="com.soulmate.coffee" name="Soulmate Coffee Bakery" />
     <icon drawable="@drawable/soundcloud" package="com.soundcloud.android" name="SoundCloud" />
     <icon drawable="@drawable/soundcore" package="com.oceanwing.soundcore" name="soundcore" />
+    <icon drawable="@drawable/soundtoggle" package="com.grmasa.soundtoggle" name="SoundToggle" />
     <icon drawable="@drawable/source_wall" package="nz.co.teamsean.matrix" name="Source Wall" />
     <icon drawable="@drawable/sova_five" package="re.sova.five" name="SOVA V RE" />
     <icon drawable="@drawable/spaceflight_simulator" package="com.StefMorojna.SpaceflightSimulator" name="Spaceflight Simulator" />
