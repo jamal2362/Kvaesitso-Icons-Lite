@@ -39,16 +39,16 @@
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M113.37,113.16v58.78M100.57,45.89H42.7M33.57,57.68v79.92"
+      android:pathData="M113.37,113.16v58.78m-12.8,-126.05H42.7M33.57,57.68v79.92"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M61.76,90.47V72.9h74.59V32.38M136.35,163.62v-60.83h37.49M82.93,116.95h-21.17v47.87"
+      android:pathData="M61.76,90.47V72.9h74.59V32.38m0,131.24v-60.83h37.49m-90.91,14.15h-21.17v47.87"
       android:strokeLineJoin="round"
-      android:strokeWidth="7.999478699999999"
+      android:strokeWidth="7.999"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>

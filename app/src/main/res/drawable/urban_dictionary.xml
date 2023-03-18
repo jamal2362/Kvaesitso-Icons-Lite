@@ -11,14 +11,14 @@
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M138.05,94.3a18,18 0,0 0,-18 -18,18 18,0 0,0 -18,18V106a18,18 0,0 0,18 18,18 18,0 0,0 18,-18M145.25,124a7.2,7.2 0,0 1,-7.2 -7.2V52M88.17,106a18,18 0,0 1,-18 18,18 18,0 0,1 -18,-18V76.3"
+      android:pathData="M138.05,94.3a18,18 0,0 0,-18 -18,18 18,0 0,0 -18,18V106a18,18 0,0 0,18 18,18 18,0 0,0 18,-18m7.2,18a7.2,7.2 0,0 1,-7.2 -7.2V52m-49.88,54a18,18 0,0 1,-18 18,18 18,0 0,1 -18,-18V76.3"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M95.36,124a7.2,7.2 0,0 1,-7.2 -7.2V76.3M52.17,76.3h-5.42M88.17,76.3h-5.42M138.05,52h-5.41"
+      android:pathData="M95.36,124a7.2,7.2 0,0 1,-7.2 -7.2V76.3m-36,0h-5.42m41.42,0h-5.42M138.05,52h-5.41"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"
