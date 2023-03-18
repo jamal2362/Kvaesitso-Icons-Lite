@@ -1535,6 +1535,7 @@
     <icon drawable="@drawable/pubg" package="com.pubg.newstate" name="PUBG" />
     <icon drawable="@drawable/pubg" package="com.tencent.ig" name="PUBG" />
     <icon drawable="@drawable/pujieblack" package="com.pujie.wristwear.pujieblack" name="Pujie Black" />
+    <icon drawable="@drawable/pullandbear" package="com.inditex.pullandbear" name="Pull &amp; Bear" />
     <icon drawable="@drawable/purple_tv" package="tv.orange" name="PurpleTV" />
     <icon drawable="@drawable/pushbullet" package="com.pushbullet.android" name="Pushbullet" />
     <icon drawable="@drawable/puzzles" package="com.stateofplaygames.kami2" name="Puzzles" />
