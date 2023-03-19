@@ -1419,6 +1419,7 @@
     <icon drawable="@drawable/paysafecard" package="at.paysafecard.android" name="paysafecard" />
     <icon drawable="@drawable/pay_sphera" package="ru.nskes.paysphera" name="Paysphera" />
     <icon drawable="@drawable/paytm" package="net.one97.paytm" name="Paytm" />
+    <icon drawable="@drawable/pdf_doc_scan" package="com.littletrickster.scanner" name="PDF Doc Scan" />
     <icon drawable="@drawable/pencil" package="ch.martinstoeckli.silentnotes" name="Draw" />
     <icon drawable="@drawable/pencil" package="com.simplemobiletools.draw" name="Draw" />
     <icon drawable="@drawable/pencil" package="com.simplemobiletools.draw.pro" name="Draw" />
