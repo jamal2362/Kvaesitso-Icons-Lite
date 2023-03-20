@@ -1700,6 +1700,7 @@
     <icon drawable="@drawable/sd_maid" package="eu.thedarken.sdm" name="SD Maid" />
     <icon drawable="@drawable/sd_maid_pro" package="eu.thedarken.sdm.unlocker" name="SD Maid Pro" />
     <icon drawable="@drawable/seal" package="com.junkfood.seal" name="Seal" />
+    <icon drawable="@drawable/secure_56" package="com.secure56.app" name="56 Secure" />
     <icon drawable="@drawable/securego_plus" package="de.fiduciagad.securego.wl" name="SecureGo plus" />
     <icon drawable="@drawable/seedvault" package="com.stevesoltys.seedvault" name="Backup" />
     <icon drawable="@drawable/sennheiser_smart_control" package="com.sennheiser.control" name="Sennheiser Smart Control" />
