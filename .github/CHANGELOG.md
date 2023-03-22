@@ -1,3 +1,6 @@
+## [] Unreleased
+* Update dependencies 
+
 ## [1.7.1]
 * Add Pull & Bear
 * Add PDF Doc Scan
