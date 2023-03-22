@@ -10,5 +10,7 @@
 * Update Red Moon
 * Update FluffyChat
 * Update KernelSU
-* Update Launcher icon
+* Update Launcher icon @skedastically
+* Fix Icon size @jamal2362
+* Add Changelog Button
 
