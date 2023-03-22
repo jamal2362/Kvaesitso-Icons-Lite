@@ -1,4 +1,4 @@
-## [1.7.1] - Unreleased
+## [1.7.1]
 * Add Pull & Bear
 * Add PDF Doc Scan
 * Add 56 Secure
