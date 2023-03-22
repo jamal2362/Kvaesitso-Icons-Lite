@@ -1623,6 +1623,7 @@
     <icon drawable="@drawable/replit" package="com.replit.app" name="Replit" />
     <icon drawable="@drawable/republik" package="app.republik" name="Republik" />
     <icon drawable="@drawable/resso" package="com.moonvideo.android.resso" name="Resso Music" />
+    <icon drawable="@drawable/rethinkdns" package="com.celzero.bravedns" name="RethinkDNS" />
     <icon drawable="@drawable/retroarch" package="com.retroarch" name="RetroArch" />
     <icon drawable="@drawable/retroarch" package="com.retroarch.aarch64" name="RetroArch" />
     <icon drawable="@drawable/retro_music" package="code.name.monkey.retromusic" name="Retro Music" />
@@ -1933,6 +1934,7 @@
     <icon drawable="@drawable/the_battle_cats" package="jp.co.ponos.battlecatsen" name="The Battle Cats" />
     <icon drawable="@drawable/the_economist" package="com.economist.lamarr" name="Economist" />
     <icon drawable="@drawable/thelife" package="org.hlwd.bible_multi_the_life" name="The Life" />
+    <icon drawable="@drawable/the_light" package="org.hlwd.bible" name="The Light" />
     <icon drawable="@drawable/themer" package="com.drsants.eggproject" name="Projekt Themer" />
     <icon drawable="@drawable/themes" package="com.android.thememanager" name="Themes" />
     <icon drawable="@drawable/thenx" package="com.sysops.thenx" name="THENX" />
