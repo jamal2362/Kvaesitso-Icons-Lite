@@ -5,7 +5,7 @@
     <string name="request_icons_link">Poproś o Ikony</string>
     <string name="core_contributors">Główni Współtwórcy</string>
     <string name="special_thanks">Specjalne podziękowania</string>
-    <string name="special_thanks_icon">Za zainspirowanie ikonke aplikacji.</string>
+    <string name="special_thanks_icon">Za ikonke aplikacji.</string>
     <string name="special_thanks_name">Nazywanie aplikacji.</string>
     <string name="special_thanks_source">Za kod źródłowy.</string>
     <string name="special_thanks_arctions">Za niektóre SVG.</string>
@@ -17,4 +17,5 @@
     <string name="about">O tym</string>
     <string name="contributors">Współtwórcy</string>
     <string name="see_all_contributors">Zobacz Wszystkich Współtwórców</string>
+    <string name="changelog_link">Lista zmian</string>
 </resources>
