@@ -1,2 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="version_x">Verze %s</string>
+    <string name="about">O</string>
+    <string name="github_link">Zobrazit GitHub</string>
+    <string name="request_icons_link">Ikony žádostí</string>
+    <string name="changelog_link">Seznam změn</string>
+    <string name="contributors">Přispěvatelé</string>
+    <string name="core_contributors">Hlavní přispěvatelé</string>
+    <string name="see_all_contributors">Viz Všichni přispěvatelé</string>
+    <string name="special_thanks">Zvláštní poděkování</string>
+    <string name="special_thanks_icon">Pro ikonu aplikace.</string>
+    <string name="special_thanks_name">Pro pojmenování aplikace.</string>
+    <string name="special_thanks_source">Pro zdrojový kód.</string>
+    <string name="special_thanks_arctions">Pro některé SVG.</string>
+    <string name="acknowledgements">Poděkování</string>
+    <string name="drawable_prefix">Kreslitelné:</string>
+    <string name="package_prefix">Balík:</string>
+    <string name="app_name">Ikony Kvæsitso</string>
+    <string name="search_bar_hint">Hledat %d ikon</string>
+</resources>
