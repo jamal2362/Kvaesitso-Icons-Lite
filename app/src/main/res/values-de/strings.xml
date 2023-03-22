@@ -15,6 +15,7 @@
     <string name="package_prefix">Paketname:</string>
     <string name="github_link">Github</string>
     <string name="request_icons_link">Symbole anfragen</string>
+    <string name="changelog_link">Änderungen</string>
     <string name="special_thanks_source">Für den Quellcode.</string>
     <string name="special_thanks_arctions">Für etliche SVG.</string>
 </resources>

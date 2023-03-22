@@ -22,6 +22,7 @@
     <!-- External links section of About page -->
     <string name="github_link">View GitHub</string>
     <string name="request_icons_link">Request Icons</string>
+    <string name="changelog_link">Changelog</string>
 
     <!-- Contributors section of About page -->
     <!-- Contributors label -->

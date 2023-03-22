@@ -45,14 +45,15 @@ private val coreContributors = listOf(
 
 private val specialThanks = listOf(
     Contributor(
-        name = "U. N. Owen",
-        username = "MM2-0",
-        photoUrl = "https://avatars.githubusercontent.com/u/15646950?v=4",
+        name = "skedastically",
+        username = "skedastically",
+        photoUrl = "https://avatars.githubusercontent.com/u/126093083?v=4",
         socialUrl = "https://kvaesitso.mm20.de/",
         descriptionRes = R.string.special_thanks_icon,
     ),
     Contributor(
-        name = "MM2-0",
+        name = "U. N. Owen",
+        username = "MM2-0",
         photoUrl = "https://avatars.githubusercontent.com/u/15646950?v=4",
         socialUrl = "https://kvaesitso.mm20.de/",
         descriptionRes = R.string.special_thanks_name,
@@ -132,6 +133,11 @@ fun About(navController: NavController) {
                         LinkButton(
                             text = stringResource(id = R.string.request_icons_link),
                             url = "https://forms.gle/yzb1jV1HNo5kuAV36",
+                        )
+                        Spacer(Modifier.size(10.dp))
+                        LinkButton(
+                            text = stringResource(id = R.string.changelog_link),
+                            url = "https://github.com/daywalk3r666/Kvaesitso-Icons",
                         )
                     }
                 }
