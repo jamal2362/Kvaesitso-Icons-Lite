@@ -1,5 +1,6 @@
 ## [] Unreleased
-* Update dependencies 
+* Update dependencies
+* Update translation
 
 ## [1.7.1]
 * Add Pull & Bear
