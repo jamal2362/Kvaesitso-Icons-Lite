@@ -9,7 +9,7 @@
     <string name="see_all_contributors">Alle Mitwirkenden anzeigen</string>
     <string name="contributors">Mitwirkende</string>
     <string name="special_thanks">Besonderer Dank</string>
-    <string name="special_thanks_icon">Für die Inspiration des App-Symbols.</string>
+    <string name="special_thanks_icon">Für das App-Symbols.</string>
     <string name="special_thanks_name">Für die Namensgebung der App.</string>
     <string name="drawable_prefix">Drawable:</string>
     <string name="package_prefix">Paketname:</string>
