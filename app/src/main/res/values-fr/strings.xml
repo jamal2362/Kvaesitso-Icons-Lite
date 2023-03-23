@@ -2,19 +2,20 @@
 <resources>
     <string name="app_name">Kvæsitso Icons</string>
     <string name="acknowledgements">Remerciements</string>
-    <string name="about">À propos de</string>
+    <string name="about">À propos</string>
     <string name="version_x">Version %s</string>
     <string name="core_contributors">Principaux contributeurs</string>
     <string name="special_thanks">Remerciements spéciaux</string>
-    <string name="special_thanks_icon">Pour inspirer l\'icône de l\'application.</string>
+    <string name="special_thanks_icon">Pour l\'icône de l\'application.</string>
     <string name="special_thanks_name">Pour nommer l\'application.</string>
     <string name="drawable_prefix">Drawable:</string>
     <string name="package_prefix">Nom du paquet:</string>
     <string name="search_bar_hint">Rechercher %d Icônes</string>
     <string name="contributors">Contributeurs</string>
     <string name="see_all_contributors">Voir tous les contributeurs</string>
-    <string name="github_link">Voir GitHub</string>
+    <string name="github_link">Afficher GitHub</string>
     <string name="request_icons_link">Demande d\'icônes</string>
     <string name="special_thanks_source">Pour le code source.</string>
     <string name="special_thanks_arctions">Pour certains SVG.</string>
+    <string name="changelog_link">journal des modifications</string>
 </resources>
