@@ -1,4 +1,4 @@
-## [1.7.2] Unreleased
+## [1.7.2]
 * Update dependencies
 * Update translation
 * Add czech and slovak language
