@@ -33,7 +33,7 @@ android {
         targetSdk = 33
         versionCode = 11
         versionName = versionDisplayName
-        resourceConfigurations.addAll(listOf("en", "de", "es", "fr", "hi", "ja", "nl", "pl", "ru", "tr"))
+        resourceConfigurations.addAll(listOf("en", "cs", "de", "es", "fr", "hi", "ja", "nl", "pl", "ru", "sk", "tr"))
     }
 
     signingConfigs {
