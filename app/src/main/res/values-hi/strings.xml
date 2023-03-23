@@ -10,11 +10,12 @@
     <string name="core_contributors">मुख्य योगदानकर्ताओ</string>
     <string name="see_all_contributors">सभी योगदानकर्ताओ को देखिए</string>
     <string name="special_thanks">विशेष धन्यवाद</string>
-    <string name="special_thanks_icon">एप्लीकेशन चिह्न की प्रेरणा के लिए.</string>
+    <string name="special_thanks_icon">ऐप आइकन के लिए।</string>
     <string name="special_thanks_name">एप्लीकेशन के नामकरण के लिए.</string>
     <string name="acknowledgements">स्वीकृतियां</string>
     <string name="drawable_prefix">Drawable:</string>
     <string name="package_prefix">पैकेज:</string>
     <string name="special_thanks_source">स्रोत संहिता के लिए.</string>
     <string name="special_thanks_arctions">कुछ अेसवीजी के लिए.</string>
+    <string name="changelog_link">चैंजलॉग</string>
 </resources>
