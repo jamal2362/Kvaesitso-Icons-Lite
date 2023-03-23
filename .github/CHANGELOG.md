@@ -1,6 +1,10 @@
 ## [] Unreleased
 * Update dependencies
 * Update translation
+* Add czech and slovak language
+* Add 20 new icons
+* Update 3 icons
+* Link 2 icons
 
 ## [1.7.1]
 * Add Pull & Bear
