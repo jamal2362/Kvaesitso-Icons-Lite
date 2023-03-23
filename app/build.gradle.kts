@@ -20,7 +20,7 @@ val ciRunNumber = System.getenv("GITHUB_RUN_NUMBER").orEmpty()
 val isReleaseBuild = ciBuild && ciRef == "main"
 val devReleaseName = if (ciBuild) "(Build #$ciRunNumber)" else "($buildCommit)"
 
-val version = "1.7.1"
+val version = "1.7.2"
 val versionDisplayName = "$version ${if (isReleaseBuild) "" else devReleaseName}"
 
 android {
@@ -31,7 +31,7 @@ android {
         applicationId = "de.kvaesitso.icons"
         minSdk = 26
         targetSdk = 33
-        versionCode = 11
+        versionCode = 12
         versionName = versionDisplayName
         resourceConfigurations.addAll(listOf("en", "cs", "de", "es", "fr", "hi", "ja", "nl", "pl", "ru", "sk", "tr"))
     }

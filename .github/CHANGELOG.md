@@ -1,4 +1,4 @@
-## [] Unreleased
+## [1.7.2] Unreleased
 * Update dependencies
 * Update translation
 * Add czech and slovak language
@@ -6,7 +6,8 @@
 * Update 4 icons
 * Link 2 icons
 
-## [1.7.1]
+<details>
+<summary>[1.7.1]</summary
 * Add Pull & Bear
 * Add PDF Doc Scan
 * Add 56 Secure
@@ -21,4 +22,5 @@
 * Update Launcher icon @skedastically
 * Fix Icon size @jamal2362
 * Add Changelog Button
+</details>
 
