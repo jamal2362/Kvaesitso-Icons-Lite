@@ -210,6 +210,7 @@
     <icon drawable="@drawable/browsec" package="com.browsec.vpn" name="BROWSEC" />
     <icon drawable="@drawable/browsec" package="com.browsec.vpn.proxy" name="BROWSEC" />
     <icon drawable="@drawable/browser" package="com.android.browser" name="Browser" />
+    <icon drawable="@drawable/browser" package="com.navyfederal.android" name="Browser" />
     <icon drawable="@drawable/browser" package="de.baumann.browser" name="Browser" />
     <icon drawable="@drawable/browser" package="foundation.e.browser" name="Browser" />
     <icon drawable="@drawable/browser" package="org.droidtr.jelly" name="Browser" />
@@ -416,6 +417,7 @@
     <icon drawable="@drawable/croc" package="com.github.howeyc.crocgui" name="Croc GUI" />
     <icon drawable="@drawable/crosswords" package="org.eehouse.android.xw4" name="CrossWords" />
     <icon drawable="@drawable/crunchyroll" package="com.crunchyroll.crunchyroid" name="Crunchyroll" />
+    <icon drawable="@drawable/cryptocom" package="co.mona.android" name="Crypto.com" />
     <icon drawable="@drawable/cryptomator" package="org.cryptomator" name="Cryptomator" />
     <icon drawable="@drawable/crypto_prices" package="de.cloneapps.crypto_prices" name="Crypto Prices / Krypto Preise" />
     <icon drawable="@drawable/curiosity_stream" package="com.curiosity.curiositystream" name="Curiosity Stream" />
@@ -863,6 +865,7 @@
     <icon drawable="@drawable/habitica" package="com.habitrpg.android.habitica" name="Habitica" />
     <icon drawable="@drawable/hacki" package="com.jiaqifeng.hacki" name="Hacki" />
     <icon drawable="@drawable/hago" package="com.yy.hiyo" name="Hago" />
+    <icon drawable="@drawable/hahabu" package="com.sro.hahabu" name="hahabu" />
     <icon drawable="@drawable/hail" package="com.aistra.hail" name="Hail" />
     <icon drawable="@drawable/halkbank" package="com.tmobtech.halkbank" name="Halkbank" />
     <icon drawable="@drawable/hbo_max" package="com.hbo.hbonow" name="HBO Max" />
@@ -892,6 +895,7 @@
     <icon drawable="@drawable/hotstar" package="in.startv.hotstar" name="Hotstar" />
     <icon drawable="@drawable/hotstar" package="in.startv.hotstar.dplus" name="Hotstar" />
     <icon drawable="@drawable/hotstar" package="in.startv.hotstaronly" name="Hotstar" />
+    <icon drawable="@drawable/hourly_reminder" package="com.comostudio.hourlyreminders" name="Hourly Reminder" />
     <icon drawable="@drawable/house" package="com.simplemobiletools.launcher" name="Launcher" />
     <icon drawable="@drawable/hulu" package="com.hulu.plus" name="Hulu" />
     <icon drawable="@drawable/human_resources" package="de.human_resources" name="Human Resources" />
@@ -1087,6 +1091,7 @@
     <icon drawable="@drawable/lovense_remote" package="com.lovense.wear" name="Lovense Remote" />
     <icon drawable="@drawable/lsposed" package="org.lsposed.manager" name="LSPosed Manager" />
     <icon drawable="@drawable/lunarsettings" package="rasel.lunar.launcher" name="Lunar Settings" />
+    <icon drawable="@drawable/lyft" package="me.lyft.android" name="Lyft" />
     <icon drawable="@drawable/m4a" package="grant.m4a.to.mp3" name="M4a to Mp3 Converter" />
     <icon drawable="@drawable/macrodeck" package="com.suchbyte.macrodeck" name="Macro Deck" />
     <icon drawable="@drawable/magic_arena" package="com.wizards.mtga" name="Magic Arena" />
@@ -1378,6 +1383,7 @@
     <icon drawable="@drawable/openscale" package="com.health.openscale" name="openScale" />
     <icon drawable="@drawable/openscan" package="com.ethereal.openscan" name="OpenScan" />
     <icon drawable="@drawable/opensignal" package="com.staircase3.opensignal" name="Opensignal" />
+    <icon drawable="@drawable/opentasks" package="org.dmfs.tasks" name="OpenTasks" />
     <icon drawable="@drawable/opentracks" package="de.dennisguse.opentracks" name="OpenTracks" />
     <icon drawable="@drawable/openvpn" package="net.openvpn.openvpn" name="OpenVPN Connect" />
     <icon drawable="@drawable/openweather" package="uk.co.openweather" name="OpenWeather" />
@@ -2147,6 +2153,7 @@
     <icon drawable="@drawable/weather" package="co.prestosole.clima" name="Weather" />
     <icon drawable="@drawable/weather" package="net.oneplus.weather" name="Weather" />
     <icon drawable="@drawable/weather" package="org.secuso.privacyfriendlyweather" name="Weather" />
+    <icon drawable="@drawable/weather" package="org.woheller69.omweather" name="Weather" />
     <icon drawable="@drawable/weather_network" package="com.pelmorex.WeatherEyeAndroid" name="The Weather Network" />
     <icon drawable="@drawable/weawow" package="com.weawow" name="Weawow" />
     <icon drawable="@drawable/webtoon" package="com.naver.linewebtoon" name="WEBTOON" />
