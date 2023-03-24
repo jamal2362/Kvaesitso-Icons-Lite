@@ -1083,6 +1083,7 @@
     <icon drawable="@drawable/lithium" package="com.faultexception.reader" name="Lithium" />
     <icon drawable="@drawable/lithium_pro" package="com.faultexception.reader.pro" name="Lithium Pro" />
     <icon drawable="@drawable/live_transcribe" package="com.google.audio.hearing.visualization.accessibility.scribe" name="Live Transcribe" />
+    <icon drawable="@drawable/loc" package="xyz.abdeltwabmf.loc" name="Loc" />
     <icon drawable="@drawable/localsend" package="org.localsend.localsend_app" name="LocalSend" />
     <icon drawable="@drawable/locket_widget" package="com.locket.Locket" name="Locket Widget" />
     <icon drawable="@drawable/logfox" package="com.f0x1d.logfox" name="LogFox" />
