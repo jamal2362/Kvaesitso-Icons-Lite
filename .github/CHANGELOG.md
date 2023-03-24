@@ -1,10 +1,15 @@
+##[] Unreleased
+* Update dependencies
+* Add 2 icons
+* Link 1 icon
+
 ## [1.7.2]
 * Update dependencies
 * Update translation
 * Add czech and slovak language
-* Add 22 new icons
+* Add 20 new icons
 * Update 4 icons
-* Link 3 icons
+* Link 2 icons
 
 <details>
 <summary>[1.7.1]</summary
