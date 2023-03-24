@@ -2,9 +2,9 @@
 * Update dependencies
 * Update translation
 * Add czech and slovak language
-* Add 20 new icons
+* Add 22 new icons
 * Update 4 icons
-* Link 2 icons
+* Link 3 icons
 
 <details>
 <summary>[1.7.1]</summary
