@@ -1183,6 +1183,7 @@
     <icon drawable="@drawable/mi_fitness" package="com.metaflow.lumen" name="Mi Fitness" />
     <icon drawable="@drawable/mi_fitness" package="com.xiaomi.wearable" name="Mi Fitness" />
     <icon drawable="@drawable/mi_freeform" package="com.sunshine.freeform" name="Mi Freeform" />
+    <icon drawable="@drawable/mighty_doom" package="com.bethsoft.ubu" name="Mighty Doom" />
     <icon drawable="@drawable/mi_home" package="com.xiaomi.smarthome" name="Mi Home" />
     <icon drawable="@drawable/mi_home" package="com.xiaomi.smarthome.tv.global4" name="Mi Home" />
     <icon drawable="@drawable/mijn" package="be.cm.cmapp" name="Mijn CM - Ma MC" />
@@ -1972,6 +1973,7 @@
     <icon drawable="@drawable/threes" package="vo.threes.free" name="Threes" />
     <icon drawable="@drawable/thud" package="com.aerotoad.thud" name="Thud" />
     <icon drawable="@drawable/ticket_restaurant" package="com.edenred.mobiletr" name="Ticket Restaurant" />
+    <icon drawable="@drawable/ticketmaster" package="com.ticketmaster.tickets.international" name="Ticketmaster" />
     <icon drawable="@drawable/ticktick" package="com.ticktick.task" name="TickTick" />
     <icon drawable="@drawable/tidal" package="com.aspiro.tidal" name="Tidal" />
     <icon drawable="@drawable/tidio" package="com.tidiochat.app" name="Tidio" />
