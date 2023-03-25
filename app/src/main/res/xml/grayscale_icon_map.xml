@@ -752,7 +752,6 @@
     <icon drawable="@drawable/generic_logcat" package="org.omnirom.logcat" name="Logcat" />
     <icon drawable="@drawable/generic_moon" package="app.accrescent.client" name="Accrescent" />
     <icon drawable="@drawable/generic_player" package="com.iven.musicplayergo" name="Player" />
-    <icon drawable="@drawable/generic_player" package="com.jetappfactory.jetaudioplus" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.kapp.youtube.final" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.maxmpz.audioplayer" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.maxmpz.audioplayer.unlock" name="Player" />
@@ -963,6 +962,8 @@
     <icon drawable="@drawable/japanese_dictionary_takoboto" package="jp.takoboto" name="Japanese Dictionary Takoboto" />
     <icon drawable="@drawable/jellyfin" package="org.jellyfin.mobile" name="Jellyfin" />
     <icon drawable="@drawable/jenius" package="com.btpn.dc" name="Jenius" />
+    <icon drawable="@drawable/jetaudio" package="com.jetappfactory.jetaudio" name="jetAudio" />
+    <icon drawable="@drawable/jetaudio" package="com.jetappfactory.jetaudioplus" name="jetAudio" />
     <icon drawable="@drawable/jetquotes" package="www.spikeysanju.jetquotes" name="JetQuotes" />
     <icon drawable="@drawable/jionews" package="com.jio.media.jioxpressnews" name="JioNews" />
     <icon drawable="@drawable/jiosaavn" package="com.jio.media.jiobeats" name="JioSaavn" />
@@ -1036,6 +1037,8 @@
     <icon drawable="@drawable/koduko" package="com.example.koduko" name="Koduko" />
     <icon drawable="@drawable/komoot" package="de.komoot.android" name="Komoot" />
     <icon drawable="@drawable/kore" package="org.xbmc.kore" name="Kore" />
+    <icon drawable="@drawable/koreader" package="org.koreader.launcher" name="KOReader" />
+    <icon drawable="@drawable/koreader" package="org.koreader.launcher.fdroid" name="KOReader" />
     <icon drawable="@drawable/kotatsu" package="org.koitharu.kotatsu" name="Kotatsu" />
     <icon drawable="@drawable/krita" package="org.krita" name="Krita" />
     <icon drawable="@drawable/kucoin" package="com.kubi.kucoin" name="Kucoin" />
@@ -1695,6 +1698,7 @@
     <icon drawable="@drawable/sai" package="com.aefyr.sai.fdroid" name="SAI" />
     <icon drawable="@drawable/saikou" package="ani.saikou" name="Saikou" />
     <icon drawable="@drawable/saikou" package="ani.saikou.beta" name="Saikou" />
+    <icon drawable="@drawable/salatuk" package="com.hbouzidi.fiveprayers" name="Salatuk - Prayer time" />
     <icon drawable="@drawable/salatuk" package="com.masarat.salati" name="Salatuk - Prayer time" />
     <icon drawable="@drawable/samsung_health" package="com.sec.android.app.shealth" name="Samsung Health" />
     <icon drawable="@drawable/samsung_health_monitor" package="com.sec.android.shealthmonitors" name="Samsung Health Monitor" />

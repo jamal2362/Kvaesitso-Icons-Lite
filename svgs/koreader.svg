@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke-width="12">
+   <path class="a" d="m34.223 29.391v133.03a7.9074 7.58 0 0 0 7.7097 7.58h9.4098v-148h-9.4098a7.9074 7.58 0 0 0-7.7097 7.3905z"/>
+   <path class="a" d="m51.343 22v147.81h98.526a7.9074 7.58 0 0 0 7.9074-7.58v-132.84a7.9074 7.58 0 0 0-7.9074-7.3905z"/>
+   <line class="a" x1="71.586" x2="71.586" y1="73.165" y2="118.65"/>
+  </g>
+  <polyline class="a" transform="matrix(3.9537 0 0 3.79 1.0122 4.9449)" points="24.3 30 19.36 24 24.3 18.04" stroke-width="3.1"/>
+  <line class="a" x1="77.556" x2="71.586" y1="95.905" y2="95.905" stroke-width="12"/>
+  <path class="a" d="m107.9 103.49a15.815 15.16 0 0 0 31.432 0v-15.16a15.815 15.16 0 1 0-31.432 0z" stroke-width="12"/>
+ </g>
+</svg>
