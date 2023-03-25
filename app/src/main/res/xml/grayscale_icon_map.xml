@@ -752,6 +752,7 @@
     <icon drawable="@drawable/generic_logcat" package="org.omnirom.logcat" name="Logcat" />
     <icon drawable="@drawable/generic_moon" package="app.accrescent.client" name="Accrescent" />
     <icon drawable="@drawable/generic_player" package="com.iven.musicplayergo" name="Player" />
+    <icon drawable="@drawable/generic_player" package="com.jetappfactory.jetaudioplus" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.kapp.youtube.final" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.maxmpz.audioplayer" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.maxmpz.audioplayer.unlock" name="Player" />
@@ -968,6 +969,7 @@
     <icon drawable="@drawable/jitsi" package="org.jitsi.meet" name="Jitsi Meet" />
     <icon drawable="@drawable/joplin" package="net.cozic.joplin" name="Joplin" />
     <icon drawable="@drawable/joey_reddit" package="o.o.joey" name="Joey" />
+    <icon drawable="@drawable/joiplay" package="cyou.joiplay.joiplay" name="JoiPlay" />
     <icon drawable="@drawable/joyn" package="de.prosiebensat1digital.seventv" name="Joyn" />
     <icon drawable="@drawable/jtx_board" package="at.techbee.jtx" name="jtx Board" />
     <icon drawable="@drawable/juicessh" package="com.sonelli.juicessh" name="JuiceSSH" />
@@ -1086,6 +1088,7 @@
     <icon drawable="@drawable/loc" package="xyz.abdeltwabmf.loc" name="Loc" />
     <icon drawable="@drawable/localsend" package="org.localsend.localsend_app" name="LocalSend" />
     <icon drawable="@drawable/locket_widget" package="com.locket.Locket" name="Locket Widget" />
+    <icon drawable="@drawable/loeve" package="com.oddstream.lovesolitaire" name="Löve Solitaire" />
     <icon drawable="@drawable/logfox" package="com.f0x1d.logfox" name="LogFox" />
     <icon drawable="@drawable/logseq" package="com.logseq.app" name="Logseq" />
     <icon drawable="@drawable/lolisnatcher" package="com.noaisu.lolisnatcher" name="LoliSnatcher" />
@@ -1527,6 +1530,7 @@
     <icon drawable="@drawable/poweramp_equalizer" package="com.maxmpz.equalizer" name="Poweramp Equalizer" />
     <icon drawable="@drawable/powertunnel" package="io.github.krlvm.powertunnel.android" name="PowerTunnel" />
     <icon drawable="@drawable/ppp" package="sk.henrichg.phoneprofilesplus" name="PhoneProfilesPlus" />
+    <icon drawable="@drawable/ppsspp" package="org.ppsspp.ppssppgold" name="PPSSPP" />
     <icon drawable="@drawable/prepladder" package="com.prepladder.learningapp" name="PrepLadder Learning App" />
     <icon drawable="@drawable/prey" package="com.prey" name="Prey: Find My Phone &amp; Security" />
     <icon drawable="@drawable/printer" package="com.brother.mfc.brprint" name="Printer" />
@@ -1724,6 +1728,7 @@
     <icon drawable="@drawable/screen_recorder" package="com.miui.screenrecorder" name="Screen Recorder" />
     <icon drawable="@drawable/screenshot_tile_noroot" package="com.github.cvzi.screenshottile" name="Screenshot Tile" />
     <icon drawable="@drawable/sd_maid" package="eu.thedarken.sdm" name="SD Maid" />
+    <icon drawable="@drawable/sd_maid" package="eu.darken.sdmse" name="SD Maid" />
     <icon drawable="@drawable/sd_maid_pro" package="eu.thedarken.sdm.unlocker" name="SD Maid Pro" />
     <icon drawable="@drawable/seal" package="com.junkfood.seal" name="Seal" />
     <icon drawable="@drawable/secure_56" package="com.secure56.app" name="56 Secure" />
@@ -2015,7 +2020,7 @@
     <icon drawable="@drawable/traderepublic" package="de.traderepublic.app" name="Trade Republic" />
     <icon drawable="@drawable/tradingview" package="com.tradingview.tradingviewapp" name="TradingView" />
     <icon drawable="@drawable/trail_sense" package="com.kylecorry.trail_sense" name="Trail Sense" />
-    <icon drawable="@drawable/translate_you" package="com.bnyro.translate.nf" name="Translate You" />
+    <icon drawable="@drawable/translate_you" package="com.bnyro.translate" name="Translate You" />
     <icon drawable="@drawable/transportr" package="de.grobox.liberario" name="Transportr" />
     <icon drawable="@drawable/trendyol" package="trendyol.com" name="Trendyol" />
     <icon drawable="@drawable/trenitalia" package="com.lynxspa.prontotreno" name="Trenitalia" />
@@ -2226,6 +2231,7 @@
     <icon drawable="@drawable/zapp" package="de.christinecoenen.code.zapp" name="Zapp" />
     <icon drawable="@drawable/zara" package="com.inditex.zara" name="Zara" />
     <icon drawable="@drawable/zarchiver" package="ru.zdevs.zarchiver" name="ZArchiver" />
+    <icon drawable="@drawable/zarchiver" package="ru.zdevs.zarchiver.pro" name="ZArchiver" />
     <icon drawable="@drawable/zattoo" package="com.zattoo.player" name="Zattoo - TV Streaming App" />
     <icon drawable="@drawable/zdfheute" package="de.heute.mobile" name="ZDF Heute" />
     <icon drawable="@drawable/zdfmediathek" package="com.zdf.android.mediathek" name="ZDFmediathek" />
