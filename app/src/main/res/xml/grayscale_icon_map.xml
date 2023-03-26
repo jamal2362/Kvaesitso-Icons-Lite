@@ -1512,6 +1512,7 @@
     <icon drawable="@drawable/pizza_hut" package="pt.wingman.pizzahut" name="Pizza Hut" />
     <icon drawable="@drawable/pizza_hut" package="se.leeroygroup.pizzahut" name="Pizza Hut" />
     <icon drawable="@drawable/pizza_hut" package="tr.com.pizzahut" name="Pizza Hut" />
+    <icon drawable="@drawable/placetel" package="de.placetel.phone.android" name="Placetel Phone" />
     <icon drawable="@drawable/play_integrity_api_checker" package="gr.nikolasspyr.integritycheck" name="Play Integrity API Checker" />
     <icon drawable="@drawable/playsuisse" package="ch.srgssr.playsuisse.tv" name="Play Suisse" />
     <icon drawable="@drawable/plex" package="com.plexapp.android" name="Plex" />
@@ -1732,7 +1733,7 @@
     <icon drawable="@drawable/screen_recorder" package="com.miui.screenrecorder" name="Screen Recorder" />
     <icon drawable="@drawable/screenshot_tile_noroot" package="com.github.cvzi.screenshottile" name="Screenshot Tile" />
     <icon drawable="@drawable/sd_maid" package="eu.thedarken.sdm" name="SD Maid" />
-    <icon drawable="@drawable/sd_maid" package="eu.darken.sdmse" name="SD Maid" />
+    <icon drawable="@drawable/sd_maid_se" package="eu.darken.sdmse" name="SD Maid SE" />
     <icon drawable="@drawable/sd_maid_pro" package="eu.thedarken.sdm.unlocker" name="SD Maid Pro" />
     <icon drawable="@drawable/seal" package="com.junkfood.seal" name="Seal" />
     <icon drawable="@drawable/secure_56" package="com.secure56.app" name="56 Secure" />
@@ -2093,6 +2094,7 @@
     <icon drawable="@drawable/vanced_manager" package="com.vanced.manager" name="Vanced Manager" />
     <icon drawable="@drawable/vanced_youtube_music" package="com.vanced.android.apps.youtube.music" name="Vanced YouTube Music" />
     <icon drawable="@drawable/vape" package="liquidrechner.thiemo.mathmaster.liquid" name="Base und Liquid Rechner" />
+    <icon drawable="@drawable/vape_tool" package="com.stasbar.vape_tool" name="Vape Tool" />
     <icon drawable="@drawable/vector_asset_creator" package="com.inglesdivino.vectorassetcreator" name="Vector Asset Creator" />
     <icon drawable="@drawable/vectorpinball" package="com.dozingcatsoftware.bouncy" name="Vector Pinball" />
     <icon drawable="@drawable/vflat" package="com.voyagerx.scanner" name="vFlat" />

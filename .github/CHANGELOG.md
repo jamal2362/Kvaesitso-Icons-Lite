@@ -1,8 +1,9 @@
 ##[] Unreleased
 * Update dependencies
 * Fix package name
-* Add 10 icons
-* Link 4 icons
+* Add 13 icons
+* Link 3 icons
+* Update 1 icons
 
 ## [1.7.2]
 * Update dependencies
