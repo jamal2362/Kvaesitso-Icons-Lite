@@ -1776,6 +1776,7 @@
     <icon drawable="@drawable/shouldianswer" package="org.mistergroup.shouldianswer" name="Should I Answer" />
     <icon drawable="@drawable/showly" package="com.michaldrabik.showly2" name="Showly" />
     <icon drawable="@drawable/show_youtube_dislikes" package="com.jesperh.showyoutubedislikes" name="Show Youtube Dislikes" />
+    <icon drawable="@drawable/s-idcheck" package="com.entersekt.authapp.sparkasse" name="S-ID-Check" />
     <icon drawable="@drawable/signal" package="org.thoughtcrime.securesms" name="Signal" />
     <icon drawable="@drawable/silence" package="org.smssecure.smssecure" name="Silence" />
     <icon drawable="@drawable/simons" package="ca.simons.simons" name="Simons - Destination mode" />
