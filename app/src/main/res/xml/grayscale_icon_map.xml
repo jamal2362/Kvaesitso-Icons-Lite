@@ -1776,7 +1776,7 @@
     <icon drawable="@drawable/shouldianswer" package="org.mistergroup.shouldianswer" name="Should I Answer" />
     <icon drawable="@drawable/showly" package="com.michaldrabik.showly2" name="Showly" />
     <icon drawable="@drawable/show_youtube_dislikes" package="com.jesperh.showyoutubedislikes" name="Show Youtube Dislikes" />
-    <icon drawable="@drawable/s-idcheck" package="com.entersekt.authapp.sparkasse" name="S-ID-Check" />
+    <icon drawable="@drawable/s_idcheck" package="com.entersekt.authapp.sparkasse" name="S-ID-Check" />
     <icon drawable="@drawable/signal" package="org.thoughtcrime.securesms" name="Signal" />
     <icon drawable="@drawable/silence" package="org.smssecure.smssecure" name="Silence" />
     <icon drawable="@drawable/simons" package="ca.simons.simons" name="Simons - Destination mode" />
@@ -1900,6 +1900,7 @@
     <icon drawable="@drawable/sudoku" package="com.kaajjo.libresudoku" name="Sudoku" />
     <icon drawable="@drawable/sudoku" package="ee.dustland.android.dustlandsudoku" name="Sudoku" />
     <icon drawable="@drawable/sudoku" package="org.secuso.privacyfriendlysudoku" name="Sudoku" />
+    <icon drawable="@drawable/superfreezz" package="superfreeze.tool.android" name="SuperFreezZ" />
     <icon drawable="@drawable/super_mario_run" package="om.nintendo.zara" name="Super Mario Run" />
     <icon drawable="@drawable/supertuxkart" package="org.supertuxkart.stk" name="SuperTuxKart" />
     <icon drawable="@drawable/supreader" package="com.s2apps.reader" name="Supreader" />
