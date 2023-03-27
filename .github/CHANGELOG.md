@@ -1,7 +1,8 @@
 ##[] Unreleased
 * Update dependencies
+* Update translation
 * Fix package name
-* Add 13 icons
+* Add 18 icons
 * Link 3 icons
 * Update 1 icons
 
