@@ -24,6 +24,7 @@
     <icon drawable="@drawable/aftership" package="com.aftership.AfterShip" name="AfterShip" />
     <icon drawable="@drawable/aida64" package="com.finalwire.aida64" name="AIDA64" />
     <icon drawable="@drawable/airbnb" package="com.airbnb.android" name="Airbnb" />
+    <icon drawable="@drawable/aircanada" package="com.aircanada" name="Air Canada" />
     <icon drawable="@drawable/airguard" package="de.seemoo.at_tracking_detection" name="AirGuard" />
     <icon drawable="@drawable/airguard" package="de.seemoo.at_tracking_detection.release" name="AirGuard" />
     <icon drawable="@drawable/ajio" package="com.ril.ajio" name="Ajio" />
@@ -250,6 +251,8 @@
     <icon drawable="@drawable/burger_king" package="se.burgerking.ordersapp" name="Burger King" />
     <icon drawable="@drawable/burning_series" package="dev.datlag.burningseries" name="Burning Series" />
     <icon drawable="@drawable/busuu" package="com.busuu.android.enc" name="Busuu" />
+    <icon drawable="@drawable/butterfly" package="dev.linwood.butterfly" name="Butterfly" />
+    <icon drawable="@drawable/butterfly" package="dev.linwood.butterfly.nightly" name="Butterfly" />
     <icon drawable="@drawable/button_mapper" package="flar2.homebutton" name="Button Mapper" />
     <icon drawable="@drawable/by_u" package="com.byu.id" name="by.U" />
     <icon drawable="@drawable/bzepaper" package="de.bzv.bz" name="Braunschweiger Zeitung E-Paper" />
@@ -2077,6 +2080,7 @@
     <icon drawable="@drawable/unidays" package="com.myunidays" name="Unidays" />
     <icon drawable="@drawable/unit_converter_ultimate" package="com.physphil.android.unitconverterultimate" name="Unit Converter Ultimate" />
     <icon drawable="@drawable/unit_lab" package="com.samruston.converter" name="Unit Lab" />
+    <icon drawable="@drawable/united_states_constitution" package="com.t3pixel.usconstitution" name="united States Constitution" />
     <icon drawable="@drawable/uniwhere" package="lu.gian.uniwhere" name="Uniwhere" />
     <icon drawable="@drawable/universalcopy" package="com.camel.corp.universalcopy" name="Universal Copy" />
     <icon drawable="@drawable/untis_mobile" package="com.grupet.web.app" name="Untis Mobile" />

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g stroke="#000" stroke-linejoin="round">
+  <g fill="none" stroke-width="8">
+   <rect x="20" y="57.651" width="152" height="76.698"/>
+   <path d="m81.706 67.305 87.613 0.26816m1.0759 10.191-87.884 0.53631m0 11.263 88.149-0.26816m0 11.8h-150.12m0 11.8h150.12m0 11.8h-150.12" stroke-linecap="round"/>
+   <rect x="20.268" y="57.651" width="60.8" height="41.299" stroke-linecap="round"/>
+  </g>
+  <g transform="matrix(.01803 0 0 .015143 23.814 62.348)" fill="#fff" stroke-linecap="round" stroke-width="60.52">
+   <g id="s18">
+    <g id="s9" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="60.52">
+     <g id="s5">
+      <g id="s4" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="60.52">
+       <path id="s" d="m247 90 70.534 217.08-184.66-134.16h228.25l-184.66 134.16z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="60.52"/>
+       <use y="420" fill="#ffffff" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="60.52" xlink:href="#s"/>
+       <use y="840" fill="#ffffff" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="60.52" xlink:href="#s"/>
+       <use y="1260" fill="#ffffff" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="60.52" xlink:href="#s"/>
+      </g>
+      <use y="1680" fill="#ffffff" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="60.52" xlink:href="#s"/>
+     </g>
+     <use x="247" y="210" fill="#ffffff" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="60.52" xlink:href="#s4"/>
+    </g>
+    <use x="494" fill="#ffffff" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="60.52" xlink:href="#s9"/>
+   </g>
+   <g fill="#ffffff" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="60.52">
+    <use x="988" xlink:href="#s18"/>
+    <use x="1976" xlink:href="#s9"/>
+    <use x="2470" xlink:href="#s5"/>
+   </g>
+  </g>
+ </g>
+</svg>
