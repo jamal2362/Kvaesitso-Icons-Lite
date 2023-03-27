@@ -14,7 +14,8 @@
     <string name="drawable_prefix">Tekenbaar:</string>
     <string name="github_link">GitHub bekijken</string>
     <string name="contributors">Medewerkers</string>
-    <string name="special_thanks_icon">Voor inspiratie bij het applicatiepictogram.</string>
+    <string name="special_thanks_icon">Voor het applicatiepictogram.</string>
     <string name="special_thanks_name">Om de toepassing haar naam te geven.</string>
     <string name="special_thanks_source">Voor de broncode.</string>
+    <string name="changelog_link">Wijzigingen</string>
 </resources>
