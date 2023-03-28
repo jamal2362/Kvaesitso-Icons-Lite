@@ -2,7 +2,7 @@
 * Update dependencies
 * Update translation
 * Fix package name
-* Add 18 icons
+* Add 21 icons
 * Link 3 icons
 * Update 5 icons
 
