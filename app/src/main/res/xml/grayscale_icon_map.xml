@@ -344,6 +344,7 @@
     <icon drawable="@drawable/catogram" package="org.nift4.catox" name="Catogram" />
     <icon drawable="@drawable/catogram" package="ua.itaysonlab.messenger" name="Catogram" />
     <icon drawable="@drawable/cellmapper" package="cellmapper.net.cellmapper" name="Cellmapper" />
+    <icon drawable="@drawable/chargemonitor" package="com.waterdaaan.chargemonitor" name="Charge Monitor" />. 
     <icon drawable="@drawable/check24" package="de.check24.check24" name="Check24" />
     <icon drawable="@drawable/cheogram" package="com.cheogram.android" name="Cheogram" />
     <icon drawable="@drawable/chess" package="com.chess" name="Chess" />
@@ -1103,6 +1104,7 @@
     <icon drawable="@drawable/lsposed" package="org.lsposed.manager" name="LSPosed Manager" />
     <icon drawable="@drawable/lunarsettings" package="rasel.lunar.launcher" name="Lunar Settings" />
     <icon drawable="@drawable/lyft" package="me.lyft.android" name="Lyft" />
+    <icon drawable="@drawable/m365_tools" package="app.peretti.m365tools" name="m365 Tools" />  
     <icon drawable="@drawable/m4a" package="grant.m4a.to.mp3" name="M4a to Mp3 Converter" />
     <icon drawable="@drawable/macrodeck" package="com.suchbyte.macrodeck" name="Macro Deck" />
     <icon drawable="@drawable/magic_arena" package="com.wizards.mtga" name="Magic Arena" />
@@ -2206,6 +2208,7 @@
     <icon drawable="@drawable/xbox_game_pass" package="com.gamepass" name="Xbox Game Pass" />
     <icon drawable="@drawable/xda" package="com.xda.labs" name="XDA" />
     <icon drawable="@drawable/xda" package="com.xda.labs.play" name="XDA" />
+    <icon drawable="@drawable/xiaodash" package="m365.xiaodash.scooter" name="Xiaodash" />
     <icon drawable="@drawable/xmanager" package="com.xc3fff0e.xmanager" name="xManager" />
     <icon drawable="@drawable/xplore_file_manager" package="com.lonelycatgames.Xplore" name="X-plore" />
     <icon drawable="@drawable/xodo_pdf" package="com.xodo.pdf.reader" name="Xodo PDF Reader &amp; Editor" />
