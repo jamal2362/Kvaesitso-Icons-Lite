@@ -4,7 +4,7 @@
 * Fix package name
 * Add 18 icons
 * Link 3 icons
-* Update 1 icons
+* Update 5 icons
 
 ## [1.7.2]
 * Update dependencies
