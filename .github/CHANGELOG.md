@@ -2,8 +2,8 @@
 * Update dependencies
 * Update translation
 * Fix package name
-* Add 22 icons
-* Link 6 icons
+* Add 24 icons
+* Link 7 icons
 * Update 5 icons
 
 ## [1.7.2]

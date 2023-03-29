@@ -741,10 +741,10 @@
     <icon drawable="@drawable/generic_earth" package="com.afkettler.earth" name="Earth" />
     <icon drawable="@drawable/generic_earth" package="com.afkettler.pro.earth" name="Earth" />
     <icon drawable="@drawable/generic_email" package="com.android.email" name="Email" />
-    <icon drawable="@drawable/generic_games" package="com.YovoGames.dentist" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.age.wgg.appspot" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.amayasoft.dinosaur.games.little.kids.toddlers" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.anoshenko.android.mahjongg" name="Games" />
+    <icon drawable="@drawable/generic_games" package="com.ea.games.nfs13_row" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.foxcake.mirage.android" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.kabam.underworldandroid" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.lulo.scrabble.classicwordsplus" name="Games" />
@@ -754,6 +754,7 @@
     <icon drawable="@drawable/generic_games" package="com.riotgames.league.teamfighttactics" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.rvappstudios.jigsaw.puzzles.kids" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.storytoys.miffy.free.android.googleplay" name="Games" />
+    <icon drawable="@drawable/generic_games" package="com.YovoGames.dentist" name="Games" />
     <icon drawable="@drawable/generic_games" package="io.chaldeaprjkt.gamespace" name="Games" />
     <icon drawable="@drawable/generic_icon" package="com.simform.videoimageeditor" name="Apk" />
     <icon drawable="@drawable/generic_logcat" package="com.dp.logcatapp" name="Logcat" />
@@ -1326,6 +1327,7 @@
     <icon drawable="@drawable/ninenine" package="com.taxis99" name="99" />
     <icon drawable="@drawable/nintendo_switch_online" package="com.nintendo.znca" name="Nintendo Switch Online" />
     <icon drawable="@drawable/noice" package="com.github.ashutoshgngwr.noice" name="Noice" />
+    <icon drawable="@drawable/noisefit" package="com.noisefit" name="NoiseFit" />
     <icon drawable="@drawable/nomad_sculpt" package="com.stephaneginier.nomad" name="Nomad Sculpt" />
     <icon drawable="@drawable/nonogramm_katana" package="com.ucdevs.jcross" name="Nonogramm Katana" />
     <icon drawable="@drawable/nord_android" package="com.nordvpn.android" name="NordVPN" />
@@ -2110,6 +2112,7 @@
     <icon drawable="@drawable/vector_asset_creator" package="com.inglesdivino.vectorassetcreator" name="Vector Asset Creator" />
     <icon drawable="@drawable/vectorpinball" package="com.dozingcatsoftware.bouncy" name="Vector Pinball" />
     <icon drawable="@drawable/vflat" package="com.voyagerx.scanner" name="vFlat" />
+    <icon drawable="@drawable/vi" package="com.mventus.selfcare.activity" name="Vi" />
     <icon drawable="@drawable/via_browser" package="mark.via.gp" name="Via Browser" />
     <icon drawable="@drawable/vibemusic" package="com.webyte.vibe_music" name="Vibe Music" />
     <icon drawable="@drawable/viber" package="com.viber.voip" name="Viber" />
