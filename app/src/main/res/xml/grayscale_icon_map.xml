@@ -562,6 +562,10 @@
     <icon drawable="@drawable/electron" package="com.mahersafadi.electron" name="Electron" />
     <icon drawable="@drawable/element" package="im.vector.app" name="Element" />
     <icon drawable="@drawable/ella" package="rocks.poopjournal.Ella" name="Ella" />
+    <icon drawable="@drawable/emag" package="bg.emag.android" name="eMag" />
+    <icon drawable="@drawable/emag" package="hu.emag.android" name="eMag" />
+    <icon drawable="@drawable/emag" package="ro.emag.android" name="eMag" />
+    <icon drawable="@drawable/emag" package="ro.emag.marketplace" name="eMag" />
     <icon drawable="@drawable/emt" package="es.emtvalencia.emt" name="EMT Valencia" />
     <icon drawable="@drawable/energize" package="com.flasskamp.energize" name="Energize" />
     <icon drawable="@drawable/englishwhiz" package="com.javalon.englishwhiz" name="EnglishWhiz" />
