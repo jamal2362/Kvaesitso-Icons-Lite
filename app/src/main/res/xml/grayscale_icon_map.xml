@@ -572,6 +572,7 @@
     <icon drawable="@drawable/enpara" package="finansbank.enpara" name="Enpara" />
     <icon drawable="@drawable/enpass" package="io.enpass.app" name="Enpass" />
     <icon drawable="@drawable/epassgo" package="de.passgo.passgo" name="ePassGo" />
+    <icon drawable="@drawable/eqbank" package="com.eqbank.eqbank" name="EQ Bank" />
     <icon drawable="@drawable/erste_hilfe" package="com.cube.gdpc.che" name="Erste Hilfe" />
     <icon drawable="@drawable/espn" package="com.espn.score_center" name="ESPN" />
     <icon drawable="@drawable/eufy_clean" package="com.eufylife.smarthome" name="eufy Clean" />
