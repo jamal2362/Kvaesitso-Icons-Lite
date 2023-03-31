@@ -572,6 +572,8 @@
     <icon drawable="@drawable/emag" package="ro.emag.android" name="eMag" />
     <icon drawable="@drawable/emag" package="ro.emag.marketplace" name="eMag" />
     <icon drawable="@drawable/emt" package="es.emtvalencia.emt" name="EMT Valencia" />
+    <icon drawable="@drawable/enel" package="it.enel" name="Enel Energia" />
+    <icon drawable="@drawable/enel_xpay" package="com.enel.mobile.xpay" name="Enel X Pay" />
     <icon drawable="@drawable/energize" package="com.flasskamp.energize" name="Energize" />
     <icon drawable="@drawable/englishwhiz" package="com.javalon.englishwhiz" name="EnglishWhiz" />
     <icon drawable="@drawable/enpara" package="finansbank.enpara" name="Enpara" />
@@ -1030,6 +1032,7 @@
     <icon drawable="@drawable/keepass2android" package="keepass2android.keepass2android" name="Keepass2Android" />
     <icon drawable="@drawable/keepassdx" package="com.kunzisoft.keepass.free" name="KeePassDX" />
     <icon drawable="@drawable/keepassdx" package="com.kunzisoft.keepass.libre" name="KeePassDX" />
+    <icon drawable="@drawable/kemba" package="org.kemba.grip" name="KEMBA" />
     <icon drawable="@drawable/kernel_su" package="me.weishu.kernelsu" name="KernelSU" />
     <icon drawable="@drawable/keybase" package="io.keybase.ossifrage" name="Keybase" />
     <icon drawable="@drawable/keyboard" package="com.menny.android.anysoftkeyboard" name="Simple Keyboard" />
@@ -1070,6 +1073,7 @@
     <icon drawable="@drawable/kvaesitso_icons" package="de.kvaesitso.icons" name="Kvaesitso Icons" />
     <icon drawable="@drawable/kwgt" package="org.kustom.widget" name="KWGT" />
     <icon drawable="@drawable/kwgtpro" package="org.kustom.widget.pro" name="KWGT Pro" />
+    <icon drawable="@drawable/kyup8d" package="com.kyupid.kyupid_app" name="Kyupid" />
     <icon drawable="@drawable/labcoat" package="com.commit451.gitlab" name="Labcoat" />
     <icon drawable="@drawable/lastpass" package="com.lastpass.lpandroid" name="LastPass" />
     <icon drawable="@drawable/lawnchair" package="app.lawnchair" name="Lawnchair" />
@@ -1309,6 +1313,8 @@
     <icon drawable="@drawable/nc_photos" package="com.nkming.nc_photos.gitlab" name="Photos (for Nextcloud)" />
     <icon drawable="@drawable/nearbysharing" package="de.shortdev.nearby_sharing_windows" name="Nearby Sharing Windows 10 / 11" />
     <icon drawable="@drawable/nebula" package="tv.standard.nebula" name="Nebula" />
+    <icon drawable="@drawable/neeva" package="com.neeva.app" name="Neeva" />
+    <icon drawable="@drawable/neeva_gist" package="com.neeva.search" name="Neeva Gist" />
     <icon drawable="@drawable/negentwee" package="nl.negentwee" name="9292" />
     <icon drawable="@drawable/nekogram" package="nekox.messenger" name="Nekogram" />
     <icon drawable="@drawable/nekogram" package="tw.nekomimi.nekogram" name="Nekogram" />
@@ -1504,6 +1510,7 @@
     <icon drawable="@drawable/picsart" package="com.picsart.studio" name="Picsart" />
     <icon drawable="@drawable/pigments" package="com.sorincovor.pigments" name="Pigments" />
     <icon drawable="@drawable/pikpak" package="com.pikcloud.pikpak" name="PikPak" />
+    <icon drawable="@drawable/pinnit" package="dev.sasikanth.pinnit" name="Pinnit" />
     <icon drawable="@drawable/pinterest" package="com.pinterest" name="Pinterest" />
     <icon drawable="@drawable/pixapencil" package="com.therealbluepandabear.pixapencil" name="PixaPencil" />
     <icon drawable="@drawable/pixel_buds" package="com.google.android.apps.wearables.maestro.companion" name="Pixel Buds" />
@@ -2061,6 +2068,7 @@
     <icon drawable="@drawable/trime" package="com.osfans.trime" name="Trime" />
     <icon drawable="@drawable/trivia" package="com.nima.triviaapp" name="Trivia App" />
     <icon drawable="@drawable/trivia_you" package="com.bnyro.trivia" name="Trivia You" />
+    <icon drawable="@drawable/trueshot" package="fusion.trueshot" name="TrueShot" />
     <icon drawable="@drawable/trueskate" package="com.trueaxis.trueskate" name="True Skate" />
     <icon drawable="@drawable/trust_wallet" package="app.fedilab.nitterizeme" name="Trust Wallet" />
     <icon drawable="@drawable/trust_wallet" package="com.wallet.crypto.trustapp" name="Trust Wallet" />
