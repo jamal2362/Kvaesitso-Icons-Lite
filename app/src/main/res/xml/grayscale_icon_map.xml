@@ -1073,7 +1073,7 @@
     <icon drawable="@drawable/kvaesitso_icons" package="de.kvaesitso.icons" name="Kvaesitso Icons" />
     <icon drawable="@drawable/kwgt" package="org.kustom.widget" name="KWGT" />
     <icon drawable="@drawable/kwgtpro" package="org.kustom.widget.pro" name="KWGT Pro" />
-    <icon drawable="@drawable/kyup8d" package="com.kyupid.kyupid_app" name="Kyupid" />
+    <icon drawable="@drawable/kyupid" package="com.kyupid.kyupid_app" name="Kyupid" />
     <icon drawable="@drawable/labcoat" package="com.commit451.gitlab" name="Labcoat" />
     <icon drawable="@drawable/lastpass" package="com.lastpass.lpandroid" name="LastPass" />
     <icon drawable="@drawable/lawnchair" package="app.lawnchair" name="Lawnchair" />
