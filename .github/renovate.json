@@ -3,7 +3,7 @@
         "dependencies"
     ],
     "extends": [
-        "config:base",
+        "config:base"
     ],
     "ignoreDeps": [
         "com.google.android.gms.oss-licenses-plugin"
