@@ -1,4 +1,4 @@
-##[1.7.3] 
+## [1.7.3] 
 * Update dependencies
 * Update translation
 * Fix package name
@@ -7,7 +7,7 @@
 * Update 7 icons
 
 <details>
-<summary>[1.7.2]</summary
+<summary>[1.7.2]</summary>
 * Update dependencies
 * Update translation
 * Add czech and slovak language
@@ -17,7 +17,7 @@
 </details>
 
 <details>
-<summary>[1.7.1]</summary
+<summary>[1.7.1]</summary>
 * Add Pull & Bear
 * Add PDF Doc Scan
 * Add 56 Secure
