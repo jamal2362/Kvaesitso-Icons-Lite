@@ -263,6 +263,7 @@
     <icon drawable="@drawable/caixasign" package="es.caixabank.caixabanksign" name="CaixaBank Sign - Firma digital" />
     <icon drawable="@drawable/calculator" package="com.android.bbkcalculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.android.calculator2" name="Calculator" />
+    <icon drawable="@drawable/calculator" package="com.coloros.calculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.darkempire78.opencalculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.google.android.calculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.inator.calculator" name="Calculator" />
@@ -624,6 +625,7 @@
     <icon drawable="@drawable/files" package="com.android.documentsui" name="Files" />
     <icon drawable="@drawable/files" package="com.android.fileexplorer" name="Files" />
     <icon drawable="@drawable/files" package="com.android.filemanager" name="Files" />
+    <icon drawable="@drawable/files" package="com.coloros.filemanager" name="Files" />
     <icon drawable="@drawable/files" package="com.coloros.files" name="Files" />
     <icon drawable="@drawable/files" package="com.google.android.documentsui" name="Files" />
     <icon drawable="@drawable/files" package="com.huawei.hidisk" name="Files" />
@@ -770,6 +772,7 @@
     <icon drawable="@drawable/generic_logcat" package="com.dp.logcatapp" name="Logcat" />
     <icon drawable="@drawable/generic_logcat" package="org.omnirom.logcat" name="Logcat" />
     <icon drawable="@drawable/generic_moon" package="app.accrescent.client" name="Accrescent" />
+    <icon drawable="@drawable/generic_player" package="com.coloros.video" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.iven.musicplayergo" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.kapp.youtube.final" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.maxmpz.audioplayer" name="Player" />
@@ -1659,6 +1662,7 @@
     <icon drawable="@drawable/recorder" package="com.android.soundrecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.bnyro.recorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.certified.audionote" name="Recorder" />
+    <icon drawable="@drawable/recorder" package="com.coloros.soundrecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.dimowner.audiorecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.github.axet.audiorecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.google.android.apps.recorder" name="Recorder" />
@@ -2317,6 +2321,7 @@
     <icon drawable="@array/grayscale_calendar_icons" package="ws.xsoh.etar" />
     <icon drawable="@array/grayscale_clock_icons" package="com.android.deskclock" />
     <icon drawable="@array/grayscale_clock_icons" package="com.best.deskclock" />
+    <icon drawable="@array/grayscale_clock_icons" package="com.coloros.alarmclock" />
     <icon drawable="@array/grayscale_clock_icons" package="com.dslit.floatingclock" />
     <icon drawable="@array/grayscale_clock_icons" package="com.google.android.deskclock" />
     <icon drawable="@array/grayscale_clock_icons" package="com.sec.android.app.clockpackage" />
