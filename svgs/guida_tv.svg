@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <g stroke="#000">
+    <circle class="a" cx="96" cy="96" r="76" stroke-width="8"/>
+    <g stroke-miterlimit="10">
+     <path class="st5" d="m55.506 72.644c0-4.6988-4.4771-8.5079-10-8.5079-5.5228 0-10 3.8091-10 8.5079v8.6684c0 4.6988 4.4772 8.5079 10 8.5079 5.5228 0 10-3.8091 10-8.5079h-10" stroke-width="8"/>
+     <path class="st5" d="m66.802 64.136v17.176c0 4.6988 4.4771 8.5079 10 8.5079 5.5229 0 10-3.8091 10-8.5079v-17.176" stroke-width="8"/>
+     <line class="st5" x1="98.589" x2="98.589" y1="64.136" y2="89.82" stroke-width="8"/>
+    </g>
+   </g>
+   <path class="st5" d="m110.85 89.82v-25.684h6.7925c7.2943 0 13.208 5.0309 13.208 11.237v3.2105c0 6.2059-5.9132 11.237-13.208 11.237z" stroke="#00000f" stroke-miterlimit="10" stroke-width="8"/>
+  </g>
+  <g transform="matrix(3.8462 0 0 3.2423 -65.46 -67.991)" stroke="#00000f" stroke-width="2.2654">
+   <line class="st5" x1="57.73" x2="54.264" y1="45.974" y2="45.974" fill="none" stroke="#00000f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.2654"/>
+  </g>
+  <g fill="none" stroke="#00000f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10">
+   <polyline class="st5" transform="matrix(3.8462 0 0 3.2423 -65.46 -67.991)" points="53.4 48.626 56 40.65 58.6 48.65" stroke-width="2.2654"/>
+   <line class="st5" x1="48.456" x2="89.546" y1="100.78" y2="100.78" stroke-width="8"/>
+   <line class="st5" x1="69.001" x2="69.001" y1="150.79" y2="100.78" stroke-width="8"/>
+   <polyline class="st5" transform="matrix(7.7707 0 0 6.3993 -1943 -159.31)" points="268.65 40.65 266 48.65 263.35 40.65" stroke-width="1.1345"/>
+  </g>
+ </g>
+</svg>

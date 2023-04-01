@@ -879,6 +879,7 @@
     <icon drawable="@drawable/grundgesetz" package="de.bpb.grundgesetz" name="Grundgesetz" />
     <icon drawable="@drawable/guardians" package="com.truecaller.guardians" name="Guardians" />
     <icon drawable="@drawable/gugal" package="com.porg.gugal" name="Gugal" />
+    <icon drawable="@drawable/guida_tv" package="com.ionicframework.tv879795" name="Guida TV" />
     <icon drawable="@drawable/guitartuna" package="com.ovelin.guitartuna" name="Guitartuna" />
     <icon drawable="@drawable/gurgle" package="org.billthefarmer.gurgle" name="Gurgle" />
     <icon drawable="@drawable/gva" package="es.gva.autoservef" name="GVA PuntLABORA" />
@@ -2080,6 +2081,7 @@
     <icon drawable="@drawable/turbotel" package="ellipi.messenger" name="TurboTel" />
     <icon drawable="@drawable/tusky" package="com.keylesspalace.tusky" name="Tusky for Mastodon" />
     <icon drawable="@drawable/tutanota" package="de.tutao.tutanota" name="Tutanota" />
+    <icon drawable="@drawable/tutto" package="com.tcc.android.tmw" name="TMW" />
     <icon drawable="@drawable/tv_time" package="com.tozelabs.tvshowtime" name="TV Time" />
     <icon drawable="@drawable/twelve_club" package="com.twelve.club" name="Twelve Club" />
     <icon drawable="@drawable/twidere" package="com.twidere.twiderex" name="Twidere" />
@@ -2156,6 +2158,7 @@
     <icon drawable="@drawable/voice" package="de.ph1b.audiobook" name="Voice" />
     <icon drawable="@drawable/voila" package="com.voila.mobile.android" name="Voila" />
     <icon drawable="@drawable/vote_info" package="ch.bk.voteinfo" name="VoteInfo" />
+    <icon drawable="@drawable/vpn_ufo" package="com.vpnufo" name="Vpn UFO" />
     <icon drawable="@drawable/vrb" package="de.projektionisten.vrb" name="VRB Fahrinfo &amp; Tickets" />
     <icon drawable="@drawable/vr_securego" package="de.fiducia.smartphone.android.securego.vr" name="VR SecureGo" />
     <icon drawable="@drawable/vr_securego_plus" package="de.fiduciagad.securego.vr" name="VR SecureGo plus" />
