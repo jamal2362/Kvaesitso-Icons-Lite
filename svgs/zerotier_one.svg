@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8">
+  <line class="a" x1="20" x2="172" y1="20" y2="20"/>
+  <line class="a" x1="95.694" x2="95.694" y1="172" y2="20"/>
+  <circle class="a" cx="95.694" cy="96" r="51.351"/>
+ </g>
+</svg>
