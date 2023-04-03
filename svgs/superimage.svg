@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
- <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8">
-  <path class="cls-1" d="m82.991 20a38.289 37.944 0 0 0-38.118 38 38.289 37.944 0 0 0 38.118 38h13.009"/>
-  <path class="cls-1" d="m96 96h13.009a38.289 37.944 0 0 1 38.118 38 38.289 37.944 0 0 1-38.232 38"/>
-  <path class="cls-1" d="m143.61 32.836c-10.566-8.7822-21.985-12.836-47.605-12.836h-13.009"/>
-  <path class="cls-1" d="m48.395 159.16c10.566 8.7822 21.985 12.836 47.605 12.836h13.009"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"><path d="M82.991 20a38.289 37.944 0 0 0-38.118 38 38.289 37.944 0 0 0 38.118 38H96M96 96h13.009a38.289 37.944 0 0 1 38.118 38 38.289 37.944 0 0 1-38.232 38M143.61 32.836C133.044 24.054 121.625 20 96.005 20H82.996" class="cls-1"/><path d="M48.395 159.16C58.961 167.942 70.38 171.996 96 171.996h13.009" class="cls-1"/></g></svg>

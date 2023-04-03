@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
- <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12">
-  <rect class="a" x="134.44" y="25.982" width="35.555" height="96.025" rx="1.9752"/>
-  <path class="a" d="m92.169 27.497-17.405 70.503-17.403-70.503a1.9748 2 0 0 0-1.916-1.5156h-31.483a1.9756 2.0008 0 0 0-1.9164 2.4852l22.716 92.024a1.9752 2.0004 0 0 0 1.9164 1.5152h56.175a1.9748 2 0 0 0 1.9164-1.5152l22.716-92.024a1.9756 2.0008 0 0 0-1.9164-2.4852h-31.485a1.9752 2.0004 0 0 0-1.9152 1.5156z"/>
-  <ellipse class="a" cx="152.22" cy="148.01" rx="17.778" ry="18.005"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"><rect width="35.555" height="96.025" x="134.44" y="25.982" class="a" rx="1.975"/><path d="M92.169 27.497 74.764 98 57.361 27.497a1.975 2 0 0 0-1.916-1.516H23.962a1.976 2 0 0 0-1.916 2.486l22.716 92.024a1.975 2 0 0 0 1.916 1.515h56.175a1.975 2 0 0 0 1.916-1.515l22.716-92.024a1.976 2 0 0 0-1.916-2.486H94.084a1.975 2 0 0 0-1.915 1.516z" class="a"/><ellipse cx="152.22" cy="148.01" class="a" rx="17.778" ry="18.005"/></g></svg>

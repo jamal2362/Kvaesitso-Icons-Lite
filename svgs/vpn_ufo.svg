@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
- <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
-  <path class="a" d="m76.562 87.363v-61.127h19.474a19.979 20.549 0 0 1 0 41.023h-19.474" stroke-width="8"/>
-  <polyline class="a" transform="matrix(7.2125 0 0 7.4183 -48.575 -121.24)" points="25.13 28.12 25.13 19.88 30.59 28.12 30.59 19.88" stroke-width="1.0937"/>
-  <polyline class="a" transform="matrix(7.2125 0 0 7.4183 -48.575 -121.24)" points="14.96 19.88 12.23 28.12 9.5 19.88" stroke-width="1.0937"/>
-  <g stroke-miterlimit="10">
-   <path class="st5" d="m20.419 108.12v39.688c0 10.857 8.5571 19.659 19.113 19.659 10.556 0 19.113-8.8015 19.113-19.659v-39.688" stroke-width="8"/>
-   <polyline class="st5" transform="matrix(7.2125 0 0 7.4183 -664.94 -194.46)" points="104 48.65 104 40.65 108 40.65" stroke-width="1.0937"/>
-   <line class="st5" x1="87.277" x2="106.03" y1="135.26" y2="135.26" stroke-width="8"/>
-   <path class="st5" d="m151.61 166.44c-10.556 0-19.113-8.8014-19.113-19.659v-20.029c0-10.857 8.5571-19.659 19.113-19.659 10.556 0 19.113 8.8015 19.113 19.659v20.029c0 10.857-8.5573 19.659-19.113 19.659z" stroke-width="8"/>
-  </g>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"><path stroke-width="8" d="M76.562 87.363V26.236h19.474a19.979 20.549 0 0 1 0 41.023H76.562" class="a"/><path stroke-width="1.094" d="M25.13 28.12v-8.24l5.46 8.24v-8.24M14.96 19.88l-2.73 8.24-2.73-8.24" class="a" transform="matrix(7.2125 0 0 7.4183 -48.575 -121.24)"/><g stroke-miterlimit="10"><path stroke-width="8" d="M20.419 108.12v39.688c0 10.857 8.557 19.659 19.113 19.659s19.113-8.802 19.113-19.659V108.12" class="st5"/><path stroke-width="1.094" d="M104 48.65v-8h4" class="st5" transform="matrix(7.2125 0 0 7.4183 -664.94 -194.46)"/><path stroke-width="8" d="M87.277 135.26h18.753M151.61 166.44c-10.556 0-19.113-8.801-19.113-19.659v-20.029c0-10.857 8.557-19.659 19.113-19.659s19.113 8.802 19.113 19.659v20.029c0 10.857-8.557 19.659-19.113 19.659z" class="st5"/></g></g></svg>
