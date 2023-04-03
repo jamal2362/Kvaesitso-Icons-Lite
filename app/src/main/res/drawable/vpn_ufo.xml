@@ -4,28 +4,21 @@
     android:viewportWidth="192"
     android:viewportHeight="192">
   <path
-      android:pathData="m76.56,87.36v-61.13h19.47a19.98,20.55 0,0 1,0 41.02h-19.47"
+      android:pathData="M76.56,87.36V26.24h19.47a19.98,20.55 0,0 1,0 41.02H76.56"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M132.68,87.36l0,-61.13l39.38,61.13l0,-61.13"
+      android:pathData="M132.68,87.36l0,-61.13l39.38,61.13l0,-61.13M59.32,26.24l-19.69,61.13 -19.69,-61.13"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M59.32,26.24l-19.69,61.13l-19.69,-61.13"
-      android:strokeLineJoin="round"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="m20.42,108.12v39.69c0,10.86 8.56,19.66 19.11,19.66 10.56,0 19.11,-8.8 19.11,-19.66v-39.69"
+      android:pathData="M20.42,108.12v39.69c0,10.86 8.56,19.66 19.11,19.66s19.11,-8.8 19.11,-19.66V108.12"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"
@@ -39,14 +32,7 @@
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M87.28,135.26L106.03,135.26"
-      android:strokeLineJoin="round"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="m151.61,166.44c-10.56,0 -19.11,-8.8 -19.11,-19.66v-20.03c0,-10.86 8.56,-19.66 19.11,-19.66 10.56,0 19.11,8.8 19.11,19.66v20.03c0,10.86 -8.56,19.66 -19.11,19.66z"
+      android:pathData="M87.28,135.26h18.75M151.61,166.44c-10.56,0 -19.11,-8.8 -19.11,-19.66v-20.03c0,-10.86 8.56,-19.66 19.11,-19.66s19.11,8.8 19.11,19.66v20.03c0,10.86 -8.56,19.66 -19.11,19.66z"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"
