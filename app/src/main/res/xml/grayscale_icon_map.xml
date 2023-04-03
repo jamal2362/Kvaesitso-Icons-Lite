@@ -761,7 +761,6 @@
     <icon drawable="@drawable/generic_games" package="com.age.wgg.appspot" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.amayasoft.dinosaur.games.little.kids.toddlers" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.anoshenko.android.mahjongg" name="Games" />
-    <icon drawable="@drawable/generic_games" package="com.ea.games.nfs13_row" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.foxcake.mirage.android" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.kabam.underworldandroid" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.lulo.scrabble.classicwordsplus" name="Games" />
@@ -1362,6 +1361,7 @@
     <icon drawable="@drawable/nextcloud_notes" package="it.niedermann.owncloud.notes" name="Nextcloud Notes" />
     <icon drawable="@drawable/nextcloudtalk" package="com.nextcloud.talk2" name="Nextcloud Talk" />
     <icon drawable="@drawable/nfcreader" package="se.anyro.nfc_reader" name="NFC Reader" />
+    <icon drawable="@drawable/nfs" package="com.ea.games.nfs13_row" name="Need for Speed" />
     <icon drawable="@drawable/nfsee" package="im.nfc.nfsee" name="NFSee" />
     <icon drawable="@drawable/nhl" package="com.nhl.gc1112.free" name="NHL" />
     <icon drawable="@drawable/niagara_launcher" package="bitpit.launcher" name="Niagara Launcher" />
