@@ -23,6 +23,7 @@
     <icon drawable="@drawable/afk_arena" package="com.lilithgame.hgame.gp" name="Afk Arena" />
     <icon drawable="@drawable/aftership" package="com.aftership.AfterShip" name="AfterShip" />
     <icon drawable="@drawable/aida64" package="com.finalwire.aida64" name="AIDA64" />
+    <icon drawable="@drawable/ai_gallery" package="com.gallery20" name="AI Gallery" />
     <icon drawable="@drawable/aimp" package="com.aimp.player" name="AIMP" />
     <icon drawable="@drawable/airbnb" package="com.airbnb.android" name="Airbnb" />
     <icon drawable="@drawable/aircanada" package="com.aircanada" name="Air Canada" />
@@ -224,6 +225,7 @@
     <icon drawable="@drawable/bukalapak" package="com.bukalapak.android" name="Bukalapak" />
     <icon drawable="@drawable/bumble" package="com.bumble.app" name="Bumble" />
     <icon drawable="@drawable/bundle" package="com.dwarfplanet.bundle" name="Bundle" />
+    <icon drawable="@drawable/bunq" package="com.bunq.android" name="bunq" />
     <icon drawable="@drawable/burger_king" package="air.com.unit9.bkFrApp" name="Burger King" />
     <icon drawable="@drawable/burger_king" package="burgerking.id.android" name="Burger King" />
     <icon drawable="@drawable/burger_king" package="com.bk.ch" name="Burger King" />
@@ -719,7 +721,7 @@
     <icon drawable="@drawable/galaxy_store" package="com.sec.android.app.samsungapps" name="Galaxy Store" />
     <icon drawable="@drawable/gallery" package="com.android.gallery3d" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.coloros.gallery3d" name="Gallery" />
-    <icon drawable="@drawable/gallery" package="com.gallery20" name="Gallery" />
+    <icon drawable="@drawable/ai_gallery" package="com.gallery20" name="AI Gallery" />
     <icon drawable="@drawable/gallery" package="com.github.vauvenal5.yaga" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.huawei.photos" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.miui.gallery" name="Gallery" />
@@ -1358,10 +1360,12 @@
     <icon drawable="@drawable/nextcloud" package="com.nextcloud.client" name="Nextcloud" />
     <icon drawable="@drawable/nextcloud_deck" package="it.niedermann.nextcloud.deck" name="Deck" />
     <icon drawable="@drawable/nextcloud_notes" package="it.niedermann.owncloud.notes" name="Nextcloud Notes" />
+    <icon drawable="@drawable/nextcloudtalk" package="com.nextcloud.talk2" name="Nextcloud Talk" />
     <icon drawable="@drawable/nfcreader" package="se.anyro.nfc_reader" name="NFC Reader" />
     <icon drawable="@drawable/nfsee" package="im.nfc.nfsee" name="NFSee" />
     <icon drawable="@drawable/nhl" package="com.nhl.gc1112.free" name="NHL" />
     <icon drawable="@drawable/niagara_launcher" package="bitpit.launcher" name="Niagara Launcher" />
+    <icon drawable="@drawable/nina" package="de.materna.bbk.mobile.aoo" name="NINA" />
     <icon drawable="@drawable/nine_dash" package="adriandp.ninedash" name="Nine Dash" />
     <icon drawable="@drawable/ninenine" package="com.taxis99" name="99" />
     <icon drawable="@drawable/nintendo_switch_online" package="com.nintendo.znca" name="Nintendo Switch Online" />
@@ -1540,6 +1544,7 @@
     <icon drawable="@drawable/pixeldroid" package="org.pixeldroid.app" name="PixelDroid" />
     <icon drawable="@drawable/pixel_tips" package="com.google.android.apps.tips" name="Pixel Tips" />
     <icon drawable="@drawable/pixel_wallpapers" package="dev.wacko1805.pixel.wallpapers" name="Pixel Walls" />
+    <icon drawable="@drawable/pix_wallpapers" package="com.pashapuma.pix.wallpapers" name="Pix Wallpapers" />
     <icon drawable="@drawable/pixiv" package="jp.pxv.android" name="pixiv" />
     <icon drawable="@drawable/pixolor" package="com.embermitre.pixolor.app" name="Pixolor" />
     <icon drawable="@drawable/pizza_hut" package="bn.com.pizzahut.OSPHB" name="Pizza Hut" />
@@ -1578,6 +1583,8 @@
     <icon drawable="@drawable/pocketpaint" package="org.catrobat.paintroid" name="Paintroid" />
     <icon drawable="@drawable/pocketplan" package="com.pocket_plan.j7_003" name="PocketPlan" />
     <icon drawable="@drawable/podcastaddict" package="com.bambuna.podcastaddict" name="Podcast Addict" />
+    <icon drawable="@drawable/podverse" package="com.podverse" name="Podverse" />
+    <icon drawable="@drawable/podverse" package="com.podverse.fdroid" name="Podverse" />
     <icon drawable="@drawable/pokemon_go" package="com.nianticlabs.pokemongo" name="Pokémon GO" />
     <icon drawable="@drawable/pokemon_unite" package="jp.pokemon.pokemonunite" name="Pokémon UNITE" />
     <icon drawable="@drawable/polarflow" package="fi.polar.polarflow" name="Polar Flow" />
@@ -1842,7 +1849,7 @@
     <icon drawable="@drawable/simons" package="ca.simons.simons" name="Simons - Destination mode" />
     <icon drawable="@drawable/simple_gallery" package="com.bnyro.wallpaper" name="Simple Gallery" />
     <icon drawable="@drawable/simple_gallery" package="com.google.android.apps.wallpaper" name="Simple Gallery" />
-    <icon drawable="@drawable/simple_gallery" package="com.pashapuma.pix.wallpapers" name="Simple Gallery" />
+    <icon drawable="@drawable/pix_wallpapers" package="com.pashapuma.pix.wallpapers" name="Pix Wallpapers" />
     <icon drawable="@drawable/simple_gallery" package="com.simplemobiletools.gallery" name="Simple Gallery" />
     <icon drawable="@drawable/simple_gallery" package="com.simplemobiletools.gallery.pro" name="Simple Gallery" />
     <icon drawable="@drawable/simple_gallery" package="com.sonyericsson.album" name="Simple Gallery" />
@@ -1853,6 +1860,7 @@
     <icon drawable="@drawable/simple_notes" package="com.simplemobiletools.notes.pro" name="Simple Notes" />
     <icon drawable="@drawable/simple_reminder" package="felixwiemuth.simplereminder" name="SimpleReminder" />
     <icon drawable="@drawable/simple_social" package="com.creativetrends.simple.app" name="Simple Social" />
+    <icon drawable="@drawable/simplex" package="chat.simplex.app" name="SimpleX Chat" />
     <icon drawable="@drawable/simpl_pay" package="com.simpl.android" name="Simpl Pay Later" />
     <icon drawable="@drawable/simplytranslate" package="com.simplytranslate" name="SimplyTranslate" />
     <icon drawable="@drawable/simplytranslate" package="com.simplytranslate_mobile" name="SimplyTranslate" />
@@ -1927,6 +1935,7 @@
     <icon drawable="@drawable/spotify" package="com.spotify.music" name="Spotify" />
     <icon drawable="@drawable/s_pushtan" package="com.starfinanz.mobile.android.pushtan" name="S-pushTAN" />
     <icon drawable="@drawable/squircle" package="com.blacksquircle.ui" name="Squircle IDE" />
+    <icon drawable="@drawable/spritmonitor" package="de.spritmonitor.smapp_mp" name="Spritmonitor" />
     <icon drawable="@drawable/standard_notes" package="com.standardnotes" name="Standard Notes" />
     <icon drawable="@drawable/starbucks" package="com.starbucks.tr" name="Starbucks" />
     <icon drawable="@drawable/stark_hantel" package="se.virtualtrainer.dumbbell" name="Stark Hantel" />
@@ -1938,6 +1947,7 @@
     <icon drawable="@drawable/steam_link" package="com.valvesoftware.steamlink" name="Steam Link" />
     <icon drawable="@drawable/stellio" package="io.stellio.music" name="Stellio" />
     <icon drawable="@drawable/stepik" package="org.stepic.droid" name="Stepik" />
+    <icon drawable="@drawable/steuerbot" package="com.steuerbot" name="Steuerbot" />
     <icon drawable="@drawable/sthubert" package="com.cara.sthubert" name="St-Hubert" />
     <icon drawable="@drawable/sticker_app" package="de.platzuff" name="StickerApp" />
     <icon drawable="@drawable/stickers_for_whatsapp" package="com.dstukalov.watelegramstickers" name="Unofficial Telegram Stickers for WhatsApp" />
@@ -2012,6 +2022,7 @@
     <icon drawable="@drawable/telegram" package="org.telegram.messenger.web" name="Telegram" />
     <icon drawable="@drawable/telegram" package="org.thunderdog.challegram" name="Telegram" />
     <icon drawable="@drawable/telegram" package="org.thunderdog.challegramtwo" name="Telegram" />
+    <icon drawable="@drawable/telekom" package="de.telekom.android.customercenter" name="Telekom" />
     <icon drawable="@drawable/telenet" package="be.telenet.telenetapp" name="Telemet" />
     <icon drawable="@drawable/telenet_tv" package="be.telenet.tv" name="Telenet TV" />
     <icon drawable="@drawable/telepass" package="uk.co.novaware.telepass.android" name="Telepass" />
