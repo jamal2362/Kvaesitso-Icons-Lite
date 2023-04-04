@@ -598,6 +598,7 @@
     <icon drawable="@drawable/evoland" package="air.com.shirogames.evoland12" name="Evoland" />
     <icon drawable="@drawable/exodusprivacy" package="org.eu.exodus_privacy.exodusprivacy" name="Exodus" />
     <icon drawable="@drawable/exteragram" package="com.exteragram.messenger" name="exteraGram" />
+    <icon drawable="@drawable/extinguish" package="own.moderpach.extinguish" name="Extinguish" />
     <icon drawable="@drawable/f411" package="marlon.mobilefor_4411" name="4411" />
     <icon drawable="@drawable/facebook" package="com.facebook.katana" name="Facebook" />
     <icon drawable="@drawable/facebook" package="com.facebook.lite" name="Facebook" />

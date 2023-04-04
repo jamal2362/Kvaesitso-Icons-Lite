@@ -1,5 +1,5 @@
 ## [] Unreleased
-* Add 30 icons
+* Add 31 icons
 * Link 13 icons
 * Update 1 icon
 
