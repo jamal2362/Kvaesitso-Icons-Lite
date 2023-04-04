@@ -1,6 +1,7 @@
 ## [] Unreleased
-* Add 25 icons
+* Add 30 icons
 * Link 13 icons
+* Update 1 icon
 
 ## [1.7.3] 
 * Update dependencies

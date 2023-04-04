@@ -261,6 +261,9 @@
     <icon drawable="@drawable/button_mapper" package="flar2.homebutton" name="Button Mapper" />
     <icon drawable="@drawable/by_u" package="com.byu.id" name="by.U" />
     <icon drawable="@drawable/bzepaper" package="de.bzv.bz" name="Braunschweiger Zeitung E-Paper" />
+    <icon drawable="@drawable/caixa_br" package="br.com.gabba.Caixa" name="CAIXA" />
+    <icon drawable="@drawable/caixa_codigo" package="br.gov.caixa.codigocaixa" name="Codigo Caixa" />
+    <icon drawable="@drawable/caixa_tem" package="br.gov.caixa.tem" name="CAIXA Tem" />
     <icon drawable="@drawable/caixa" package="es.lacaixa.mobile.android.newwapicon" name="CaixaBankNow" />
     <icon drawable="@drawable/caixasign" package="es.caixabank.caixabanksign" name="CaixaBank Sign - Firma digital" />
     <icon drawable="@drawable/calculator" package="com.android.bbkcalculator" name="Calculator" />
@@ -500,6 +503,7 @@
     <icon drawable="@drawable/digilocker" package="com.digilocker.android" name="DigiLocker" />
     <icon drawable="@drawable/digital_wellbeing" package="com.google.android.apps.wellbeing" name="Digital Wellbeing" />
     <icon drawable="@drawable/digital_wellbeing" package="com.samsung.android.forest" name="Digital Wellbeing" />
+    <icon drawable="@drawable/digital_work_wallet" package="br.gov.dataprev.carteiradigital" name="Digital Work Wallet" />
     <icon drawable="@drawable/discord" package="com.aliucord" name="Discord" />
     <icon drawable="@drawable/discord" package="com.discord" name="Discord" />
     <icon drawable="@drawable/discoveryplus" package="com.discovery.dplay" name="Discovery +" />
@@ -624,6 +628,7 @@
     <icon drawable="@drawable/feza" package="com.innosoft.feza" name="Feza Bina" />
     <icon drawable="@drawable/ffshare" package="com.caydey.ffshare" name="FFShare" />
     <icon drawable="@drawable/ffupdater" package="de.marmaro.krt.ffupdater" name="FFUpdater" />
+    <icon drawable="@drawable/fgts" package="br.gov.caixa.fgts.trabalhador" name="FGTS" />
     <icon drawable="@drawable/fido" package="com.fidosilutions.myaccount" name="Fido my Account" />
     <icon drawable="@drawable/figma" package="com.figma.mirror" name="Figma" />
     <icon drawable="@drawable/filen" package="io.filen.app" name="Filen" />
