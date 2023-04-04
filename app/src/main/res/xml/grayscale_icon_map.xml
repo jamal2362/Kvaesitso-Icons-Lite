@@ -113,6 +113,7 @@
     <icon drawable="@drawable/authy" package="com.authy.authy" name="Authy" />
     <icon drawable="@drawable/autodoc" package="de.autodoc.gmbh" name="Autodoc" />
     <icon drawable="@drawable/automatag" package="com.fillobotto.mp3tagger" name="Automatic Tag Editor" />
+    <icon drawable="@drawable/automation" package="com.jens.automation2" name="Automation" />
     <icon drawable="@drawable/autosync" package="com.ttxapps.drivesync" name="Autosync for Google Drive" />
     <icon drawable="@drawable/auxio" package="org.oxycblt.auxio" name="Auxio" />
     <icon drawable="@drawable/aves_gallery" package="deckers.thibault.aves" name="Aves Gallery" />
@@ -1065,6 +1066,7 @@
     <icon drawable="@drawable/khan_academy" package="org.khanacademy.android" name="Khan Academy" />
     <icon drawable="@drawable/kick" package="com.kick.mobile" name="Kick" />
     <icon drawable="@drawable/kicker" package="com.netbiscuits.kicker" name="kicker" />
+    <icon drawable="@drawable/kid3" package="net.sourceforge.kid3" name="Kid3" />
     <icon drawable="@drawable/kijiji" package="com.ebay.kijiji.ca" name="Kijiji" />
     <icon drawable="@drawable/kimcy_screen_recorder" package="com.kimcy929.screenrecorder" name="Kimcy Screen Recorder" />
     <icon drawable="@drawable/kindle" package="com.amazon.kindle" name="Amazon Kindle" />
@@ -1504,6 +1506,7 @@
     <icon drawable="@drawable/paseo" package="ca.chancehorizon.paseo" name="Paseo" />
     <icon drawable="@drawable/passandroid" package="org.ligi.passandroid" name="PassAndroid" />
     <icon drawable="@drawable/password_safe_manager" package="com.reneph.passwordsafe" name="Password Safe and Manager" />
+    <icon drawable="@drawable/password_store" package="dev.msfjarvis.aps" name="Password Store" />
     <icon drawable="@drawable/patreon" package="com.patreon.android" name="Patreon" />
     <icon drawable="@drawable/payback" package="de.payback.client.android" name="PAYBACK" />
     <icon drawable="@drawable/payconiq" package="mobi.inthepocket.bcmc.bancontact" name="Payconiq by Bancontact" />
@@ -2185,6 +2188,7 @@
     <icon drawable="@drawable/vector_asset_creator" package="com.inglesdivino.vectorassetcreator" name="Vector Asset Creator" />
     <icon drawable="@drawable/vectorpinball" package="com.dozingcatsoftware.bouncy" name="Vector Pinball" />
     <icon drawable="@drawable/veezie" package="st.veezie" name="Veezie.st" />
+    <icon drawable="@drawable/vespucci" package="de.blau.android" name="Vespucci" />
     <icon drawable="@drawable/vflat" package="com.voyagerx.scanner" name="vFlat" />
     <icon drawable="@drawable/vi" package="com.mventus.selfcare.activity" name="Vi" />
     <icon drawable="@drawable/via_browser" package="mark.via.gp" name="Via Browser" />
