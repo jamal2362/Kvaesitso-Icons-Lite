@@ -164,6 +164,7 @@
     <icon drawable="@drawable/binauralbeats" package="com.github.axet.binauralbeats" name="Binaural Beats" />
     <icon drawable="@drawable/bing" package="com.microsoft.bing" name="Bing" />
     <icon drawable="@drawable/birday" package="com.minar.birday" name="Birday" />
+    <icon drawable="@drawable/bird_id" package="com.labs.merlinbirdid.app" name="Merlin Bird ID" />
     <icon drawable="@drawable/birdnet" package="de.tu_chemnitz.mi.kahst.birdnet" name="BirdNET" />
     <icon drawable="@drawable/bitmoji" package="com.bitstrips.imoji" name="Bitmoji" />
     <icon drawable="@drawable/bitmoji" package="com.snowcorp.stickerly.android" name="Bitmoji" />
