@@ -1314,7 +1314,7 @@
     <icon drawable="@drawable/musify" package="com.gokadzev.musify" name="Musify" />
     <icon drawable="@drawable/musixmatch" package="com.musixmatch.android.lyrify" name="Musixmatch" />
     <icon drawable="@drawable/mvgo" package="de.mvg.more" name="MVGO" />
-    <icon drawable="@drawable/mwall" package="com.theveloper.mwalls.app" name="MVGO" />
+    <icon drawable="@drawable/mwalls" package="com.theveloper.mwalls.app" name="MVGO" />
     <icon drawable="@drawable/my48" package="ie.months.my48" name="MWalls" />
     <icon drawable="@drawable/myairtel" package="com.myairtelapp" name="Airtel" />
     <icon drawable="@drawable/my_arval_mobile" package="com.arval.myarvalmobilenl" name="My Arval Mobile" />
