@@ -187,6 +187,7 @@
     <icon drawable="@drawable/bloons_td_5" package="com.ninjakiwi.bloonstd5" name="Bloons TD 5" />
     <icon drawable="@drawable/bloons_td_6" package="com.ninjakiwi.bloonstd6" name="Bloons TD 6" />
     <icon drawable="@drawable/bluebubbles" package="com.bluebubbles.messaging" name="Bluebubbles" />
+    <icon drawable="@drawable/blue_light_filter" package="com.paget96.bluelightfilter" name="Blue Light Filter" />
     <icon drawable="@drawable/bluewallet" package="io.bluewallet.bluewallet" name="BlueWallet" />
     <icon drawable="@drawable/bni_mobile" package="src.com.bni" name="BNI Mobile Banking" />
     <icon drawable="@drawable/bodhi_timer" package="org.yuttadhammo.BodhiTimer" name="Bodhi Timer" />
@@ -487,7 +488,6 @@
     <icon drawable="@drawable/dialer" package="com.android.incallui" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.asus.asusincallui" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.asus.dialer" name="Phone" />
-    <icon drawable="@drawable/dialer" package="com.chooloo.www.koler" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.oneplus.dialer" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.samsung.android.dialer" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.sh.smart.caller" name="Phone" />
@@ -1088,6 +1088,7 @@
     <icon drawable="@drawable/knife_hit" package="com.ketchapp.knifehit" name="Knife Hit" />
     <icon drawable="@drawable/kodi" package="org.xbmc.kodi" name="Kodi" />
     <icon drawable="@drawable/koduko" package="com.example.koduko" name="Koduko" />
+    <icon drawable="@drawable/koler" package="com.chooloo.www.koler" name="Koler" />
     <icon drawable="@drawable/komoot" package="de.komoot.android" name="Komoot" />
     <icon drawable="@drawable/kore" package="org.xbmc.kore" name="Kore" />
     <icon drawable="@drawable/koreader" package="org.koreader.launcher" name="KOReader" />
@@ -1313,7 +1314,8 @@
     <icon drawable="@drawable/musify" package="com.gokadzev.musify" name="Musify" />
     <icon drawable="@drawable/musixmatch" package="com.musixmatch.android.lyrify" name="Musixmatch" />
     <icon drawable="@drawable/mvgo" package="de.mvg.more" name="MVGO" />
-    <icon drawable="@drawable/my48" package="ie.months.my48" name="My48" />
+    <icon drawable="@drawable/mwall" package="com.theveloper.mwalls.app" name="MVGO" />
+    <icon drawable="@drawable/my48" package="ie.months.my48" name="MWalls" />
     <icon drawable="@drawable/myairtel" package="com.myairtelapp" name="Airtel" />
     <icon drawable="@drawable/my_arval_mobile" package="com.arval.myarvalmobilenl" name="My Arval Mobile" />
     <icon drawable="@drawable/mybell" package="ca.bell.selfserve.mybellmobile" name="MyBell" />
@@ -1948,6 +1950,7 @@
     <icon drawable="@drawable/spotify" package="com.spotify.music" name="Spotify" />
     <icon drawable="@drawable/s_pushtan" package="com.starfinanz.mobile.android.pushtan" name="S-pushTAN" />
     <icon drawable="@drawable/squircle" package="com.blacksquircle.ui" name="Squircle IDE" />
+    <icon drawable="@drawable/spowlo" package="com.bobbyesp.spowlo" name="Spowlo" />
     <icon drawable="@drawable/spritmonitor" package="de.spritmonitor.smapp_mp" name="Spritmonitor" />
     <icon drawable="@drawable/standard_notes" package="com.standardnotes" name="Standard Notes" />
     <icon drawable="@drawable/starbucks" package="com.starbucks.tr" name="Starbucks" />
