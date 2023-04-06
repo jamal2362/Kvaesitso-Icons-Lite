@@ -378,6 +378,7 @@
     <icon drawable="@drawable/classysharkexodus" package="com.oF2pks.classyshark3xodus" name="ClassySharkexodus" />
     <icon drawable="@drawable/clavepin" package="es.aeat.pin24h" name="Clave PIN" />
     <icon drawable="@drawable/clevnote" package="com.dencreak.esmemo" name="ClevNote" />
+    <icon drawable="@drawable/clipious" package="com.github.lamarios.clipious" name="Clipious" />
     <icon drawable="@drawable/clipto" package="com.wb.clipboard.pro" name="Clipto" />
     <icon drawable="@drawable/clonephone" package="com.coloros.backuprestore" name="Clone Phone" />
     <icon drawable="@drawable/cloudstream" package="com.lagradost.cloudstream3" name="Cloudstream" />
