@@ -771,7 +771,6 @@
     <icon drawable="@drawable/generic_email" package="com.android.email" name="Email" />
     <icon drawable="@drawable/generic_games" package="com.age.wgg.appspot" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.amayasoft.dinosaur.games.little.kids.toddlers" name="Games" />
-    <icon drawable="@drawable/generic_games" package="com.anoshenko.android.mahjongg" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.foxcake.mirage.android" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.kabam.underworldandroid" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.lulo.scrabble.classicwordsplus" name="Games" />
@@ -1168,6 +1167,7 @@
     <icon drawable="@drawable/magisk" package="com.thehitman7.cygisk" name="Magisk" />
     <icon drawable="@drawable/magisk" package="com.topjohnwu.magisk" name="Magisk" />
     <icon drawable="@drawable/magisk_delta" package="io.github.huskydg.magisk" name="Magisk Delta" />
+    <icon drawable="@drawable/mahjong" package="com.anoshenko.android.mahjong" name="Mahjong Builder" />
     <icon drawable="@drawable/mainaqila" package="de.mainaqila.app" name="Mainaqila" />
     <icon drawable="@drawable/makemytrip" package="com.makemytrip" name="MakeMyTrip" />
     <icon drawable="@drawable/manipal_hospitals" package="com.manipal.manipalhospitals" name="Manipal Hospitals" />
