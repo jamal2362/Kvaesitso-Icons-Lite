@@ -1221,6 +1221,7 @@
     <icon drawable="@drawable/metadata_remover" package="rocks.poopjournal.metadataremover" name="Metadata Remover" />
     <icon drawable="@drawable/meta_quest" package="com.oculus.twilight" name="Meta Quest" />
     <icon drawable="@drawable/meteo_swiss" package="ch.admin.meteoswiss" name="MeteoSwiss" />
+    <icon drawable="@drawable/miccheck" package="com.jlong.miccheck" name="MicCheck" />
     <icon drawable="@drawable/michelin_guide" package="com.viamichelin.android.gm21" name="Michelin Guide" />
     <icon drawable="@drawable/micopacks" package="dev.ukanth.iconmanager" name="MicoPacks" />
     <icon drawable="@drawable/microflux" package="com.constantin.microflux" name="Microflux" />
@@ -1712,7 +1713,6 @@
     <icon drawable="@drawable/recorder" package="com.dimowner.audiorecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.github.axet.audiorecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.google.android.apps.recorder" name="Recorder" />
-    <icon drawable="@drawable/recorder" package="com.jlong.miccheck" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.motorola.audiorecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.nothing.soundrecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.oneplus.soundrecorder" name="Recorder" />
