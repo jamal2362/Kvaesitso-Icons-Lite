@@ -137,7 +137,7 @@ fun About(navController: NavController) {
                         Spacer(Modifier.size(10.dp))
                         LinkButton(
                             text = stringResource(id = R.string.changelog_link),
-                            url = "https://github.com/daywalk3r666/Kvaesitso-Icons/blob/main/.github/CHANGELOG.md",
+                            url = "https://docs.google.com/spreadsheets/d/1AGJc85j0lEAATo2lKz6gr-wAxskFchOwS7eph60eAQ4/edit?usp=drivesdk",
                         )
                     }
                 }
