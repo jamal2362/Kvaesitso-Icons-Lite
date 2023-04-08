@@ -132,7 +132,7 @@ fun About(navController: NavController) {
                         Spacer(Modifier.size(10.dp))
                         LinkButton(
                             text = stringResource(id = R.string.request_icons_link),
-                            url = "https://forms.gle/yzb1jV1HNo5kuAV36",
+                            url = "https://youtu.be/xnu0pqMab9U",
                         )
                         Spacer(Modifier.size(10.dp))
                         LinkButton(
