@@ -12,6 +12,7 @@
     <icon drawable="@drawable/activitylauncher" package="de.szalkowski.activitylauncher" name="Activity Launcher" />
     <icon drawable="@drawable/adaway" package="org.adaway" name="AdAway" />
     <icon drawable="@drawable/adguard" package="com.adguard.android" name="Adguard" />
+    <icon drawable="@drawable/ad_free" package="ch.abertschi.adfree" name="Ad-Free" />
     <icon drawable="@drawable/adguard_vpn" package="com.adguard.vpn" name="AdGuard VPN" />
     <icon drawable="@drawable/adidas" package="com.adidas.app" name="adidas" />
     <icon drawable="@drawable/adobe" package="com.adobe.reader" name="Adobe Acrobat Reader" />
@@ -362,6 +363,7 @@
     <icon drawable="@drawable/check24" package="de.check24.check24" name="Check24" />
     <icon drawable="@drawable/cheogram" package="com.cheogram.android" name="Cheogram" />
     <icon drawable="@drawable/chess" package="com.chess" name="Chess" />
+    <icon drawable="@drawable/chess" package="com.chess.chesscoach" name="Chess" />
     <icon drawable="@drawable/chessclock" package="com.chess.clock" name="Chess Clock" />
     <icon drawable="@drawable/child_growth_tracker" package="com.abqappsource.childgrowthtracker" name="Child Growth Tracker" />
     <icon drawable="@drawable/chipolo" package="chipolo.net.v3" name="Chipolo" />
@@ -732,6 +734,7 @@
     <icon drawable="@drawable/funimation" package="com.Funimation.FunimationNow" name="Funimation" />
     <icon drawable="@drawable/fun_with_kanji" package="krillefear.funwithkanji" name="Fun with Kanji" />
     <icon drawable="@drawable/furaffinity" package="open.furaffinity.client" name="Open Furaffinity Client" />
+    <icon drawable="@drawable/futureme" package="org.futureme" name="FutureMe" />
     <icon drawable="@drawable/fx_file_explorer" package="nextapp.fx" name="FX Manager" />
     <icon drawable="@drawable/fx_file_explorer" package="nextapp.fx.rk" name="FX Manager" />
     <icon drawable="@drawable/fxxxs_given" package="rocks.poopjournal.fucksgiven" name="F***s Given" />
@@ -2126,6 +2129,7 @@
     <icon drawable="@drawable/tokopedia" package="com.tokopedia.tkpd" name="Tokopedia" />
     <icon drawable="@drawable/tolino" package="com.mytolino.app" name="tolino" />
     <icon drawable="@drawable/tomtom" package="com.tomtom.gplay.navapp" name="TomTom GO" />
+    <icon drawable="@drawable/tooly" package="com.yousx.thetoolsapp" name="Tooly" />
     <icon drawable="@drawable/tor_browser" package="org.torproject.torbrowser" name="Tor Browser" />
     <icon drawable="@drawable/total_commander" package="com.ghisler.android.TotalCommander" name="Total Commander" />
     <icon drawable="@drawable/towerjumper" package="org.pipoypipagames.towerjumper" name="TowerJumper" />
