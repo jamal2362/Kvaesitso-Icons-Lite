@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12">
+  <path class="a" d="m162 22h-132a8 8 0 0 0-8 8v132a8 8 0 0 0 8 8h132a8 8 0 0 0 8-8v-132a8 8 0 0 0-8-8z"/>
+  <path class="a" d="m128.66 131.78v-71.191"/>
+  <path class="a" d="m152 91.855-23.342-31.637-23.342 31.637"/>
+  <path class="a" d="m63.342 60.218v71.191"/>
+  <path class="a" d="m86.684 100.15-23.342 31.637-23.342-31.637"/>
+ </g>
+</svg>

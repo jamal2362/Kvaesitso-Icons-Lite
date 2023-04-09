@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <g stroke-width="8">
+  <path class="a" d="m124.12 117.3c-9.7525-0.12628-13.226-4.0144-22.444-15.61-9.2181-11.596-19.071-11.05-22.444-7.5638-2.8053 2.8993 13.76 36.936 18.703 42.357a80.611 76.066 0 0 0 7.6151 7.5638s-0.17595 16.231-0.71042 27.955" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="a" d="m150.71 169.13a310.48 292.97 0 0 1-4.6755-30.507c0.26723-1.2604 0.10202-18.153-0.0157-22.187-0.11771-4.0342-4.6602-38.071-7.7328-44.5-3.0725-6.4292-14.161-14.875-14.161-14.875" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="a" d="m96.413 134.46h-45.591a9.5299 8.9926 0 0 1-9.5295-8.9926v-96.479a9.5299 8.9926 0 0 1 9.5295-8.9926h63.769a9.5299 8.9926 0 0 1 9.5299 8.9926v88.306" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <line class="a" x1="41.293" x2="124.12" y1="36.262" y2="36.262" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <line class="a" x1="41.293" x2="87.499" y1="118.2" y2="118.2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse class="b" cx="106.2" cy="77.284" rx="3.0977" ry="2.9231"/>
+  <ellipse class="b" cx="91.178" cy="77.284" rx="3.0977" ry="2.9231"/>
+  <ellipse class="b" cx="76.152" cy="77.284" rx="3.0977" ry="2.9231"/>
+ </g>
+</svg>

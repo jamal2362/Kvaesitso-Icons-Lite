@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8">
+  <path id="b" class="p" d="m35.703 121.9v41.938"/>
+  <path id="c" class="p" d="m42.908 172h106.28"/>
+  <path id="d" class="p" d="m156.3 121.9v41.938"/>
+  <path id="e" class="p" d="m96.05 99.546v53.898"/>
+  <path id="f" class="p" d="m96.05 153.43 29.206-32.963"/>
+  <path id="g" class="p" d="m66.621 120.47 29.44 32.977"/>
+  <path id="h" class="p" d="m35.703 61.487v24.94l120.59-0.11831v-24.23"/>
+  <path id="i" class="p" d="m147.43 61.487v-41.487h-10.336"/>
+  <path id="j" class="p" d="m124.02 20h-54.569"/>
+  <path id="k" class="p" d="m56.767 20h-10.806v40.305"/>
+  <path id="l" class="p" d="m75.367 20-29.406 28.012"/>
+  <path id="m" class="p" d="m117.86 20 29.563 25.885"/>
+  <rect id="n" class="p" x="67.449" y="52.803" width="10.931" height="10.489"/>
+  <rect id="o" class="p" x="113.72" y="52.803" width="10.931" height="10.489"/>
+ </g>
+</svg>

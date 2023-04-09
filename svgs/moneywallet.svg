@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <g stroke-width="8">
+  <rect class="cls-1" x="20" y="33.617" width="152" height="124.77" rx="7.7949" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="cls-1" d="m73.941 67.022a14.031 14.489 0 0 0-13.992 14.489v0a14.031 14.489 0 0 0 13.992 14.489h4.7549" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="cls-1" d="m78.695 96h4.7549a13.992 14.449 0 0 1 13.992 14.489v0a13.992 14.449 0 0 1-13.992 14.489" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="cls-1" d="m96 71.852c-3.8974-3.3405-8.0287-4.8699-17.422-4.8699h-4.6379" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="cls-1" d="m61.274 120.15c3.8974 3.3405 8.0677 4.8699 17.422 4.8699h4.7549" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <line class="cls-1" x1="78.695" x2="78.695" y1="132.22" y2="59.778" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="cls-1" d="m144.13 81.511h27.867v28.978h-27.867a11.108 11.47 0 0 1-11.108-11.47v-6.0371a11.108 11.47 0 0 1 11.108-11.47z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse class="cls-2" cx="144.6" cy="96" rx="3.1179" ry="3.2198"/>
+ </g>
+</svg>

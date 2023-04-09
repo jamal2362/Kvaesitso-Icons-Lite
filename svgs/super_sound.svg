@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+ <g id="c" transform="matrix(3.8022 0 0 3.9906 4.7468 .22471)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.0806">
+  <g id="d" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.0806">
+   <line id="e" class="q" x1="15.094" x2="15.094" y1="18.67" y2="28.64"/>
+   <line id="f" class="q" x1="18.638" x2="18.638" y1="15.156" y2="31.916"/>
+   <line id="g" class="q" x1="11.545" x2="11.545" y1="21.039" y2="26.955"/>
+   <line id="h" class="q" x1="8.0028" x2="8.0028" y1="22.091" y2="25.903"/>
+   <line id="i" class="q" x1="4.5" x2="4.5" y1="21.044" y2="26.959"/>
+   <line id="j" class="q" x1="32.814" x2="32.814" y1="17.701" y2="29.614"/>
+   <line id="k" class="q" x1="36.358" x2="36.358" y1="15.159" y2="31.919"/>
+   <line id="l" class="q" x1="29.265" x2="29.265" y1="21.042" y2="26.957"/>
+   <line id="m" class="q" x1="25.723" x2="25.723" y1="8.8334" y2="39.167"/>
+   <line id="n" class="q" x1="22.22" x2="22.22" y1="21.047" y2="26.962"/>
+   <line id="o" class="q" x1="43.5" x2="43.5" y1="21.753" y2="26.217"/>
+   <line id="p" class="q" x1="39.958" x2="39.958" y1="18.591" y2="29.38"/>
+  </g>
+ </g>
+</svg>
