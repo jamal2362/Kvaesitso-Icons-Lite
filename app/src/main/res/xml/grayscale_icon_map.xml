@@ -514,6 +514,7 @@
     <icon drawable="@drawable/digital_work_wallet" package="br.gov.dataprev.carteiradigital" name="Digital Work Wallet" />
     <icon drawable="@drawable/discord" package="com.aliucord" name="Discord" />
     <icon drawable="@drawable/discord" package="com.discord" name="Discord" />
+    <icon drawable="@drawable/discord" package="dev.beefers.vendetta" name="Discord" />
     <icon drawable="@drawable/discoveryplus" package="com.discovery.dplay" name="Discovery +" />
     <icon drawable="@drawable/diskusage" package="com.google.android.diskusage" name="DiskUsage" />
     <icon drawable="@drawable/dislyte" package="com.lilithgames.xgame.gp" name="Dislyte" />
