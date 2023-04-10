@@ -69,10 +69,10 @@ fun IconPreview(
 fun IconPreviewComposablePreview() {
     IconPreview(
         iconInfo = IconInfo(
-            name = "Camera",
-            drawableName = "@drawable/camera",
-            packageName = "com.android.camera",
-            id = R.drawable.camera
+            name = "Google Lens",
+            drawableName = "@drawable/google_lens",
+            packageName = "com.google.ar.lens",
+            id = R.drawable.google_lens
         )
     )
 }

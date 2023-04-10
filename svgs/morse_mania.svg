@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
- <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="12">
-  <line class="st5" x1="22" x2="72.951" y1="74.233" y2="74.233"/>
-  <line class="st5" x1="119.05" x2="170" y1="74.233" y2="74.233"/>
-  <line class="st5" x1="22" x2="72.951" y1="117.77" y2="117.77"/>
-  <line class="st5" x1="119.05" x2="170" y1="117.77" y2="117.77"/>
- </g>
-</svg>

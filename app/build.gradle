@@ -14,10 +14,10 @@ android {
         applicationId 'de.kvaesitso.icons'
         minSdkVersion 26
         targetSdkVersion 33
-        versionCode 10
-        versionName '1.0'
+        versionCode 1
+        versionName '1.0.0'
         resConfigs 'en', 'de'
-        setProperty('archivesBaseName', 'Kvaesitso_Icons_Lite_' + versionName)
+        setProperty('archivesBaseName', 'Kvaesitso-Icons-Lite_' + versionName)
     }
 
     buildTypes {
