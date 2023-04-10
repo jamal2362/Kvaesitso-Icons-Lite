@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
- <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8">
-  <path class="a" d="m26.679 28h19.029l10.874-7.9998h76.117l10.874 7.9998h21.748v61.335c0 61.31-70.681 82.666-70.681 82.666s-67.962-21.183-67.962-82.666z"/>
-  <path class="a" d="m67.456 75.999h54.37v29.333c0 12.571-14.37 26.666-27.185 26.666-12.815 0-27.185-14.096-27.185-26.666z"/>
-  <path class="a" d="m94.641 94.666v13.538"/>
-  <path class="a" d="m75.611 75.999v-10.874a21.353 21.055 0 0 1 19.03-18.662 21.353 21.055 0 0 1 19.03 18.666v10.874"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"><path d="M26.679 28h19.029l10.874-8h76.117l10.874 8h21.748v61.335c0 61.31-70.681 82.666-70.681 82.666s-67.962-21.183-67.962-82.666z" class="a"/><path d="M67.456 75.999h54.37v29.333c0 12.571-14.37 26.666-27.185 26.666s-27.185-14.096-27.185-26.666zM94.641 94.666v13.538" class="a"/><path d="M75.611 75.999V65.125a21.353 21.055 0 0 1 19.03-18.662 21.353 21.055 0 0 1 19.03 18.666v10.874" class="a"/></g></svg>

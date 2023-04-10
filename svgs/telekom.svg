@@ -1,7 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
- <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8">
-  <path class="a" d="m159.44 89.538h-31.24v30.346l4e-3 5e-3h31.235l4e-3 -5e-3v-30.341zm-126.89 0h31.235v30.346l-6e-3 5e-3h-31.234v-30.346z"/>
-  <path class="a" d="m135.47 172v-12.264c-21.618-1.1302-25.342-8.9037-25.659-20.529v-106.66c19.821 1.96 39.369 1.4421 39.369 41.538h10.274v-54.088h-126.79v54.087h10.274c0-39.43 19.549-39.578 39.369-41.538v106.66c-0.31657 11.626-4.0412 19.398-25.659 20.529v12.264z"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"><path d="M159.44 89.538H128.2v30.346l.004.005h31.235l.004-.005V89.543zm-126.89 0h31.235v30.346l-.006.005H32.545V89.543z" class="a"/><path d="M135.47 172v-12.264c-21.618-1.13-25.342-8.904-25.659-20.529V32.547c19.821 1.96 39.369 1.442 39.369 41.538h10.274V19.997H32.664v54.087h10.274c0-39.43 19.549-39.578 39.369-41.538v106.66c-.317 11.626-4.041 19.398-25.659 20.529v12.264z" class="a"/></g></svg>

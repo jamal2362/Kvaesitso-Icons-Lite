@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
- <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8">
-  <line class="a" x1="58" x2="172" y1="172" y2="58"/>
-  <line class="a" x1="96" x2="134" y1="58" y2="20"/>
-  <line class="a" x1="20" x2="85.73" y1="134" y2="68.27"/>
-  <line class="a" x1="96" x2="134" y1="134" y2="172"/>
-  <line class="a" x1="20" x2="85.73" y1="58" y2="123.73"/>
-  <line class="a" x1="58" x2="172" y1="20" y2="134"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"><path d="M58 172 172 58M96 58l38-38M20 134l65.73-65.73M96 134l38 38M20 58l65.73 65.73M58 20l114 114" class="a"/></g></svg>

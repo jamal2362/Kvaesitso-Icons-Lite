@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
- <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8">
-  <circle class="a" cx="96" cy="96" r="76"/>
-  <rect class="a" x="68.259" y="47.931" width="55.481" height="96.139" rx="6.6495"/>
-  <path class="a" d="m46.759 38.109 49.241 57.891 73.95-17.533"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"><circle cx="96" cy="96" r="76" class="a"/><rect width="55.481" height="96.139" x="68.259" y="47.931" class="a" rx="6.649"/><path d="M46.759 38.109 96 96l73.95-17.533" class="a"/></g></svg>

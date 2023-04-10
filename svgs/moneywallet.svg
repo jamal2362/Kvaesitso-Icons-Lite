@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
- <g stroke-width="8">
-  <rect class="cls-1" x="20" y="33.617" width="152" height="124.77" rx="7.7949" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
-  <path class="cls-1" d="m73.941 67.022a14.031 14.489 0 0 0-13.992 14.489v0a14.031 14.489 0 0 0 13.992 14.489h4.7549" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
-  <path class="cls-1" d="m78.695 96h4.7549a13.992 14.449 0 0 1 13.992 14.489v0a13.992 14.449 0 0 1-13.992 14.489" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
-  <path class="cls-1" d="m96 71.852c-3.8974-3.3405-8.0287-4.8699-17.422-4.8699h-4.6379" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
-  <path class="cls-1" d="m61.274 120.15c3.8974 3.3405 8.0677 4.8699 17.422 4.8699h4.7549" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
-  <line class="cls-1" x1="78.695" x2="78.695" y1="132.22" y2="59.778" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
-  <path class="cls-1" d="m144.13 81.511h27.867v28.978h-27.867a11.108 11.47 0 0 1-11.108-11.47v-6.0371a11.108 11.47 0 0 1 11.108-11.47z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse class="cls-2" cx="144.6" cy="96" rx="3.1179" ry="3.2198"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><g stroke-width="8"><rect width="152" height="124.77" x="20" y="33.617" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" class="cls-1" rx="7.795"/><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" d="M73.941 67.022a14.031 14.489 0 0 0-13.992 14.489v0A14.031 14.489 0 0 0 73.941 96h4.755M78.695 96h4.755a13.992 14.449 0 0 1 13.992 14.489v0a13.992 14.449 0 0 1-13.992 14.489M96 71.852c-3.897-3.34-8.029-4.87-17.422-4.87H73.94M61.274 120.15c3.897 3.34 8.068 4.87 17.422 4.87h4.755M78.695 132.22V59.778M144.13 81.511h27.867v28.978H144.13a11.108 11.47 0 0 1-11.108-11.47v-6.037a11.108 11.47 0 0 1 11.108-11.47z" class="cls-1"/><ellipse cx="144.6" cy="96" class="cls-2" rx="3.118" ry="3.22"/></g></svg>
