@@ -2,7 +2,6 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-kapt'
 apply plugin: 'org.jetbrains.kotlin.android'
 apply plugin: 'dagger.hilt.android.plugin'
-apply plugin: 'com.google.android.gms.oss-licenses-plugin'
 
 android {
     compileSdk 33
@@ -38,18 +37,11 @@ android {
     }
 
     buildFeatures {
-        buildConfig = true
         compose = true
     }
 
     composeOptions {
         kotlinCompilerExtensionVersion = '1.4.4'
-    }
-
-    packagingOptions {
-        resources {
-            excludes += "/META-INF/{AL2.0,LGPL2.1}"
-        }
     }
 
     dependenciesInfo {
@@ -81,7 +73,6 @@ dependencies {
     implementation 'com.google.dagger:hilt-android:2.45'
     kapt 'com.google.dagger:hilt-android-compiler:2.45'
     implementation 'androidx.hilt:hilt-navigation-compose:1.0.0'
-    implementation 'com.github.LawnchairLauncher:oss-notices:1.0.2'
     implementation 'io.coil-kt:coil-compose:2.3.0'
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
     implementation 'com.squareup.retrofit2:converter-gson:2.9.0'

@@ -23,54 +23,7 @@ import androidx.navigation.NavController
 import de.kvaesitso.icons.BuildConfig
 import de.kvaesitso.icons.R
 import de.kvaesitso.icons.ui.component.*
-import de.kvaesitso.icons.ui.util.Contributor
-import de.kvaesitso.icons.ui.util.Destinations
 import de.kvaesitso.icons.util.appIcon
-
-private val coreContributors = listOf(
-
-
-    Contributor(
-        name = "Jamal",
-        username = "jamal2362",
-        photoUrl = "https://avatars.githubusercontent.com/u/15986930",
-    ),
-    Contributor(
-        name = "daywalk3r666",
-        username = "daywalk3r666",
-        photoUrl = "https://avatars.githubusercontent.com/u/15938117",
-    ),
-
-)
-
-private val specialThanks = listOf(
-    Contributor(
-        name = "skedastically",
-        username = "skedastically",
-        photoUrl = "https://avatars.githubusercontent.com/u/126093083?v=4",
-        socialUrl = "https://kvaesitso.mm20.de/",
-        descriptionRes = R.string.special_thanks_icon,
-    ),
-    Contributor(
-        name = "U. N. Owen",
-        username = "MM2-0",
-        photoUrl = "https://avatars.githubusercontent.com/u/15646950?v=4",
-        socialUrl = "https://kvaesitso.mm20.de/",
-        descriptionRes = R.string.special_thanks_name,
-    ),
-    Contributor(
-        name = "Lawnicons",
-        username = "LawnchairLauncher",
-        photoUrl = "https://avatars.githubusercontent.com/u/34144436?s=200&v=4",
-        descriptionRes = R.string.special_thanks_source,
-    ),
-    Contributor(
-        name = "Arcticons",
-        username = "Donnnno",
-        photoUrl = "https://avatars.githubusercontent.com/u/31142286?v=4",
-        descriptionRes = R.string.special_thanks_arctions,
-    ),
-)
 
 @Composable
 @OptIn(ExperimentalMaterial3Api::class, androidx.compose.material.ExperimentalMaterialApi::class)
@@ -140,53 +93,6 @@ fun About(navController: NavController) {
                             url = "https://docs.google.com/spreadsheets/d/1AGJc85j0lEAATo2lKz6gr-wAxskFchOwS7eph60eAQ4/edit?usp=drivesdk",
                         )
                     }
-                }
-            }
-            item {
-                Card(label = stringResource(id = R.string.core_contributors)) {
-                    coreContributors.mapIndexed { index, it ->
-                        ContributorRow(
-                            name = it.name,
-                            photoUrl = it.photoUrl,
-                            profileUrl = "https://github.com/${it.username}",
-                            divider = index != coreContributors.lastIndex,
-                        )
-                    }
-                }
-            }
-            item {
-                Card(modifier = Modifier.padding(top = 16.dp)) {
-                    SimpleListRow(
-                        onClick = { navController.navigate(Destinations.CONTRIBUTORS) },
-                        label = stringResource(id = R.string.see_all_contributors),
-                        divider = false,
-                    )
-                }
-            }
-            item {
-                Card(
-                    label = stringResource(id = R.string.special_thanks),
-                    modifier = Modifier.padding(top = 16.dp),
-                ) {
-                    specialThanks.mapIndexed { index, it ->
-                        ContributorRow(
-                            name = it.name,
-                            photoUrl = it.photoUrl,
-                            profileUrl = it.username?.let { "https://github.com/$it" },
-                            description = it.descriptionRes?.let { stringResource(id = it) },
-                            divider = index != specialThanks.lastIndex,
-                            socialUrl = it.socialUrl,
-                        )
-                    }
-                }
-            }
-            item {
-                Card(modifier = Modifier.padding(top = 16.dp)) {
-                    SimpleListRow(
-                        onClick = { navController.navigate(Destinations.ACKNOWLEDGEMENTS) },
-                        label = stringResource(id = R.string.acknowledgements),
-                        divider = false,
-                    )
                 }
             }
         }
