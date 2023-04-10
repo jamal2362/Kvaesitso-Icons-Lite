@@ -514,6 +514,7 @@
     <icon drawable="@drawable/digital_wellbeing" package="com.google.android.apps.wellbeing" name="Digital Wellbeing" />
     <icon drawable="@drawable/digital_wellbeing" package="com.samsung.android.forest" name="Digital Wellbeing" />
     <icon drawable="@drawable/digital_work_wallet" package="br.gov.dataprev.carteiradigital" name="Digital Work Wallet" />
+    <icon drawable="@drawable/dinosaur" package="com.amayasoft.dinosaur.games.little.kids.toddlers" name="Dinosaur Games for Kids" />
     <icon drawable="@drawable/discord" package="com.aliucord" name="Discord" />
     <icon drawable="@drawable/discord" package="com.discord" name="Discord" />
     <icon drawable="@drawable/discord" package="dev.beefers.vendetta" name="Discord" />
@@ -778,14 +779,12 @@
     <icon drawable="@drawable/generic_earth" package="com.afkettler.pro.earth" name="Earth" />
     <icon drawable="@drawable/generic_email" package="com.android.email" name="Email" />
     <icon drawable="@drawable/generic_games" package="com.age.wgg.appspot" name="Games" />
-    <icon drawable="@drawable/generic_games" package="com.amayasoft.dinosaur.games.little.kids.toddlers" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.foxcake.mirage.android" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.kabam.underworldandroid" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.motorola.gamemode" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.oneplus.gamespace" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.oplus.games" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.riotgames.league.teamfighttactics" name="Games" />
-    <icon drawable="@drawable/generic_games" package="com.rvappstudios.jigsaw.puzzles.kids" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.storytoys.miffy.free.android.googleplay" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.ultimatestudio.hotlapleague.premium" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.YovoGames.dentist" name="Games" />
@@ -1669,6 +1668,7 @@
     <icon drawable="@drawable/pullandbear" package="com.inditex.pullandbear" name="Pull &amp; Bear" />
     <icon drawable="@drawable/purple_tv" package="tv.orange" name="PurpleTV" />
     <icon drawable="@drawable/pushbullet" package="com.pushbullet.android" name="Pushbullet" />
+    <icon drawable="@drawable/puzzle" package="com.rvappstudios.jigsaw.puzzles.kids" name="Puzzle Games for Kids" />
     <icon drawable="@drawable/puzzles" package="com.stateofplaygames.kami2" name="Puzzles" />
     <icon drawable="@drawable/puzzles" package="name.boyle.chris.sgtpuzzles" name="Puzzles" />
     <icon drawable="@drawable/pyaterochka" package="ru.pyaterochka.app.browser" name="Pyaterochka" />
