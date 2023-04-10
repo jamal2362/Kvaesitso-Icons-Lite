@@ -17,7 +17,6 @@
 	<icon drawable="@drawable/facebook" package="com.facebook.lite" name="Facebook" />
 	<icon drawable="@drawable/google_lens" package="com.google.ar.lens" name="Google Lens" />
 	<icon drawable="@drawable/google_opinion_rewards" package="com.google.android.apps.paidtasks" name="Google Opinion Rewards" />
-	<icon drawable="@drawable/inky" package="tech.ula.inkscape" name="Inky" />
 	<icon drawable="@drawable/instagram" package="com.instagram.android" name="Instagram" />
 	<icon drawable="@drawable/instagram" package="com.instagram.lite" name="Instagram" />
 	<icon drawable="@drawable/kick" package="com.kick.mobile" name="Kick" />
