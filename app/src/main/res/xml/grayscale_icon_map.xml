@@ -781,7 +781,6 @@
     <icon drawable="@drawable/generic_games" package="com.amayasoft.dinosaur.games.little.kids.toddlers" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.foxcake.mirage.android" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.kabam.underworldandroid" name="Games" />
-    <icon drawable="@drawable/generic_games" package="com.lulo.scrabble.classicwordsplus" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.motorola.gamemode" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.oneplus.gamespace" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.oplus.games" name="Games" />
@@ -792,7 +791,6 @@
     <icon drawable="@drawable/generic_games" package="com.YovoGames.dentist" name="Games" />
     <icon drawable="@drawable/generic_games" package="io.chaldeaprjkt.gamespace" name="Games" />
     <icon drawable="@drawable/generic_games" package="io.github.edo9300.edopro" name="Games" />
-    <icon drawable="@drawable/generic_games" package="it.dbtecno.pizzaboygbapro" name="Games" />
     <icon drawable="@drawable/generic_games" package="net.miririt.maldivesplayer" name="Games" />
     <icon drawable="@drawable/generic_games" package="org.tvp.kirikiri2" name="Games" />
     <icon drawable="@drawable/generic_games" package="uk.co.aifactory.backgammon" name="Games" />
@@ -1309,6 +1307,7 @@
     <icon drawable="@drawable/moon_reader" package="com.flyersoft.moonreader" name="Moon+ Reader" />
     <icon drawable="@drawable/moovit" package="com.tranzmate" name="Moovit" />
     <icon drawable="@drawable/morse" package="rocks.poopjournal.morse" name="Morse" />
+    <icon drawable="@drawable/morse_mania" package="net.countrymania.morse" name="Morse Mania" />
     <icon drawable="@drawable/mosmetro" package="pw.thedrhax.mosmetro" name="Moscow Wi-Fi autologin" />
     <icon drawable="@drawable/movie_lab" package="com.movielab.mobile" name="MovieLab" />
     <icon drawable="@drawable/moshidon" package="org.joinmastodon.android.moshinda" name="Moshidon" />
@@ -1334,6 +1333,7 @@
     <icon drawable="@drawable/my_arval_mobile" package="com.arval.myarvalmobilenl" name="My Arval Mobile" />
     <icon drawable="@drawable/mybell" package="ca.bell.selfserve.mybellmobile" name="MyBell" />
     <icon drawable="@drawable/my_boy" package="com.fastemulator.gba" name="My Boy" />
+    <icon drawable="@drawable/my_boy" package="it.dbtecno.pizzaboygbapro" name="My Boy" />
     <icon drawable="@drawable/my_brain" package="com.mhss.app.mybrain" name="My Brain" />
     <icon drawable="@drawable/my_citron" package="com.psa.mym.mycitroen" name="My Citroën" />
     <icon drawable="@drawable/mycloud" package="com.swisscom.mycloud" name="myCloud" />
@@ -1976,6 +1976,7 @@
     <icon drawable="@drawable/stark_hantel" package="se.virtualtrainer.dumbbell" name="Stark Hantel" />
     <icon drawable="@drawable/starwars" package="com.disney.starwarshub_goo" name="Star Wars" />
     <icon drawable="@drawable/stats_fm" package="dev.netlob.spotistats" name="Stats.fm" />
+    <icon drawable="@drawable/status_saver" package="com.lazygeniouz.saveit" name="Status, Sticker Saver" />
     <icon drawable="@drawable/stealth" package="com.cosmos.unreddit" name="Stealth" />
     <icon drawable="@drawable/steam" package="com.valvesoftware.android.steam.community" name="Steam" />
     <icon drawable="@drawable/steam_chat" package="com.valvesoftware.android.steam.friendsui" name="Steam Chat" />
@@ -2206,6 +2207,7 @@
     <icon drawable="@drawable/url_radio" package="com.jamal2367.urlradio" name="URL Radio" />
     <icon drawable="@drawable/usagedirect" package="godau.fynn.usagedirect" name="usageDirect" />
     <icon drawable="@drawable/usercentre" package="com.videotron.android.personas" name="Escape client +" />
+    <icon drawable="@drawable/uts" package="com.cris.utsmobile" name="UTS" />
     <icon drawable="@drawable/v2rayng" package="com.v2ray.ang" name="v2rayNG" />
     <icon drawable="@drawable/vacation_days" package="rocks.poopjournal.vacationdays" name="Vacation Days" />
     <icon drawable="@drawable/valenbisi" package="com.jcdecaux.vls.valence" name="VALENBISI" />
@@ -2317,6 +2319,7 @@
     <icon drawable="@drawable/windscribe" package="com.windscribe.vpn" name="Windscribe" />
     <icon drawable="@drawable/wireguard" package="com.wireguard.android" name="Wireguard" />
     <icon drawable="@drawable/wise" package="com.transferwise.android" name="Wise" />
+    <icon drawable="@drawable/words_classic" package="com.lulo.scrabble.classicwordsplus" name="Words Classic" />
     <icon drawable="@drawable/wordpress" package="org.wordpress.android" name="WordPress" />
     <icon drawable="@drawable/wordweb" package="com.wordwebsoftware.android.wordweb" name="WordWeb" />
     <icon drawable="@drawable/wps_office" package="cn.wps.moffice_eng" name="WPS Office" />
