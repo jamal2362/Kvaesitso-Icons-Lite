@@ -32,7 +32,6 @@
 	<icon drawable="@drawable/messenger" package="com.facebook.mlite" name="Messenger" />
 	<icon drawable="@drawable/microsoft_excel" package="com.microsoft.office.excel" name="Microsoft Excel" />
 	<icon drawable="@drawable/microsoft_outlook" package="com.microsoft.office.outlook" name="Microsoft Outlook" />
-	<icon drawable="@drawable/monet_generator" package="com.jamal2367.tgmonet" name="Telegram Monet" />
 	<icon drawable="@drawable/my_citroen" package="com.psa.mym.mycitroen" name="My Citroën" />
 	<icon drawable="@drawable/mydealz" package="com.tippingcanoe.mydealz" name="mydealz" />
 	<icon drawable="@drawable/nearbysharing" package="de.shortdev.nearby_sharing_windows" name="Nearby Sharing Windows 10 / 11" />
