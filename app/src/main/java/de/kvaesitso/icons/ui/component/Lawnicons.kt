@@ -10,7 +10,6 @@ import androidx.compose.ui.Modifier
 import com.google.accompanist.navigation.animation.AnimatedNavHost
 import com.google.accompanist.navigation.animation.composable
 import com.google.accompanist.navigation.animation.rememberAnimatedNavController
-import de.kvaesitso.icons.ui.destination.About
 import de.kvaesitso.icons.ui.destination.Home
 import de.kvaesitso.icons.ui.theme.LawniconsTheme
 import de.kvaesitso.icons.ui.util.Destinations
@@ -33,9 +32,6 @@ fun Lawnicons() {
             ) {
                 composable(route = Destinations.HOME) {
                     Home(navController = navController)
-                }
-                composable(route = Destinations.ABOUT) {
-                    About(navController = navController)
                 }
             }
         }

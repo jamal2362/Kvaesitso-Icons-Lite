@@ -6,7 +6,6 @@ import androidx.compose.foundation.text.BasicTextField
 import androidx.compose.material.ContentAlpha
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.Clear
-import androidx.compose.material.icons.rounded.Info
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -21,14 +20,12 @@ import androidx.compose.ui.focus.focusRequester
 import androidx.compose.ui.focus.onFocusChanged
 import androidx.compose.ui.graphics.SolidColor
 import androidx.compose.ui.platform.LocalFocusManager
-import androidx.compose.ui.platform.LocalInspectionMode
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 import de.kvaesitso.icons.R
-import de.kvaesitso.icons.ui.util.Destinations
 
 @Composable
 fun SearchBar(
@@ -80,21 +77,6 @@ fun SearchBar(
                         focusManager.clearFocus()
                     },
                 )
-            } else {
-                if (LocalInspectionMode.current) {
-                    ClickableIcon(
-                        imageVector = Icons.Rounded.Info,
-                        size = 52.dp,
-                        onClick = {},
-                    )
-                } else {
-                    ClickableIcon(
-                        imageVector = Icons.Rounded.Info,
-                        size = 52.dp,
-                        onClick =
-                        { navController?.navigate(Destinations.ABOUT) }
-                    )
-                }
             }
         }
     }

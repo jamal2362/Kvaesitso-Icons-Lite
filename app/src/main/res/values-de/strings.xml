@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Kvæsitso Icons</string>
+    <string name="app_name">Kvæsitso Icons Lite</string>
     <string name="search_bar_hint">%d Symbole durchsuchen</string>
-    <string name="acknowledgements">Danksagungen</string>
-    <string name="about">Über</string>
-    <string name="version_x">Version %s</string>
-    <string name="core_contributors">Hauptakteure</string>
-    <string name="see_all_contributors">Alle Mitwirkenden anzeigen</string>
-    <string name="contributors">Mitwirkende</string>
-    <string name="special_thanks">Besonderer Dank</string>
-    <string name="special_thanks_icon">Für das App-Symbol.</string>
-    <string name="special_thanks_name">Für die Namensgebung der App.</string>
     <string name="drawable_prefix">Drawable:</string>
     <string name="package_prefix">Paketname:</string>
-    <string name="github_link">Github</string>
-    <string name="request_icons_link">Symbole anfragen</string>
-    <string name="changelog_link">Änderungen</string>
-    <string name="special_thanks_source">Für den Quellcode.</string>
-    <string name="special_thanks_arctions">Für etliche SVG.</string>
 </resources>
