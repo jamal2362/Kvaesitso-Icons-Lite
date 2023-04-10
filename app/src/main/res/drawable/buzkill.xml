@@ -4,35 +4,21 @@
     android:viewportWidth="192"
     android:viewportHeight="192">
   <path
-      android:pathData="m103,87.63a21.55,22.88 0,0 1,0 45.76h-35.55v-91.53h35.55a21.55,22.88 0,1 1,0 45.76z"
+      android:pathData="M103,87.63a21.55,22.88 0,0 1,0 45.76H67.45v-91.53H103a21.55,22.88 0,1 1,0 45.76zM103,87.63H67.45"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M103,87.63L67.45,87.63"
+      android:pathData="m85.23,133.4 l7.73,16.62 7.74,-16.62"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M85.23,133.4l7.73,16.62l7.74,-16.62"
-      android:strokeLineJoin="round"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="m67.45,67.3c-10.94,3.77 -35.76,22.85 -44.37,39.55 -4.78,9.27 -4.63,19.78 5.07,24.63 11.89,5.94 20.33,-3.97 24.19,-16.54 4.96,-16.16 4.88,-39.68 15.11,-47.64"
-      android:strokeLineJoin="round"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="m124.55,67.3c10.94,3.77 35.76,22.85 44.37,39.55 4.78,9.27 4.63,19.78 -5.07,24.63 -11.89,5.94 -20.33,-3.97 -24.19,-16.54 -4.96,-16.16 -4.88,-39.68 -15.11,-47.64"
+      android:pathData="M67.45,67.3c-10.94,3.78 -35.76,22.85 -44.37,39.55 -4.78,9.27 -4.63,19.78 5.07,24.63 11.89,5.94 20.33,-3.97 24.19,-16.54 4.97,-16.16 4.88,-39.68 15.11,-47.64M124.55,67.3c10.94,3.78 35.76,22.85 44.37,39.55 4.78,9.27 4.63,19.78 -5.07,24.63 -11.89,5.94 -20.33,-3.97 -24.19,-16.54 -4.97,-16.16 -4.88,-39.68 -15.11,-47.64"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"

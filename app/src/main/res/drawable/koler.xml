@@ -4,35 +4,7 @@
     android:viewportWidth="192"
     android:viewportHeight="192">
   <path
-      android:pathData="m164.66,121.78a254.71,254.72 0,0 1,-25.88 -4.56,12.78 12.78,0 0,0 -12.32,2.38c-2.18,2.22 -8.46,8.42 -14.99,14.83a117.86,117.87 0,0 1,-53.82 -53.86c6.37,-6.53 12.32,-12.78 14.75,-14.95a12.78,12.78 0,0 0,2.38 -12.32,254.05 254.07,0 0,1 -4.56,-25.92 8.22,8.22 0,0 0,-9.45 -7.27h-35a6.16,6.16 0,0 0,-5.59 5.63c-2.26,31.59 15.36,65.41 18.94,71.9v0.25l0.49,0.94a145.6,145.6 0,0 0,53.41 53.41l1.81,1.03c8.22,4.36 40.88,20.79 71.4,18.53a6.16,6.16 0,0 0,5.71 -5.59v-34.96a8.22,8.22 0,0 0,-7.27 -9.45z"
-      android:strokeLineJoin="round"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M70.13,27.29L27.12,70.3"
-      android:strokeLineJoin="round"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M65.78,94.67L48.44,112"
-      android:strokeLineJoin="round"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M97.25,126.18L79.99,143.48"
-      android:strokeLineJoin="round"
-      android:strokeWidth="8"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="M164.66,121.78L121.65,164.8"
+      android:pathData="M164.66,121.78a254.71,254.72 0,0 1,-25.88 -4.56,12.78 12.78,0 0,0 -12.32,2.38c-2.18,2.22 -8.46,8.42 -14.99,14.83A117.86,117.87 0,0 1,57.64 80.57c6.37,-6.53 12.32,-12.78 14.75,-14.95a12.78,12.78 0,0 0,2.38 -12.32,254.05 254.07,0 0,1 -4.56,-25.92 8.22,8.22 0,0 0,-9.45 -7.27H25.76a6.16,6.16 0,0 0,-5.59 5.63c-2.26,31.59 15.36,65.41 18.94,71.9v0.25l0.49,0.94a145.6,145.6 0,0 0,53.41 53.41l1.81,1.03c8.22,4.36 40.88,20.79 71.4,18.53a6.16,6.16 0,0 0,5.71 -5.59V131.23a8.22,8.22 0,0 0,-7.27 -9.45zM70.13,27.29 L27.12,70.3M65.78,94.67 L48.44,112M97.25,126.18l-17.25,17.3M164.66,121.78l-43.01,43.02"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"

@@ -27,14 +27,14 @@
   <path
       android:pathData="M79.98,68.73c-1.74,6.42 -10.91,36.78 -21.22,93.57"
       android:strokeLineJoin="round"
-      android:strokeWidth="7.999478699999999"
+      android:strokeWidth="7.999"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M67.96,65.39c-4.92,16.77 -6.72,22.2 -7.29,27.33 -1.22,10.9 9.59,13.2 9.59,13.2M91.87,71.36c-3.17,12.18 -5.45,19.97 -7.34,26.64 -2.95,10.4 -14.27,7.92 -14.27,7.92"
+      android:pathData="M67.96,65.39c-4.92,16.77 -6.72,22.2 -7.29,27.33 -1.22,10.9 9.59,13.2 9.59,13.2m21.6,-34.55c-3.17,12.18 -5.45,19.97 -7.34,26.64 -2.95,10.4 -14.27,7.92 -14.27,7.92"
       android:strokeLineJoin="round"
-      android:strokeWidth="7.999478699999999"
+      android:strokeWidth="7.999"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
