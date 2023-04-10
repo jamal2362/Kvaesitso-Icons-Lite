@@ -1,19 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- General -->
-
-    <!-- Application name -->
-    <string name="app_name">Kvæsitso Icons Lite</string>
-
-    <!-- Search bar -->
-
-    <!-- The hint shown in the search bar, with %d as the number of icons. -->
-    <!-- We don't currently provide a singular form, because it's always guaranteed that there will be atleast 2 or more icons. -->
-    <string name="search_bar_hint">Search %d Icons</string>
-
-    <!-- Icon Information Popup window -->
-
+    <!-- App name -->
+    <string name="app_name" translatable="false">Kvæsitso Icons Lite</string>
     <!-- Drawable prefix -->
     <string name="drawable_prefix">Drawable:</string>
     <!-- Package prefix -->
     <string name="package_prefix">Package:</string>
+    <!-- Search bar -->
+    <string name="search_bar_hint">Search %d Icons</string>
 </resources>

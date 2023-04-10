@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Kvæsitso Icons Lite</string>
-    <string name="search_bar_hint">%d Symbole durchsuchen</string>
+    <!-- Drawable prefix -->
     <string name="drawable_prefix">Drawable:</string>
+    <!-- Package prefix -->
     <string name="package_prefix">Paketname:</string>
+    <!-- Search bar -->
+    <string name="search_bar_hint">%d Symbole durchsuchen</string>
 </resources>
