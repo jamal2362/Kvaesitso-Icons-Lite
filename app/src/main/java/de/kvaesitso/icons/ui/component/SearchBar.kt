@@ -31,7 +31,7 @@ import de.kvaesitso.icons.R
 fun SearchBar(
     value: String,
     onValueChange: (String) -> Unit,
-    iconCount: Int
+    iconCount: Int,
 ) {
     val focusRequester = remember { FocusRequester() }
     val focusManager = LocalFocusManager.current
