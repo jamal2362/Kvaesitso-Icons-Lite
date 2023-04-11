@@ -24,7 +24,6 @@
 	<icon drawable="@drawable/kiwi_browser_dev" package="com.kiwibrowser.browser.dev" name="Kiwi Browser Dev" />
 	<icon drawable="@drawable/klarna" package="com.myklarnamobile" name="Klarna" />
 	<icon drawable="@drawable/lg_thinq" package="com.lgeha.nuts" name="LG ThinQ" />
-	<icon drawable="@drawable/magisk" package="com.topjohnwu.magisk" name="Magisk" />
 	<icon drawable="@drawable/mein_o2" package="canvasm.myo2" name="Mein o2" />
 	<icon drawable="@drawable/messenger" package="com.facebook.orca" name="Messenger" />
 	<icon drawable="@drawable/messenger" package="com.facebook.mlite" name="Messenger" />
