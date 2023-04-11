@@ -21,7 +21,6 @@ import de.kvaesitso.icons.viewmodel.LawniconsViewModel
 @OptIn(ExperimentalFoundationApi::class)
 fun Home(
     lawniconsViewModel: LawniconsViewModel = hiltViewModel(),
-    navController: NavController,
 ) {
     val iconInfoModel by lawniconsViewModel.iconInfoModel.collectAsState()
     var searchTerm by remember { mutableStateOf(value = "") }
@@ -34,7 +33,6 @@ fun Home(
                 SearchBar(
                     value = searchTerm,
                     iconCount = it.iconCount,
-                    navController = navController,
                     onValueChange = { newValue ->
                         searchTerm = newValue
                         lawniconsViewModel.searchIcons(newValue)

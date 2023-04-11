@@ -31,8 +31,7 @@ import de.kvaesitso.icons.R
 fun SearchBar(
     value: String,
     onValueChange: (String) -> Unit,
-    iconCount: Int,
-    navController: NavController?,
+    iconCount: Int
 ) {
     val focusRequester = remember { FocusRequester() }
     val focusManager = LocalFocusManager.current
@@ -85,5 +84,5 @@ fun SearchBar(
 @Preview(showBackground = true)
 @Composable
 fun SearchBarPreview() {
-    SearchBar(value = "Example", onValueChange = {}, iconCount = 100, navController = null)
+    SearchBar(value = "Example", onValueChange = {}, iconCount = 100)
 }
