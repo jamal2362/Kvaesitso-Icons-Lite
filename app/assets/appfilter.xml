@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  
+  <!--  Kvaesitso Icons -->
+  <item component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" drawable="amazon_prime_video" name="Amazon Prime Video"/>
+  <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping" name="Amazon Shopping"/>
+  <item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping" name="Amazon Shopping"/>
+  <item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.twa.CustomTWALauncherActivity}" drawable="amazon_shopping" name="Amazon Shopping"/>
+  <item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy" name="Authy"/>
+  <item component="ComponentInfo{/}" drawable="autodoc" name="Autodoc"/>
+  <item component="ComponentInfo{/}" drawable="bild" name="BILD"/>
+  <item component="ComponentInfo{/}" drawable="check24" name="Check24"/>
+  <item component="ComponentInfo{de.comdirect.app/de.comdirect.core.module.splash.SplashActivity}" drawable="comdirect" name="comdirect"/>
+  <item component="ComponentInfo{com.comdirect.phototan/com.vasco.crontosign.phototan.MainActivity}" drawable="comdirect_phototan" name="comdirect photoTAN"/>
+  <item component="ComponentInfo{com.comdirect.phototan/de.comdirect.phototan.activity.start.StartActivity}" drawable="comdirect_phototan" name="comdirect photoTAN"/>
+  <item component="ComponentInfo{de.rki.covpass.app/de.rki.covpass.app.main.MainActivity}" drawable="covpass" name="CovPass"/>
+  <item component="ComponentInfo{com.deutschebahn.app.android/db.vendo.android.vendigator.view.main.MainActivity}" drawable="db_navigator" name="Next DB Navigator"/>
+  <item component="ComponentInfo{de.hafas.android.db/de.bahn.dbtickets.ui.DBNavLauncherActivity}" drawable="db_navigator" name="DB Navigator"/>
+  <item component="ComponentInfo{de.hafas.android.db/de.hafas.j2me.Hafas}" drawable="db_navigator" name="DB Navigator"/>
+  <item component="ComponentInfo{de.hafas.android.db/de.hafas.main.HafasApp}" drawable="db_navigator" name="DB Navigator"/>
+  <item component="ComponentInfo{de.dhl.paket/de.dhl.packet.MainActivity}" drawable="dhl" name="Post &amp; DHL"/>
+  <item component="ComponentInfo{de.dhl.paket/de.dhl.packet.MigrationScreenActivity}" drawable="dhl" name="Post &amp; DHL"/>
+  <item component="ComponentInfo{de.dhl.paket/de.its_berlin.dhlpaket.base.MainActivity}" drawable="dhl" name="Post &amp; DHL"/>
+  <item component="ComponentInfo{de.dhl.paket/de.its_berlin.dhlpaket.base.main.MainActivity}" drawable="dhl" name="Post &amp; DHL"/>
+  <item component="ComponentInfo{de.dhl.paket/de.its_berlin.dhlpaket.ui.MainActivity}" drawable="dhl" name="Post &amp; DHL"/>
+  <item component="ComponentInfo{com.discord/com.discord.MainActivity}" drawable="discord" name="Discord"/>
+  <item component="ComponentInfo{com.discord/com.discord.screens.ScreenAux$Main}" drawable="discord" name="Discord"/>
+  <item component="ComponentInfo{com.discord/com.discord.MainActivity}" drawable="discord" name="Discord"/>
+  <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord" name="Discord"/>
+  <item component="ComponentInfo{com.discord/com.discord.app.AppActivityMain}" drawable="discord" name="Discord"/>
+  <item component="ComponentInfo{com.discord/com.discord.app.AppActivity}" drawable="discord" name="Discord"/>
+  <item component="ComponentInfo{com.discord/com.discord.main.MainActivity}" drawable="discord" name="Discord"/>
+  <item component="ComponentInfo{com.discord/com.discord.screens.ScreenAux$Main}" drawable="discord" name="Discord"/>
+  <item component="ComponentInfo{com.discord/com.discord.screens.ScreenLoading}" drawable="discord" name="Discord"/>
+  <item component="ComponentInfo{com.discord/com.discord.screens.ScreenMain}" drawable="discord" name="Discord"/>
+  <item component="ComponentInfo{com.discord/com.discord.screens.loading.ScreenLoading}" drawable="discord" name="Discord"/>
+  <item component="ComponentInfo{com.discovery.dplay/com.discovery.plus.presentation.activities.LaunchActivity}" drawable="discoveryplus" name="discovery+" />
+  <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.activity.media.CameraLauncherActivity}" drawable="facebook" name="Facebook" />
+  <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" name="Facebook" />
+  <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.orca.ThreadListLauncherActivity}" drawable="facebook" name="Facebook" />
+  <item component="ComponentInfo{com.facebook.lite/com.dzebb.handler.a}" drawable="facebook" name="Facebook" />
+  <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="facebook" name="Facebook" />
+  <item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}" drawable="google_lens" name="Google Lens" />
+  <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="google_opinion_rewards" name="Google Opinion Rewards" />
+  <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" drawable="google_opinion_rewards" name="Google Opinion Rewards" />
+  <item component="ComponentInfo{com.instagram.android/.activity.MainTabActivity}" drawable="instagram" name="Instagram" />
+  <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" name="Instagram" />
+  <item component="ComponentInfo{com.instagram.android/com.instagram.android.iconone}" drawable="instagram" name="Instagram" />
+  <item component="ComponentInfo{com.instagram.android/com.instagram.mainactivity.LauncherActivity}" drawable="instagram" name="Instagram" />
+  <item component="ComponentInfo{com.instagram.android/com.OM7753.gold.icon1}" drawable="instagram" name="Instagram" />
+  <item component="ComponentInfo{com.instagram.lite/com.facebook.lite.MainActivity}" drawable="instagram" name="Instagram" />
+  <item component="ComponentInfo{com.instagram.lite/com.instagram.lite.IgLiteActivity}" drawable="instagram" name="Instagram" />
+  <item component="ComponentInfo{/}" drawable="kick" name="Kick"/>
+  <item component="ComponentInfo{com.kiwibrowser.browser/com.google.android.apps.chrome.Main}" drawable="kiwi_browser" name="Kiwi Browser" />
+  <item component="ComponentInfo{com.kiwibrowser.browser.dev/com.google.android.apps.chrome.Main}" drawable="kiwi_browser_dev" name="Kiwi Browser Dev" />
+  <item component="ComponentInfo{com.myklarnamobile/com.klarna.MainActivity}" drawable="klarna" name="Klarna" />
+  <item component="ComponentInfo{com.myklarnamobile/com.klarna.SplashActivity}" drawable="klarna" name="Klarna" />
+  <item component="ComponentInfo{com.myklarnamobile/com.myklarnamobile.MainActivity}" drawable="klarna" name="Klarna" />
+  <item component="ComponentInfo{com.lgeha.nuts/.MainActivity}" drawable="lg_thinq" name="LG ThinQ" />
+  <item component="ComponentInfo{/}" drawable="mein_o2" name="Mein o2"/>
+  <item component="ComponentInfo{com.facebook.mlite/com.facebook.lite.MainActivity}" drawable="messenger" name="Messenger" />
+  <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="messenger" name="Messenger" />
+  <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.share.view.ShareActivity}" drawable="messenger" name="Messenger" />
+  <item component="ComponentInfo{com.facebook.mlite/.coreui.view.MainActivity}" drawable="messenger" name="Messenger" />
+  <item component="ComponentInfo{com.facebook.orca/.auth.StartScreenActivity}" drawable="messenger" name="Messenger" />
+  <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="messenger" name="Messenger" />
+  <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.MainActivity}" drawable="messenger" name="Messenger" />
+  <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="microsoft_excel" name="Microsoft Excel" />
+  <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity launchParam=MultiScreenLaunchParams { mDisplayId=0 mFlags=0 }}" drawable="microsoft_excel" name="Microsoft Excel" />
+  <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.excel.excelMainActivity}" drawable="microsoft_excel" name="Microsoft Excel" />
+  <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.activities.HubActivity}" drawable="microsoft_outlook" name="Microsoft Outlook" />
+  <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="microsoft_outlook" name="Microsoft Outlook" />
+  <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivityEdu}" drawable="microsoft_outlook" name="Microsoft Outlook" />
+  <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainCalendarActivity}" drawable="microsoft_outlook" name="Microsoft Outlook" />
+  <item component="ComponentInfo{/}" drawable="my_citroen" name="My Citroën"/>
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.app.activity.MainActivity}" drawable="mydealz" name="mydealz" />
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivity}" drawable="mydealz" name="mydealz" />
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivityV2}" drawable="mydealz" name="mydealz" />
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.tippingcanoe.launchpad.Launcher}" drawable="mydealz" name="mydealz" />
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.app.activity.MainActivity}" drawable="mydealz" name="mydealz" />
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivity}" drawable="mydealz" name="mydealz" />
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivityV2}" drawable="mydealz" name="mydealz" />
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.tippingcanoe.launchpad.Launcher}" drawable="mydealz" name="mydealz" />
+  <item component="ComponentInfo{de.shortdev.nearby_sharing_windows/crc642138225d2d50e687.MainActivity}" drawable="nearbysharing" name="Nearby Sharing Windows 10 / 11"/>
+  <item component="ComponentInfo{com.netflix.mediaclient/com.battlenet.showguide.SplashActivity}" drawable="netflix" name="Netflix" />
+  <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" name="Netflix" />
+  <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewActivity}" drawable="netflix" name="Netflix" />
+  <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewTabletActivity}" drawable="netflix" name="Netflix" />
+  <item component="ComponentInfo{de.lineas.lit.ntv.android/de.lineas.lit.ntv.android.MainTabActivity}" drawable="ntv" name="ntv Nachrichten" />
+  <item component="ComponentInfo{de.lineas.lit.ntv.android/de.lineas.lit.ntv.android.SplashScreenActivity}" drawable="ntv" name="ntv Nachrichten" />
+  <item component="ComponentInfo{de.lineas.lit.ntv.android/de.lineas.ntv.tablet.MainActivity}" drawable="ntv" name="ntv Nachrichten" />
+  <item component="ComponentInfo{de.lineas.lit.ntv.android/de.lineas.lit.ntv.android.MainTabActivity}" drawable="ntv" name="ntv Nachrichten" />
+  <item component="ComponentInfo{de.lineas.lit.ntv.android/de.lineas.lit.ntv.android.SplashScreenActivity}" drawable="ntv" name="ntv Nachrichten" />
+  <item component="ComponentInfo{de.lineas.lit.ntv.android/de.lineas.ntv.tablet.MainActivity}" drawable="ntv" name="ntv Nachrichten" />
+  <item component="ComponentInfo{/}" drawable="otto" name="OTTO"/>
+  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.GridLauncherActivity}" drawable="paypal" name="PayPal" />
+  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.HubActivity}" drawable="paypal" name="PayPal" />
+  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.IntroActivity}" drawable="paypal" name="PayPal" />
+  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.p2p}" drawable="paypal" name="PayPal" />
+  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal" name="PayPal" />
+  <item component="ComponentInfo{com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.LauncherActivity}" drawable="personal_safety" name="Personal Safety" />
+  <item component="ComponentInfo{tv.pluto.android/tv.pluto.android.EntryPoint}" drawable="plutotv" name="Pluto TV" />
+  <item component="ComponentInfo{com.maxmpz.equalizer/com.maxmpz.equalizer.standard_adaptive}" drawable="poweramp_equalizer" name="Poweramp Equalizer" />
+  <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="protonmail" name="Proton Mail" />
+  <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.MailboxActivity}" drawable="protonmail" name="Proton Mail" />
+  <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity}" drawable="protonmail" name="Proton Mail" />
+  <item component="ComponentInfo{de.sipgate.app.satellite/de.sipgate.app.satellite.startup.RoutingActivity}" drawable="satellite" name="Satellite" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.EgStkExLauncherActivity2}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.mtk.StkLauncherActivityI}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.mtk.StkLauncherActivityII}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.OplusStkLauncherActivity1}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.OplusStkLauncherActivity2}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.OplusStkLauncherActivity3}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.OppoStkLauncherActivity1}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.OppoStkLauncherActivity2}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.OppoStkLauncherActivity3}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.OppoStkSelection}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.PrimaryStkMain}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.SimListActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkAliasLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkCDMALauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkCustomLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkInputActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity0}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity1}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2Default}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2ForCU}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity3}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity_COMM}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityCOMM}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityDefault}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk_stklauncheractivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity_DualSim}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityForCU}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityI}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityII}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity launchParam=MultiScreenLaunchParams { mDisplayId=0 mFlags=0 }}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityOther1}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityOther2}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivitySingleCard}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivitySingle}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityV}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherDSActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherListActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkListActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain1}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain2}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMainActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMainAlias}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMainLauncher}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMenuActivity2}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMenuActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkRootLauncherActivity1}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkRootLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkSettings}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkSIMCardChooseLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkToolsActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.SubStkLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.UsatLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.UtkExLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.UtkLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.yulong.android_cp.utk_utklauncheractivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.EgStkExLauncherActivity2}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.mtk.StkLauncherActivityI}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.mtk.StkLauncherActivityII}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.OplusStkLauncherActivity1}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.OplusStkLauncherActivity2}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.OplusStkLauncherActivity3}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.OppoStkLauncherActivity1}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.OppoStkLauncherActivity2}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.OppoStkLauncherActivity3}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.OppoStkSelection}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.PrimaryStkMain}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.SimListActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkAliasLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkCDMALauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkCustomLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkInputActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity0}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity1}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2Default}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2ForCU}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity3}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity_COMM}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityCOMM}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityDefault}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk_stklauncheractivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity_DualSim}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityForCU}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityI}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityII}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity launchParam=MultiScreenLaunchParams { mDisplayId=0 mFlags=0 }}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityOther1}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityOther2}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivitySingleCard}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivitySingle}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityV}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherDSActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherListActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkListActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain1}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain2}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMainActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMainAlias}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMainLauncher}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMenuActivity2}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMenuActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkRootLauncherActivity1}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkRootLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkSettings}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkSIMCardChooseLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.StkToolsActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.SubStkLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.UsatLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.UtkExLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.android.stk.UtkLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{com.android.stk/com.yulong.android_cp.utk_utklauncheractivity}" drawable="sim_toolkit" name="SIM Toolkit" />
+  <item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" name="Solid Explorer" />
+  <item component="ComponentInfo{com.surfshark.vpnclient.android/com.surfshark.vpnclient.android.StartActivity}" drawable="surfshark" name="Surfshark" />
+  <item component="ComponentInfo{mobi.lockdown.weather/mobi.lockdown.weather.activity.SplashActivity}" drawable="today_weather" name="Today Weather" />
+  <item component="ComponentInfo{com.tuya.smart/com.smart.ThingSplashActivity}" drawable="tuya" name="Tuya Smart" />
+  <item component="ComponentInfo{/}" drawable="waiputv" name="Waipu TV" />
+  <item component="ComponentInfo{com.windscribe.vpn/com.windscribe.mobile.splash.SplashActivity}" drawable="windscribe" name="Windscribe" />
+</resources>
