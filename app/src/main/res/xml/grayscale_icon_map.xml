@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<icons>
+  <icon drawable="@drawable/amazon_prime_video" package="com.amazon.avod.thirdpartyclient" name="Amazon Prime Video"/>
+  <icon drawable="@drawable/amazon_shopping" package="com.amazon.mShop.android.shopping" name="Amazon Shopping"/>
+  <icon drawable="@drawable/authy" package="com.authy.authy" name="Authy"/>
+  <icon drawable="@drawable/autodoc" package="de.autodoc.gmbh" name="AUTODOC"/>
+  <icon drawable="@drawable/bild" package="com.netbiscuits.bild.android" name="Bild"/>
+  <icon drawable="@drawable/check24" package="de.check24.check24" name="CHECK24"/>
+  <icon drawable="@drawable/comdirect" package="de.comdirect.app" name="comdirect"/>
+  <icon drawable="@drawable/comdirect_phototan" package="com.comdirect.phototan" name="comdirect photoTAN"/>
+  <icon drawable="@drawable/covpass" package="de.rki.covpass.app" name="CovPass"/>
+  <icon drawable="@drawable/db_navigator" package="com.deutschebahn.app.android" name="Next DB Navigator"/>
+  <icon drawable="@drawable/dhl" package="de.dhl.paket" name="Post &amp; DHL"/>
+  <icon drawable="@drawable/discord" package="com.discord" name="Discord"/>
+  <icon drawable="@drawable/discoveryplus" package="com.discovery.dplay" name="discovery+"/>
+  <icon drawable="@drawable/facebook" package="com.facebook.katana" name="Facebook"/>
+  <icon drawable="@drawable/facebook" package="com.facebook.lite" name="Facebook"/>
+  <icon drawable="@drawable/google_lens" package="com.google.ar.lens" name="Google Lens"/>
+  <icon drawable="@drawable/google_opinion_rewards" package="com.google.android.apps.paidtasks" name="Google Opinion Rewards"/>
+  <icon drawable="@drawable/instagram" package="com.instagram.android" name="Instagram"/>
+  <icon drawable="@drawable/instagram" package="com.instagram.lite" name="Instagram"/>
+  <icon drawable="@drawable/kick" package="com.kick.mobile" name="Kick"/>
+  <icon drawable="@drawable/kiwi_browser" package="com.kiwibrowser.browser" name="Kiwi Browser"/>
+  <icon drawable="@drawable/kiwi_browser_dev" package="com.kiwibrowser.browser.dev" name="Kiwi Browser Dev"/>
+  <icon drawable="@drawable/klarna" package="com.myklarnamobile" name="Klarna"/>
+  <icon drawable="@drawable/lg_thinq" package="com.lgeha.nuts" name="LG ThinQ"/>
+  <icon drawable="@drawable/mein_o2" package="canvasm.myo2" name="Mein o2"/>
+  <icon drawable="@drawable/messenger" package="com.facebook.mlite" name="Messenger"/>
+  <icon drawable="@drawable/messenger" package="com.facebook.orca" name="Messenger"/>
+  <icon drawable="@drawable/microsoft_excel" package="com.microsoft.office.excel" name="Microsoft Excel"/>
+  <icon drawable="@drawable/microsoft_outlook" package="com.microsoft.office.outlook" name="Microsoft Outlook"/>
+  <icon drawable="@drawable/my_citroen" package="com.psa.mym.mycitroen" name="My Citroën"/>
+  <icon drawable="@drawable/mydealz" package="com.tippingcanoe.mydealz" name="mydealz"/>
+  <icon drawable="@drawable/nearbysharing" package="de.shortdev.nearby_sharing_windows" name="Nearby Sharing Windows 10 / 11"/>
+  <icon drawable="@drawable/netflix" package="com.netflix.mediaclient" name="Netflix"/>
+  <icon drawable="@drawable/ntv" package="de.lineas.lit.ntv.android" name="ntv Nachrichten"/>
+  <icon drawable="@drawable/otto" package="de.cellular.ottohybrid" name="OTTO"/>
+  <icon drawable="@drawable/paypal" package="com.paypal.android.p2pmobile" name="PayPal"/>
+  <icon drawable="@drawable/personal_safety" package="com.google.android.apps.safetyhub" name="Personal Safety"/>
+  <icon drawable="@drawable/plutotv" package="tv.pluto.android" name="Pluto TV"/>
+  <icon drawable="@drawable/poweramp_equalizer" package="com.maxmpz.equalizer" name="Poweramp Equalizer"/>
+  <icon drawable="@drawable/protonmail" package="ch.protonmail.android" name="Proton Mail"/>
+  <icon drawable="@drawable/satellite" package="de.sipgate.app.satellite" name="Satellite"/>
+  <icon drawable="@drawable/sim_toolkit" package="com.android.stk" name="SIM Toolkit"/>
+  <icon drawable="@drawable/sim_toolkit" package="com.android.stk2" name="SIM Toolkit"/>
+  <icon drawable="@drawable/solid_explorer" package="pl.solidexplorer2" name="Solid Explorer"/>
+  <icon drawable="@drawable/surfshark" package="com.surfshark.vpnclient.android" name="Surfshark"/>
+  <icon drawable="@drawable/today_weather" package="mobi.lockdown.weather" name="Today Weather"/>
+  <icon drawable="@drawable/tuya" package="com.tuya.smart" name="Tuya Smart"/>
+  <icon drawable="@drawable/waiputv" package="de.exaring.waipu" name="Waipu TV"/>
+  <icon drawable="@drawable/windscribe" package="com.windscribe.vpn" name="Windscribe"/>
+</icons>
