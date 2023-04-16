@@ -32,7 +32,6 @@
   <icon drawable="@drawable/microsoft_outlook" package="com.microsoft.office.outlook" name="Microsoft Outlook"/>
   <icon drawable="@drawable/my_citroen" package="com.psa.mym.mycitroen" name="My Citroën"/>
   <icon drawable="@drawable/mydealz" package="com.tippingcanoe.mydealz" name="mydealz"/>
-  <icon drawable="@drawable/nearbysharing" package="de.shortdev.nearby_sharing_windows" name="Nearby Sharing Windows 10 / 11"/>
   <icon drawable="@drawable/netflix" package="com.netflix.mediaclient" name="Netflix"/>
   <icon drawable="@drawable/ntv" package="de.lineas.lit.ntv.android" name="ntv Nachrichten"/>
   <icon drawable="@drawable/otto" package="de.cellular.ottohybrid" name="OTTO"/>
