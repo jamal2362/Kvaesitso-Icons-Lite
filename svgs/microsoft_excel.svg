@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="none" viewBox="0 0 192 192"><path d="M56 30c0-1.662 1.338-3 3-3h108c1.662 0 3 1.338 3 3v132c0 1.662-1.338 3-3 3H59c-1.662 0-3-1.338-3-3v-32m0-68V30" style="fill-opacity:.402658;stroke:#000;stroke-width:12;stroke-linecap:round;paint-order:stroke fill markers"/><rect width="68" height="68" x="-58.1" y="40.3" rx="3" style="fill:none;fill-opacity:.402658;stroke:#000;stroke-width:12;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" transform="translate(80.1 21.7)"/><path d="M138.79 164.725V27.175M56.175 58.792H170M170 96H90.328M169 133.21H56.175M44.5 82l23 28m0-28-23 28" style="fill:none;stroke:#000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192" height="192" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="matrix(.70654 0 0 .70654 3580.4 548.77)">
+  <g transform="matrix(.92596 0 0 .92596 -179.52 -54.231)">
+   <clipPath>
+    <use width="100%" height="100%" overflow="visible" xlink:href="#SVGID_1_-4"/>
+   </clipPath>
+  </g>
+ </g>
+ <g stroke-width=".069876">
+  <path d="m116.47 133.21v-37.209h-63.256v67.598c0 3.7668 3.0536 6.8204 6.8204 6.8204h109.15c3.7668 0 6.8204-3.0536 6.8204-6.8204v-30.389z" fill-opacity=".74731"/>
+  <path d="m116.47 58.791v-37.209h-56.435c-3.7668 0-6.8204 3.0536-6.8204 6.8204v30.389h63.256v37.209h59.535v-37.209z" fill-opacity=".44803"/>
+  <path d="m53.21 58.791h63.256v37.209h-63.256z" fill-opacity=".59857"/>
+  <path d="m22.821 55.069c-3.7668 0-6.8208 3.054-6.8208 6.8208v68.219c0 3.7668 3.054 6.8203 6.8208 6.8203h68.219c3.7668 0 6.8203-3.0535 6.8203-6.8203v-68.219c0-3.7668-3.0535-6.8208-6.8203-6.8208zm15.505 18.758h10.575l7.174 14.139c0.66236 1.3432 1.1159 2.3403 1.3616 2.9989h0.0932a55.808 55.808 0 0 1 1.4886-3.1215l7.6684-14.01h9.708l-13.481 21.98 13.823 22.355h-10.329l-8.2865-15.52a13.018 13.018 0 0 1-0.98927-2.0723h-0.12319a9.8147 9.8147 0 0 1-0.95984 2.0091l-8.5323 15.583h-10.393l14.348-22.232z"/>
+  <path d="m169.18 21.582h-52.714v37.209h59.535v-30.389c0-3.7668-3.0536-6.8204-6.8204-6.8204z" fill-opacity=".30287"/>
+  <path d="m116.47 96h59.535v37.209h-59.535z" fill-opacity=".59677"/>
+ </g>
+</svg>
