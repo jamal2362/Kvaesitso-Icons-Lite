@@ -34,7 +34,6 @@
   <icon drawable="@drawable/paypal" package="com.paypal.android.p2pmobile" name="PayPal"/>
   <icon drawable="@drawable/personal_safety" package="com.google.android.apps.safetyhub" name="Personal Safety"/>
   <icon drawable="@drawable/plutotv" package="tv.pluto.android" name="Pluto TV"/>
-  <icon drawable="@drawable/poweramp_equalizer" package="com.maxmpz.equalizer" name="Poweramp Equalizer"/>
   <icon drawable="@drawable/protonmail" package="ch.protonmail.android" name="Proton Mail"/>
   <icon drawable="@drawable/satellite" package="de.sipgate.app.satellite" name="Satellite"/>
   <icon drawable="@drawable/surfshark" package="com.surfshark.vpnclient.android" name="Surfshark"/>
