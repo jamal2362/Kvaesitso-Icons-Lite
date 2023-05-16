@@ -31,6 +31,7 @@
   <icon drawable="@drawable/netflix" package="com.netflix.mediaclient" name="Netflix"/>
   <icon drawable="@drawable/ntv" package="de.lineas.lit.ntv.android" name="ntv Nachrichten"/>
   <icon drawable="@drawable/paypal" package="com.paypal.android.p2pmobile" name="PayPal"/>
+  <icon drawable="@drawable/plex" package="com.plexapp.android" name="Plex"/>
   <icon drawable="@drawable/plutotv" package="tv.pluto.android" name="Pluto TV"/>
   <icon drawable="@drawable/protonmail" package="ch.protonmail.android" name="Proton Mail"/>
   <icon drawable="@drawable/satellite" package="de.sipgate.app.satellite" name="Satellite"/>
