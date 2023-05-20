@@ -34,6 +34,7 @@
   <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.orca.ThreadListLauncherActivity}" drawable="facebook" name="Facebook" />
   <item component="ComponentInfo{com.facebook.lite/com.dzebb.handler.a}" drawable="facebook" name="Facebook" />
   <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="facebook" name="Facebook" />
+  <item component="ComponentInfo{xyz.goodcloud.glinet/xyz.goodcloud.glinet.MainActivity}" drawable="glinet"/>
   <item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}" drawable="google_lens" name="Google Lens" />
   <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="google_opinion_rewards" name="Google Opinion Rewards" />
   <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" drawable="google_opinion_rewards" name="Google Opinion Rewards" />

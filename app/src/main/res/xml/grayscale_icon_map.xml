@@ -13,6 +13,7 @@
   <icon drawable="@drawable/discoveryplus" package="com.discovery.dplay" name="discovery+"/>
   <icon drawable="@drawable/facebook" package="com.facebook.katana" name="Facebook"/>
   <icon drawable="@drawable/facebook" package="com.facebook.lite" name="Facebook"/>
+  <icon drawable="@drawable/glinet" package="xyz.goodcloud.glinet" name="GL.iNet"/>
   <icon drawable="@drawable/google_lens" package="com.google.ar.lens" name="Google Lens"/>
   <icon drawable="@drawable/google_opinion_rewards" package="com.google.android.apps.paidtasks" name="Google Opinion Rewards"/>
   <icon drawable="@drawable/instagram" package="com.instagram.android" name="Instagram"/>
