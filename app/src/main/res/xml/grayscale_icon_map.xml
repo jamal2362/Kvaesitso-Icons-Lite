@@ -29,6 +29,7 @@
   <icon drawable="@drawable/satellite" package="de.sipgate.app.satellite" name="Satellite"/>
   <icon drawable="@drawable/sim_toolkit" package="com.android.stk" name="SIM Toolkit"/>
   <icon drawable="@drawable/sim_toolkit" package="com.android.stk2" name="SIM Toolkit"/>
+  <icon drawable="@drawable/speedtest" package="org.zwanoo.android.speedtest" name="Speedtest"/>
   <icon drawable="@drawable/televizo" package="com.ottplay.ottplay" name="Televizo"/>
   <icon drawable="@drawable/today_weather" package="mobi.lockdown.weather" name="Today Weather"/>
   <icon drawable="@drawable/tomtom_go" package="com.tomtom.gplay.navapp" name="TomTom GO"/>
