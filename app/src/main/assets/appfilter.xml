@@ -14,9 +14,6 @@
   <item component="ComponentInfo{com.comdirect.phototan/com.vasco.crontosign.phototan.MainActivity}" drawable="comdirect_phototan" name="comdirect photoTAN"/>
   <item component="ComponentInfo{com.comdirect.phototan/de.comdirect.phototan.activity.start.StartActivity}" drawable="comdirect_phototan" name="comdirect photoTAN"/>
   <item component="ComponentInfo{com.deutschebahn.app.android/db.vendo.android.vendigator.view.main.MainActivity}" drawable="db_navigator" name="Next DB Navigator"/>
-  <item component="ComponentInfo{de.hafas.android.db/de.bahn.dbtickets.ui.DBNavLauncherActivity}" drawable="db_navigator" name="DB Navigator"/>
-  <item component="ComponentInfo{de.hafas.android.db/de.hafas.j2me.Hafas}" drawable="db_navigator" name="DB Navigator"/>
-  <item component="ComponentInfo{de.hafas.android.db/de.hafas.main.HafasApp}" drawable="db_navigator" name="DB Navigator"/>
   <item component="ComponentInfo{com.discord/com.discord.MainActivity}" drawable="discord" name="Discord"/>
   <item component="ComponentInfo{com.discord/com.discord.screens.ScreenAux$Main}" drawable="discord" name="Discord"/>
   <item component="ComponentInfo{com.discord/com.discord.MainActivity}" drawable="discord" name="Discord"/>
@@ -29,11 +26,6 @@
   <item component="ComponentInfo{com.discord/com.discord.screens.ScreenMain}" drawable="discord" name="Discord"/>
   <item component="ComponentInfo{com.discord/com.discord.screens.loading.ScreenLoading}" drawable="discord" name="Discord"/>
   <item component="ComponentInfo{com.discovery.dplay/com.discovery.plus.presentation.activities.LaunchActivity}" drawable="discoveryplus" name="discovery+" />
-  <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.activity.media.CameraLauncherActivity}" drawable="facebook" name="Facebook" />
-  <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" name="Facebook" />
-  <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.orca.ThreadListLauncherActivity}" drawable="facebook" name="Facebook" />
-  <item component="ComponentInfo{com.facebook.lite/com.dzebb.handler.a}" drawable="facebook" name="Facebook" />
-  <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="facebook" name="Facebook" />
   <item component="ComponentInfo{xyz.goodcloud.glinet/xyz.goodcloud.glinet.MainActivity}" drawable="glinet"/>
   <item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}" drawable="google_lens" name="Google Lens" />
   <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="google_opinion_rewards" name="Google Opinion Rewards" />
@@ -79,12 +71,6 @@
   <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" name="Netflix" />
   <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewActivity}" drawable="netflix" name="Netflix" />
   <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewTabletActivity}" drawable="netflix" name="Netflix" />
-  <item component="ComponentInfo{de.lineas.lit.ntv.android/de.lineas.lit.ntv.android.MainTabActivity}" drawable="ntv" name="ntv Nachrichten" />
-  <item component="ComponentInfo{de.lineas.lit.ntv.android/de.lineas.lit.ntv.android.SplashScreenActivity}" drawable="ntv" name="ntv Nachrichten" />
-  <item component="ComponentInfo{de.lineas.lit.ntv.android/de.lineas.ntv.tablet.MainActivity}" drawable="ntv" name="ntv Nachrichten" />
-  <item component="ComponentInfo{de.lineas.lit.ntv.android/de.lineas.lit.ntv.android.MainTabActivity}" drawable="ntv" name="ntv Nachrichten" />
-  <item component="ComponentInfo{de.lineas.lit.ntv.android/de.lineas.lit.ntv.android.SplashScreenActivity}" drawable="ntv" name="ntv Nachrichten" />
-  <item component="ComponentInfo{de.lineas.lit.ntv.android/de.lineas.ntv.tablet.MainActivity}" drawable="ntv" name="ntv Nachrichten" />
   <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.GridLauncherActivity}" drawable="paypal" name="PayPal" />
   <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.HubActivity}" drawable="paypal" name="PayPal" />
   <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.IntroActivity}" drawable="paypal" name="PayPal" />
