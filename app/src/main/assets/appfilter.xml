@@ -13,20 +13,7 @@
   <item component="ComponentInfo{de.comdirect.app/de.comdirect.core.module.splash.SplashActivity}" drawable="comdirect" name="comdirect"/>
   <item component="ComponentInfo{com.comdirect.phototan/com.vasco.crontosign.phototan.MainActivity}" drawable="comdirect_phototan" name="comdirect photoTAN"/>
   <item component="ComponentInfo{com.comdirect.phototan/de.comdirect.phototan.activity.start.StartActivity}" drawable="comdirect_phototan" name="comdirect photoTAN"/>
-  <item component="ComponentInfo{com.deutschebahn.app.android/db.vendo.android.vendigator.view.main.MainActivity}" drawable="db_navigator" name="Next DB Navigator"/>
-  <item component="ComponentInfo{com.discord/com.discord.MainActivity}" drawable="discord" name="Discord"/>
-  <item component="ComponentInfo{com.discord/com.discord.screens.ScreenAux$Main}" drawable="discord" name="Discord"/>
-  <item component="ComponentInfo{com.discord/com.discord.MainActivity}" drawable="discord" name="Discord"/>
-  <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord" name="Discord"/>
-  <item component="ComponentInfo{com.discord/com.discord.app.AppActivityMain}" drawable="discord" name="Discord"/>
-  <item component="ComponentInfo{com.discord/com.discord.app.AppActivity}" drawable="discord" name="Discord"/>
-  <item component="ComponentInfo{com.discord/com.discord.main.MainActivity}" drawable="discord" name="Discord"/>
-  <item component="ComponentInfo{com.discord/com.discord.screens.ScreenAux$Main}" drawable="discord" name="Discord"/>
-  <item component="ComponentInfo{com.discord/com.discord.screens.ScreenLoading}" drawable="discord" name="Discord"/>
-  <item component="ComponentInfo{com.discord/com.discord.screens.ScreenMain}" drawable="discord" name="Discord"/>
-  <item component="ComponentInfo{com.discord/com.discord.screens.loading.ScreenLoading}" drawable="discord" name="Discord"/>
-  <item component="ComponentInfo{com.discovery.dplay/com.discovery.plus.presentation.activities.LaunchActivity}" drawable="discoveryplus" name="discovery+" />
-  <item component="ComponentInfo{xyz.goodcloud.glinet/xyz.goodcloud.glinet.MainActivity}" drawable="glinet"/>
+  <item component="ComponentInfo{xyz.goodcloud.glinet/xyz.goodcloud.glinet.MainActivity}" drawable="glinet" name="GL.iNet"/>
   <item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}" drawable="google_lens" name="Google Lens" />
   <item component="ComponentInfo{com.instagram.android/.activity.MainTabActivity}" drawable="instagram" name="Instagram" />
   <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" name="Instagram" />
@@ -35,7 +22,6 @@
   <item component="ComponentInfo{com.instagram.android/com.OM7753.gold.icon1}" drawable="instagram" name="Instagram" />
   <item component="ComponentInfo{com.instagram.lite/com.facebook.lite.MainActivity}" drawable="instagram" name="Instagram" />
   <item component="ComponentInfo{com.instagram.lite/com.instagram.lite.IgLiteActivity}" drawable="instagram" name="Instagram" />
-  <item component="ComponentInfo{com.kick.mobile/com.kick.mobile.MainActivity}" drawable="kick" name="Kick"/>
   <item component="ComponentInfo{com.kiwibrowser.browser/com.google.android.apps.chrome.Main}" drawable="kiwi_browser" name="Kiwi Browser" />
   <item component="ComponentInfo{com.myklarnamobile/com.klarna.MainActivity}" drawable="klarna" name="Klarna" />
   <item component="ComponentInfo{com.myklarnamobile/com.klarna.SplashActivity}" drawable="klarna" name="Klarna" />
@@ -65,10 +51,6 @@
   <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivity}" drawable="mydealz" name="mydealz" />
   <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivityV2}" drawable="mydealz" name="mydealz" />
   <item component="ComponentInfo{com.tippingcanoe.mydealz/com.tippingcanoe.launchpad.Launcher}" drawable="mydealz" name="mydealz" />
-  <item component="ComponentInfo{com.netflix.mediaclient/com.battlenet.showguide.SplashActivity}" drawable="netflix" name="Netflix" />
-  <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" name="Netflix" />
-  <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewActivity}" drawable="netflix" name="Netflix" />
-  <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewTabletActivity}" drawable="netflix" name="Netflix" />
   <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.GridLauncherActivity}" drawable="paypal" name="PayPal" />
   <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.HubActivity}" drawable="paypal" name="PayPal" />
   <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.IntroActivity}" drawable="paypal" name="PayPal" />
@@ -85,11 +67,8 @@
   <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity}" drawable="protonmail" name="Proton Mail" />
   <item component="ComponentInfo{de.sipgate.app.satellite/de.sipgate.app.satellite.startup.RoutingActivity}" drawable="satellite" name="Satellite" />
   <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim_toolkit" name="SIM Toolkit"/>
-  <item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" name="Solid Explorer" />
-  <item component="ComponentInfo{com.surfshark.vpnclient.android/com.surfshark.vpnclient.android.StartActivity}" drawable="surfshark" name="Surfshark" />
-  <item component="ComponentInfo{com.ottplay.ottplay/com.ottplay.ottplay.StartActivity}" drawable="televizo"/>
+  <item component="ComponentInfo{com.ottplay.ottplay/com.ottplay.ottplay.StartActivity}" drawable="televizo" name="Televizo"/>
   <item component="ComponentInfo{mobi.lockdown.weather/mobi.lockdown.weather.activity.SplashActivity}" drawable="today_weather" name="Today Weather" />
-  <item component="ComponentInfo{com.tomtom.gplay.navapp/com.tomtom.mobilenavapp.MobileNavAppActivity}" drawable="tomtom_go"/>
+  <item component="ComponentInfo{com.tomtom.gplay.navapp/com.tomtom.mobilenavapp.MobileNavAppActivity}" drawable="tomtom_go" name="TomTom GO"/>
   <item component="ComponentInfo{com.tuya.smart/com.smart.ThingSplashActivity}" drawable="tuya" name="Tuya Smart" />
-  <item component="ComponentInfo{de.exaring.waipu/de.exaring.waipu.ui.start.StartUpActivity}" drawable="waiputv" name="Waipu TV" />
 </resources>
