@@ -12,7 +12,6 @@
   <icon drawable="@drawable/discoveryplus" package="com.discovery.dplay" name="discovery+"/>
   <icon drawable="@drawable/glinet" package="xyz.goodcloud.glinet" name="GL.iNet"/>
   <icon drawable="@drawable/google_lens" package="com.google.ar.lens" name="Google Lens"/>
-  <icon drawable="@drawable/google_opinion_rewards" package="com.google.android.apps.paidtasks" name="Google Opinion Rewards"/>
   <icon drawable="@drawable/instagram" package="com.instagram.android" name="Instagram"/>
   <icon drawable="@drawable/instagram" package="com.instagram.lite" name="Instagram"/>
   <icon drawable="@drawable/kick" package="com.kick.mobile" name="Kick"/>
@@ -40,5 +39,4 @@
   <icon drawable="@drawable/tomtom_go" package="com.tomtom.gplay.navapp" name="TomTom GO"/>
   <icon drawable="@drawable/tuya" package="com.tuya.smart" name="Tuya Smart"/>
   <icon drawable="@drawable/waiputv" package="de.exaring.waipu" name="Waipu TV"/>
-  <icon drawable="@drawable/windscribe" package="com.windscribe.vpn" name="Windscribe"/>
 </icons>
