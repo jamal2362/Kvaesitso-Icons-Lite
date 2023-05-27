@@ -14,8 +14,8 @@ android {
         applicationId 'de.kvaesitso.icons.lite'
         minSdkVersion 26
         targetSdkVersion 33
-        versionCode 21
-        versionName '2.1.0'
+        versionCode 22
+        versionName '2.2.0'
         resConfigs 'en', 'de'
         setProperty('archivesBaseName', 'Kvaesitso-Icons-Lite_' + versionName)
     }
