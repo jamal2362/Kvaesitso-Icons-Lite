@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <resources>
-  
   <!--  Kvaesitso Icons -->
   <item component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" drawable="amazon_prime_video" name="Amazon Prime Video"/>
   <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping" name="Amazon Shopping"/>
@@ -15,51 +13,53 @@
   <item component="ComponentInfo{com.comdirect.phototan/de.comdirect.phototan.activity.start.StartActivity}" drawable="comdirect_phototan" name="comdirect photoTAN"/>
   <item component="ComponentInfo{xyz.goodcloud.glinet/xyz.goodcloud.glinet.MainActivity}" drawable="glinet" name="GL.iNet"/>
   <item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}" drawable="google_lens" name="Google Lens" />
-  <item component="ComponentInfo{com.instagram.android/.activity.MainTabActivity}" drawable="instagram" name="Instagram" />
-  <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" name="Instagram" />
+  <item component="ComponentInfo{com.hanseaticbank.banking/com.hanseaticbank.banking.MainActivity}" drawable="hanseatic_bank_mobile" name="Hanseatic Bank Mobile"/>
+  <item component="ComponentInfo{com.hanseaticbank.secure/com.netcetera.tpmw.core.app.presentation.launch.launcher.view.LauncherActivity}" drawable="hanseatic_bank_secure" name="Hanseatic Bank Secure"/>
+  <item component="ComponentInfo{com.instagram.android/.activity.MainTabActivity}" drawable="instagram" name="Instagram"/>
+  <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" name="Instagram"/>
   <item component="ComponentInfo{com.instagram.android/com.instagram.android.iconone}" drawable="instagram" name="Instagram" />
-  <item component="ComponentInfo{com.instagram.android/com.instagram.mainactivity.LauncherActivity}" drawable="instagram" name="Instagram" />
-  <item component="ComponentInfo{com.instagram.android/com.OM7753.gold.icon1}" drawable="instagram" name="Instagram" />
-  <item component="ComponentInfo{com.instagram.lite/com.facebook.lite.MainActivity}" drawable="instagram" name="Instagram" />
-  <item component="ComponentInfo{com.instagram.lite/com.instagram.lite.IgLiteActivity}" drawable="instagram" name="Instagram" />
-  <item component="ComponentInfo{com.myklarnamobile/com.klarna.MainActivity}" drawable="klarna" name="Klarna" />
-  <item component="ComponentInfo{com.myklarnamobile/com.klarna.SplashActivity}" drawable="klarna" name="Klarna" />
-  <item component="ComponentInfo{com.myklarnamobile/com.myklarnamobile.MainActivity}" drawable="klarna" name="Klarna" />
-  <item component="ComponentInfo{com.lgeha.nuts/.MainActivity}" drawable="lg_thinq" name="LG ThinQ" />
+  <item component="ComponentInfo{com.instagram.android/com.instagram.mainactivity.LauncherActivity}" drawable="instagram" name="Instagram"/>
+  <item component="ComponentInfo{com.instagram.android/com.OM7753.gold.icon1}" drawable="instagram" name="Instagram"/>
+  <item component="ComponentInfo{com.instagram.lite/com.facebook.lite.MainActivity}" drawable="instagram" name="Instagram"/>
+  <item component="ComponentInfo{com.instagram.lite/com.instagram.lite.IgLiteActivity}" drawable="instagram" name="Instagram"/>
+  <item component="ComponentInfo{com.myklarnamobile/com.klarna.MainActivity}" drawable="klarna" name="Klarna"/>
+  <item component="ComponentInfo{com.myklarnamobile/com.klarna.SplashActivity}" drawable="klarna" name="Klarna"/>
+  <item component="ComponentInfo{com.myklarnamobile/com.myklarnamobile.MainActivity}" drawable="klarna" name="Klarna"/>
+  <item component="ComponentInfo{com.lgeha.nuts/.MainActivity}" drawable="lg_thinq" name="LG ThinQ"/>
   <item component="ComponentInfo{canvasm.myo2/canvasm.myo2.SplashActivity}" drawable="mein_o2" name="Mein o2"/>
-  <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="microsoft_excel" name="Microsoft Excel" />
-  <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity launchParam=MultiScreenLaunchParams { mDisplayId=0 mFlags=0 }}" drawable="microsoft_excel" name="Microsoft Excel" />
-  <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.excel.excelMainActivity}" drawable="microsoft_excel" name="Microsoft Excel" />
-  <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.activities.HubActivity}" drawable="microsoft_outlook" name="Microsoft Outlook" />
-  <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="microsoft_outlook" name="Microsoft Outlook" />
-  <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivityEdu}" drawable="microsoft_outlook" name="Microsoft Outlook" />
-  <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainCalendarActivity}" drawable="microsoft_outlook" name="Microsoft Outlook" />
+  <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="microsoft_excel" name="Microsoft Excel"/>
+  <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity launchParam=MultiScreenLaunchParams { mDisplayId=0 mFlags=0 }}" drawable="microsoft_excel" name="Microsoft Excel"/>
+  <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.excel.excelMainActivity}" drawable="microsoft_excel" name="Microsoft Excel"/>
+  <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.activities.HubActivity}" drawable="microsoft_outlook" name="Microsoft Outlook"/>
+  <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="microsoft_outlook" name="Microsoft Outlook"/>
+  <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivityEdu}" drawable="microsoft_outlook" name="Microsoft Outlook"/>
+  <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainCalendarActivity}" drawable="microsoft_outlook" name="Microsoft Outlook"/>
   <item component="ComponentInfo{com.psa.mym.mycitroen/com.psa.mym.activity.SplashscreenActivity}" drawable="my_citroen" name="My Citroën"/>
-  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.app.activity.MainActivity}" drawable="mydealz" name="mydealz" />
-  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivity}" drawable="mydealz" name="mydealz" />
-  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivityV2}" drawable="mydealz" name="mydealz" />
-  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.tippingcanoe.launchpad.Launcher}" drawable="mydealz" name="mydealz" />
-  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.app.activity.MainActivity}" drawable="mydealz" name="mydealz" />
-  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivity}" drawable="mydealz" name="mydealz" />
-  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivityV2}" drawable="mydealz" name="mydealz" />
-  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.tippingcanoe.launchpad.Launcher}" drawable="mydealz" name="mydealz" />
-  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.GridLauncherActivity}" drawable="paypal" name="PayPal" />
-  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.HubActivity}" drawable="paypal" name="PayPal" />
-  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.IntroActivity}" drawable="paypal" name="PayPal" />
-  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.p2p}" drawable="paypal" name="PayPal" />
-  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal" name="PayPal" />
-  <item component="ComponentInfo{com.plexapp.android/com.plexapp.android.activity.MainActivity}" drawable="plex" name="Plex" />
-  <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.HomeActivity}" drawable="plex" name="Plex" />
-  <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.mobile.PickUserActivity}" drawable="plex" name="Plex" />
-  <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.MyPlexActivity}" drawable="plex" name="Plex" />
-  <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="plex" name="Plex" />
-  <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="protonmail" name="Proton Mail" />
-  <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.MailboxActivity}" drawable="protonmail" name="Proton Mail" />
-  <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity}" drawable="protonmail" name="Proton Mail" />
-  <item component="ComponentInfo{de.sipgate.app.satellite/de.sipgate.app.satellite.startup.RoutingActivity}" drawable="satellite" name="Satellite" />
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.app.activity.MainActivity}" drawable="mydealz" name="mydealz"/>
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivity}" drawable="mydealz" name="mydealz"/>
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivityV2}" drawable="mydealz" name="mydealz"/>
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.tippingcanoe.launchpad.Launcher}" drawable="mydealz" name="mydealz"/>
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.app.activity.MainActivity}" drawable="mydealz" name="mydealz"/>
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivity}" drawable="mydealz" name="mydealz"/>
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivityV2}" drawable="mydealz" name="mydealz"/>
+  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.tippingcanoe.launchpad.Launcher}" drawable="mydealz" name="mydealz"/>
+  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.GridLauncherActivity}" drawable="paypal" name="PayPal"/>
+  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.HubActivity}" drawable="paypal" name="PayPal"/>
+  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.IntroActivity}" drawable="paypal" name="PayPal"/>
+  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.p2p}" drawable="paypal" name="PayPal"/>
+  <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal" name="PayPal"/>
+  <item component="ComponentInfo{com.plexapp.android/com.plexapp.android.activity.MainActivity}" drawable="plex" name="Plex"/>
+  <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.HomeActivity}" drawable="plex" name="Plex"/>
+  <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.mobile.PickUserActivity}" drawable="plex" name="Plex"/>
+  <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.MyPlexActivity}" drawable="plex" name="Plex"/>
+  <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="plex" name="Plex"/>
+  <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="protonmail" name="Proton Mail"/>
+  <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.MailboxActivity}" drawable="protonmail" name="Proton Mail"/>
+  <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity}" drawable="protonmail" name="Proton Mail"/>
+  <item component="ComponentInfo{de.sipgate.app.satellite/de.sipgate.app.satellite.startup.RoutingActivity}" drawable="satellite" name="Satellite"/>
   <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim_toolkit" name="SIM Toolkit"/>
   <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity}" drawable="speedtest" name="Speedtest"/>
-  <item component="ComponentInfo{mobi.lockdown.weather/mobi.lockdown.weather.activity.SplashActivity}" drawable="today_weather" name="Today Weather" />
+  <item component="ComponentInfo{mobi.lockdown.weather/mobi.lockdown.weather.activity.SplashActivity}" drawable="today_weather" name="Today Weather"/>
   <item component="ComponentInfo{com.tomtom.gplay.navapp/com.tomtom.mobilenavapp.MobileNavAppActivity}" drawable="tomtom_go" name="TomTom GO"/>
-  <item component="ComponentInfo{com.tuya.smart/com.smart.ThingSplashActivity}" drawable="tuya" name="Tuya Smart" />
+  <item component="ComponentInfo{com.tuya.smart/com.smart.ThingSplashActivity}" drawable="tuya" name="Tuya Smart"/>
 </resources>
