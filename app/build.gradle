@@ -7,13 +7,12 @@ plugins {
 
 android {
     namespace 'de.kvaesitso.icons.lite'
-    compileSdkVersion 33
-    buildToolsVersion '33.0.0'
+    compileSdk 34
 
     defaultConfig {
         applicationId 'de.kvaesitso.icons.lite'
-        minSdkVersion 26
-        targetSdkVersion 33
+        minSdk 26
+        targetSdk 34
         versionCode 26
         versionName '2.6.0'
         resConfigs 'en', 'de'
@@ -45,7 +44,7 @@ android {
     }
 
     composeOptions {
-        kotlinCompilerExtensionVersion = '1.4.7'
+        kotlinCompilerExtensionVersion = '1.4.8'
     }
 
     kotlinOptions {
@@ -64,11 +63,11 @@ dependencies {
     debugImplementation 'androidx.compose.ui:ui-tooling'
 
     // Google Stuff //
-    implementation 'com.google.accompanist:accompanist-systemuicontroller:0.30.1'
-    implementation 'com.google.accompanist:accompanist-navigation-animation:0.30.1'
+    implementation 'com.google.accompanist:accompanist-systemuicontroller:0.32.0'
+    implementation 'com.google.accompanist:accompanist-navigation-animation:0.32.0'
 
     // Dependencies Injection //
-    kapt 'com.google.dagger:hilt-android-compiler:2.45'
-    implementation 'com.google.dagger:hilt-android:2.45'
+    kapt 'com.google.dagger:hilt-android-compiler:2.47'
+    implementation 'com.google.dagger:hilt-android:2.47'
     implementation 'androidx.hilt:hilt-navigation-compose:1.0.0'
 }
