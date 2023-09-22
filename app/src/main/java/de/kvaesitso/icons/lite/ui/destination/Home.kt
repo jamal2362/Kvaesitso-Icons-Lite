@@ -11,7 +11,6 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.hilt.navigation.compose.hiltViewModel
-import androidx.navigation.NavController
 import de.kvaesitso.icons.lite.ui.component.IconPreviewGrid
 import de.kvaesitso.icons.lite.ui.component.SearchBar
 import de.kvaesitso.icons.lite.ui.component.SearchBarBase
@@ -26,7 +25,7 @@ fun Home(
     var searchTerm by remember { mutableStateOf(value = "") }
     Crossfade(
         targetState = iconInfoModel != null,
-        modifier = Modifier.statusBarsPadding(),
+        modifier = Modifier.statusBarsPadding(), label = "",
     ) { targetState ->
         if (targetState) {
             iconInfoModel?.let {
