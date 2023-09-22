@@ -24,7 +24,6 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import androidx.navigation.NavController
 import de.kvaesitso.icons.lite.R
 
 @Composable
@@ -66,7 +65,7 @@ fun SearchBar(
                     .onFocusChanged { focused = it.isFocused },
             )
         }
-        Crossfade(targetState = focused) {
+        Crossfade(targetState = focused, label = "") {
             if (it) {
                 ClickableIcon(
                     imageVector = Icons.Rounded.Clear,

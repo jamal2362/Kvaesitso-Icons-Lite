@@ -19,7 +19,7 @@ import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import kotlin.math.ln
 
-private val LightColors = lightColorScheme(
+private val lightColors = lightColorScheme(
     primary = md_theme_light_primary,
     onPrimary = md_theme_light_onPrimary,
     primaryContainer = md_theme_light_primaryContainer,
@@ -49,7 +49,7 @@ private val LightColors = lightColorScheme(
     surfaceTint = md_theme_light_surfaceTint,
 )
 
-private val DarkColors = darkColorScheme(
+private val darkColors = darkColorScheme(
     primary = md_theme_dark_primary,
     onPrimary = md_theme_dark_onPrimary,
     primaryContainer = md_theme_dark_primaryContainer,
@@ -88,7 +88,7 @@ fun LawniconsTheme(
     val colorScheme = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S) {
         if (darkTheme) dynamicDarkColorScheme(context) else dynamicLightColorScheme(context)
     } else {
-        if (darkTheme) DarkColors else LightColors
+        if (darkTheme) darkColors else lightColors
     }
 
     MaterialTheme(
