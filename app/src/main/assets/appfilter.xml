@@ -18,9 +18,9 @@
 
  <!-- Excel -->
  <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="microsoft_excel" name="Excel"/>
- 
- <!-- Outlook -->
- <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="microsoft_outlook" name="Outlook"/>
+
+ <!-- FUPS -->
+ <item component="ComponentInfo{com.lydians.fups/com.lydians.MainActivity}" drawable="fups" name="FUPS"/>
 
  <!-- glinet -->
  <item component="ComponentInfo{xyz.goodcloud.glinet/xyz.goodcloud.glinet.MainActivity}" drawable="glinet" name="GL.iNet"/>
@@ -52,6 +52,9 @@
 
  <!-- mydealz -->
  <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivity}" drawable="mydealz" name="mydealz"/>
+
+ <!-- Outlook -->
+ <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="microsoft_outlook" name="Outlook"/>
 
  <!-- photoTAN -->
  <item component="ComponentInfo{com.comdirect.phototan/de.comdirect.phototan.activity.start.StartActivity}" drawable="comdirect_phototan" name="photoTAN"/>
