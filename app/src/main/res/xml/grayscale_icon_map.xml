@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <icons>
   <icon drawable="@drawable/autodoc" package="de.autodoc.gmbh" name="AUTODOC"/>
+  <icon drawable="@drawable/benefits" package="de.cooperatebenefits.app" name="benefits"/>
   <icon drawable="@drawable/comdirect" package="de.comdirect.app" name="comdirect"/>
   <icon drawable="@drawable/comdirect_phototan" package="com.comdirect.phototan" name="comdirect photoTAN"/>
   <icon drawable="@drawable/glinet" package="xyz.goodcloud.glinet" name="GL.iNet"/>
   <icon drawable="@drawable/hanseatic_bank_mobile" package="com.hanseaticbank.banking" name="Hanseatic Bank Mobile"/>
   <icon drawable="@drawable/microsoft_excel" package="com.microsoft.office.excel" name="Excel"/>
   <icon drawable="@drawable/microsoft_outlook" package="com.microsoft.office.outlook" name="Outlook"/>
+  <icon drawable="@drawable/mi_fitness" package="com.xiaomi.wearable" name="Mi Fitness"/>
   <icon drawable="@drawable/my_citroen" package="com.psa.mym.mycitroen" name="My Citroën"/>
+  <icon drawable="@drawable/primetime" package="com.u3known.primetime" name="PrimeTime"/>
   <icon drawable="@drawable/protonmail" package="ch.protonmail.android" name="Proton Mail"/>
   <icon drawable="@drawable/ps_fine_tune" package="com.tpvision.TPVfinetune" name="PS Fine Tune"/>
   <icon drawable="@drawable/sim_toolkit" package="com.android.stk" name="SIM Toolkit"/>
   <icon drawable="@drawable/sim_toolkit" package="com.android.stk2" name="SIM Toolkit"/>
+  <icon drawable="@drawable/sound" package="com.philips.playfi" name="Sound"/>
   <icon drawable="@drawable/tiktok" package="com.zhiliaoapp.musically" name="TikTok"/>
   <icon drawable="@drawable/tuya" package="com.tuya.smart" name="Tuya Smart"/>
 </icons>

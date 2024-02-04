@@ -4,6 +4,9 @@
  <!-- AutoDoc -->
  <item component="ComponentInfo{de.autodoc.gmbh/de.autodoc.gmbh.ui.activity.SplashActivity}" drawable="autodoc" name="AUTODOC"/>
 
+ <!-- benefits -->
+ <item component="ComponentInfo{de.corporatebenefits.app/de.corporatebenefits.app.SetupActivity}" drawable="benefits" name="benefits"/>
+
  <!-- comdirect -->
  <item component="ComponentInfo{de.comdirect.app/de.comdirect.core.module.splash.SplashActivity}" drawable="comdirect" name="comdirect"/>
 
@@ -20,6 +23,9 @@
  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim_toolkit" name="SIM Toolkit"/>
  <item component="ComponentInfo{com.android.stk/com.android.stk2.StkMain}" drawable="sim_toolkit" name="SIM Toolkit 2"/>
 
+ <!-- Mi Fitness -->
+ <item component="ComponentInfo{com.xiaomi.wearable/com.xiaomi.fitness.login.SplashActivity}" drawable="mi_fitness" name="Mi Fitness"/>
+
  <!-- My Citroën -->
  <item component="ComponentInfo{com.psa.mym.mycitroen/com.psa.mym.activity.SplashscreenActivity}" drawable="my_citroen" name="My Citroën"/>
 
@@ -32,8 +38,14 @@
  <!-- Proton Mail -->
  <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity}" drawable="protonmail" name="Proton Mail"/>
 
+ <!-- PrimeTime -->
+ <item component="ComponentInfo{com.u3known.primetime/com.u3known.primetime.MainActivity}" drawable="primetime" name="PrimeTime"/>
+
  <!-- PS Fine Tune -->
  <item component="ComponentInfo{com.tpvision.TPVfinetune/com.tpvision.TPVfinetune.Activitys.Welcome}" drawable="ps_fine_tune" name="PS Fine Tune"/>
+
+ <!-- Sound -->
+ <item component="ComponentInfo{com.philips.playfi/com.phorus.playfi.MainMenuActivity}" drawable="sound" name="Sound"/>
 
  <!-- TikTok -->
  <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" name="TikTok"/>
