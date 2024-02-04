@@ -19,9 +19,6 @@
  <!-- Excel -->
  <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="microsoft_excel" name="Excel"/>
 
- <!-- FUPS -->
- <item component="ComponentInfo{com.lydians.fups/com.lydians.MainActivity}" drawable="fups" name="FUPS"/>
-
  <!-- glinet -->
  <item component="ComponentInfo{xyz.goodcloud.glinet/xyz.goodcloud.glinet.MainActivity}" drawable="glinet" name="GL.iNet"/>
 
