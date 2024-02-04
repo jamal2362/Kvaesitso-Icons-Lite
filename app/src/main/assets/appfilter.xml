@@ -10,9 +10,6 @@
  <!-- AutoDoc -->
  <item component="ComponentInfo{de.autodoc.gmbh/de.autodoc.gmbh.ui.activity.SplashActivity}" drawable="autodoc" name="AUTODOC"/>
 
- <!-- BILD -->
- <item component="ComponentInfo{com.netbiscuits.bild.android/de.bild.android.app.splash.SplashActivity}" drawable="bild" name="BILD"/>
-
  <!-- comdirect -->
  <item component="ComponentInfo{de.comdirect.app/de.comdirect.core.module.splash.SplashActivity}" drawable="comdirect" name="comdirect"/>
 
@@ -55,9 +52,6 @@
 
  <!-- photoTAN -->
  <item component="ComponentInfo{com.comdirect.phototan/de.comdirect.phototan.activity.start.StartActivity}" drawable="comdirect_phototan" name="photoTAN"/>
-
- <!-- Prime Video -->
- <item component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" drawable="amazon_prime_video" name="Prime Video"/>
 
  <!-- Proton Mail -->
  <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity}" drawable="protonmail" name="Proton Mail"/>
