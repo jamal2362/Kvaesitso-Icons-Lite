@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <icons>
-  <icon drawable="@drawable/amazon_shopping" package="com.amazon.mShop.android.shopping" name="Amazon Shopping"/>
-  <icon drawable="@drawable/authy" package="com.authy.authy" name="Authy"/>
   <icon drawable="@drawable/autodoc" package="de.autodoc.gmbh" name="AUTODOC"/>
   <icon drawable="@drawable/comdirect" package="de.comdirect.app" name="comdirect"/>
   <icon drawable="@drawable/comdirect_phototan" package="com.comdirect.phototan" name="comdirect photoTAN"/>
   <icon drawable="@drawable/glinet" package="xyz.goodcloud.glinet" name="GL.iNet"/>
   <icon drawable="@drawable/hanseatic_bank_mobile" package="com.hanseaticbank.banking" name="Hanseatic Bank Mobile"/>
-  <icon drawable="@drawable/kick" package="com.kick.mobile" name="Kick"/>
-  <icon drawable="@drawable/klarna" package="com.myklarnamobile" name="Klarna"/>
   <icon drawable="@drawable/lg_thinq" package="com.lgeha.nuts" name="LG ThinQ"/>
   <icon drawable="@drawable/mein_o2" package="canvasm.myo2" name="Mein o2"/>
   <icon drawable="@drawable/microsoft_excel" package="com.microsoft.office.excel" name="Excel"/>

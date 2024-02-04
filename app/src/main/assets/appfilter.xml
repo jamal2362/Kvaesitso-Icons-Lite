@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
  <!-- Kvaesitso Icons -->
- <!-- Amazon Shopping -->
- <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping" name="Amazon Shopping"/>
-
- <!-- Authy -->
- <item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy" name="Authy"/>
-
  <!-- AutoDoc -->
  <item component="ComponentInfo{de.autodoc.gmbh/de.autodoc.gmbh.ui.activity.SplashActivity}" drawable="autodoc" name="AUTODOC"/>
 
@@ -25,12 +19,6 @@
  <!-- Info Dienste -->
  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim_toolkit" name="SIM Toolkit"/>
  <item component="ComponentInfo{com.android.stk/com.android.stk2.StkMain}" drawable="sim_toolkit" name="SIM Toolkit 2"/>
-
- <!-- Kick -->
- <item component="ComponentInfo{com.kick.mobile/com.kick.mobile.MainActivity}" drawable="kick" name="Kick"/>
-
- <!-- Klarna -->
- <item component="ComponentInfo{com.myklarnamobile/com.klarna.MainActivity}" drawable="klarna" name="Klarna"/>
 
  <!-- LG ThinQ -->
  <item component="ComponentInfo{com.lgeha.nuts/com.lgeha.nuts.MainActivity}" drawable="lg_thinq" name="LG ThinQ"/>
