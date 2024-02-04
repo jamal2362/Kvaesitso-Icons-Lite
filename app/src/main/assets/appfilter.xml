@@ -41,9 +41,6 @@
  <!-- My Citroën -->
  <item component="ComponentInfo{com.psa.mym.mycitroen/com.psa.mym.activity.SplashscreenActivity}" drawable="my_citroen" name="My Citroën"/>
 
- <!-- mydealz -->
- <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivity}" drawable="mydealz" name="mydealz"/>
-
  <!-- Outlook -->
  <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="microsoft_outlook" name="Outlook"/>
 

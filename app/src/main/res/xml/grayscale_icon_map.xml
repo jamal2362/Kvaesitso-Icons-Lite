@@ -14,7 +14,6 @@
   <icon drawable="@drawable/microsoft_excel" package="com.microsoft.office.excel" name="Excel"/>
   <icon drawable="@drawable/microsoft_outlook" package="com.microsoft.office.outlook" name="Outlook"/>
   <icon drawable="@drawable/my_citroen" package="com.psa.mym.mycitroen" name="My Citroën"/>
-  <icon drawable="@drawable/mydealz" package="com.tippingcanoe.mydealz" name="mydealz"/>
   <icon drawable="@drawable/paypal" package="com.paypal.android.p2pmobile" name="PayPal"/>
   <icon drawable="@drawable/protonmail" package="ch.protonmail.android" name="Proton Mail"/>
   <icon drawable="@drawable/ps_fine_tune" package="com.tpvision.TPVfinetune" name="PS Fine Tune"/>
