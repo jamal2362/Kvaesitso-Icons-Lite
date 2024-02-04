@@ -35,9 +35,6 @@
  <!-- PS Fine Tune -->
  <item component="ComponentInfo{com.tpvision.TPVfinetune/com.tpvision.TPVfinetune.Activitys.Welcome}" drawable="ps_fine_tune" name="PS Fine Tune"/>
 
- <!-- satellite -->
- <item component="ComponentInfo{de.sipgate.app.satellite/de.sipgate.app.satellite.startup.RoutingActivity}" drawable="satellite" name="Satellite"/>
-
  <!-- TikTok -->
  <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" name="TikTok"/>
 
