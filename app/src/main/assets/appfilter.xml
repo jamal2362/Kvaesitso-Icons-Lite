@@ -26,9 +26,6 @@
  <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim_toolkit" name="SIM Toolkit"/>
  <item component="ComponentInfo{com.android.stk/com.android.stk2.StkMain}" drawable="sim_toolkit" name="SIM Toolkit 2"/>
 
- <!-- Instagram -->
- <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" name="Instagram"/>
-
  <!-- Kick -->
  <item component="ComponentInfo{com.kick.mobile/com.kick.mobile.MainActivity}" drawable="kick" name="Kick"/>
 
