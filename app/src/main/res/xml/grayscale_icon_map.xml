@@ -5,18 +5,14 @@
   <icon drawable="@drawable/comdirect_phototan" package="com.comdirect.phototan" name="comdirect photoTAN"/>
   <icon drawable="@drawable/glinet" package="xyz.goodcloud.glinet" name="GL.iNet"/>
   <icon drawable="@drawable/hanseatic_bank_mobile" package="com.hanseaticbank.banking" name="Hanseatic Bank Mobile"/>
-  <icon drawable="@drawable/lg_thinq" package="com.lgeha.nuts" name="LG ThinQ"/>
-  <icon drawable="@drawable/mein_o2" package="canvasm.myo2" name="Mein o2"/>
   <icon drawable="@drawable/microsoft_excel" package="com.microsoft.office.excel" name="Excel"/>
   <icon drawable="@drawable/microsoft_outlook" package="com.microsoft.office.outlook" name="Outlook"/>
   <icon drawable="@drawable/my_citroen" package="com.psa.mym.mycitroen" name="My Citroën"/>
-  <icon drawable="@drawable/paypal" package="com.paypal.android.p2pmobile" name="PayPal"/>
   <icon drawable="@drawable/protonmail" package="ch.protonmail.android" name="Proton Mail"/>
   <icon drawable="@drawable/ps_fine_tune" package="com.tpvision.TPVfinetune" name="PS Fine Tune"/>
   <icon drawable="@drawable/satellite" package="de.sipgate.app.satellite" name="Satellite"/>
   <icon drawable="@drawable/sim_toolkit" package="com.android.stk" name="SIM Toolkit"/>
   <icon drawable="@drawable/sim_toolkit" package="com.android.stk2" name="SIM Toolkit"/>
-  <icon drawable="@drawable/speedtest" package="org.zwanoo.android.speedtest" name="Speedtest"/>
   <icon drawable="@drawable/tiktok" package="com.zhiliaoapp.musically" name="TikTok"/>
   <icon drawable="@drawable/tomtom_go" package="com.tomtom.gplay.navapp" name="TomTom GO"/>
   <icon drawable="@drawable/tuya" package="com.tuya.smart" name="Tuya Smart"/>
