@@ -62,9 +62,6 @@
  <!-- TikTok -->
  <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" name="TikTok"/>
 
- <!-- Today Weather -->
- <item component="ComponentInfo{mobi.lockdown.weather/mobi.lockdown.weather.activity.SplashActivity}" drawable="today_weather" name="Today Weather"/>
-
  <!-- TomTom GO -->
  <item component="ComponentInfo{com.tomtom.gplay.navapp/com.tomtom.mobilenavapp.MobileNavAppActivity}" drawable="tomtom_go" name="TomTom GO"/>
 
